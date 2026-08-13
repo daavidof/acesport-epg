@@ -23,61 +23,6 @@
     <display-name>NL - Ziggo Sport 6</display-name>
     <icon src="https://iptv-epg.org/images/PR_s_DRdQGU2ryeVqnlFbz1mWkY8CHnsA8J5E1McR9hP5moOQp3Dzgl6YkNrrayKiRZR7RykJrrM83dcDh66vg6p_FZzIbnJfW1ovKcXN8uYSbPzwE7FDzw" />
   </channel>
-  <programme start="20260812000000 +0000" stop="20260812002500 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E11 — Aflevering 11
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/8Pzgqkja2-BbchqSJvqTWhTtbZUW1mHc0QPKPzow7ANhp_oxlbZDC5AVxVbdEJ6ljEEkALShhtPEKhfnMnhSlOCOIdI-Qu49rqdbQ_WQpqwJ5pP06_bXFpCRSBpmyul1ILrIFY31SWvYQfm7nqXFzXykEe1HHTVMM-10vMFtGbUHh03d5_AMElyiDn3dGxCH9nIUlSxodxmpKJl2qdkL6Cghox5kemdSCfkXgSLm_FTdr5-ALx5_FQx8I5V7ty9NjMeGLNXFx51BQkmkcPv8A61HQISnPjEm1s-G5fPCiNHPQviPuw" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
-  <programme start="20260812002500 +0000" stop="20260812004900 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E11 — Aflevering 11
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/GR1fQQNqPqi93M7g2kQsHnVUJ7lZX4sMJNwmhGq23c6XSJhi4RRtIoedZBiDaGghHvM9heDLxyimhnILzPiDR4Av02VhEmFRHOvvVaVGWLPc7SHqVgivmaMZO8piS5-wvZhYluZe8iTkIwUKcGRm7Q02yLqpRtGw8S_21eHcv690wUszz04iaGMSkpaYzW9VSFv2lqjxHlkcLLaOuVdfR6eNib0BhJhVmfIlQK8KU7ZrOjXBHQ2humNLMY0azTpMI9OXMETMclrnYIAQtuIHcaB40g_rgl0DFeJ4Uyn6VTXKl8apug" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
-  <programme start="20260812004900 +0000" stop="20260812013400 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E7 — Aflevering 7
-Een gezelschap van 4 experts bespreekt een uur lang alle hoofd- én randzaken uit de voetbalwereld.</desc>
-    <episode-num>E7</episode-num>
-    <icon src="https://iptv-epg.org/images/xB--OlqSOl7ZI77QIgVUpSs4Ch7u_ALPSr_c05Hu3zfLtXCImhJw8MOwWGlkurzQYh5wZoZr94A_ZgQh9poKCpVscj6A3Oz7IviItW81vhb-rJ6SV3LrUvzOWDLMSknYgg12zbysH7ncbmFALX7xBDdt6kW1533X4u1EccPlRtwxAlJDRFz_EXj8fbz2c5v-v_cCEdQ0674LpZwtIIWz-sG21WVPhtOqYT8DViFSbeQ0IIGAYjB174LpQW0lz-xvzyyTZP8oYri9_Be-GF0KH4IvS09sl4irCFyLSmm49nF0C6Jy_g" />
-    <title lang="nl">Voetbalpraat</title>
-  </programme>
-  <programme start="20260812013400 +0000" stop="20260812015800 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E11 — Aflevering 11
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/AtEsYj4BMYfIHzmerNS33WvE5TePDYBegW6y7aFTlO4p1kOGM92h1tXRDfSnaYTGLaTJ9wyH2TRywwhhuj5B88rGsfhpaxVgdiJbArE2hXANfH9IQF5vANyuxNf8B5UJMliT_QbGYxZlUvqUNHjb8Zex9SpnBFkXSBwjdfa1T4cug22lrxsnEzQ87jAQawhO4mQEA8RHIWhR8RsTIJD4QEBzZOSj5SeY5UUMflWEyyiXMaXMFiLyNx8sybAxSR0fQ4C0-aNrGK5l30Lq6PD3w9EAehy4pxwgLJyNelGrrQyjjTrD0w" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
-  <programme start="20260812015800 +0000" stop="20260812022100 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E11 — Aflevering 11
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/6Yrjn5QKjyZafmULC66LqSsNTDJBtKEkwli1ZL6HcNdzIegWECZJsahM50zdIDT3ZvIoRAtJVDvoF7uO-if7QTmExMSz8ZbAbgVOjooQHyCf-Nxh_kKOSk-o8APxZSU-LrOb_07x0lSKhe4DH0IS_yeU0djryHoyfYyvwc5uSTyn-GCXFksCUD7Jf0Zl-u1fuvYAPaZjNVWpc6OLiGPfxvDctKDS59I3rEOqrL-kECrQr3oIDSy7Ahh9OWWN_dn1LptoaeDKOCzMc0mcPsYKzOVnlIv7V5hzSCprqvCat4636bTEuQ" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
   <programme start="20260812022100 +0000" stop="20260812030700 +0000" channel="ESPN.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Sporttalkshow</category>
@@ -2401,15 +2346,6 @@ Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale s
     <date>2026</date>
     <desc lang="nl">De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
     <icon src="https://iptv-epg.org/images/fxGW7nw8_quA373-xpwIGtj_s5lQuABNaCH2ApdpvUHkzo-io4vX-_3RPUg28mbJpaWIBMHU7vxHC1EBfZ9NLMtuKRvUUFF_yXvU_evU_ioCYar0CYDkQRdzp2nN_g7-eKXD-ypS6CFm_9F7LFWmg5QPxIs5fjh4GxAXdXM7gtavH9v1q_SJ-OMLTk3q1XkqCWjoaoCqmx2QX0voMGVe77CK0dNs8hyPQAdnGufT9tNu5t7rbxQCGGkQnuVQCXPRsJWA77S8w8nBhDbDloxsdwQyAlUCBRwbdONb7cDh65SkYp3DDQ" />
-    <title lang="nl">ESPN Top 25 Goals</title>
-  </programme>
-  <programme start="20260812015500 +0000" stop="20260812021000 +0000" channel="ESPN2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
-    <icon src="https://iptv-epg.org/images/rU796siTV9fVwbJbJhTtEK1oyfRwnpYW4ZKs1kKM3NertKs27fZWmnykolo0ej1vscGYdLdVtikch3uwBCLU9fPi4WcDqefsnx5XQsdXue99FGbwP01LrLEj3bXsrG3mSND1VTxa8Ouiqdk2axODwnBamCP_6QaTN0N-gH8Xz61TCJuWS4NhLnvM2q4Y6I_3wsU1WUavlo2B-5MMxEecYI3800_lXx1_zVNG70CNS4wFBxL03oXDFvvKmH48IMZ5T6VfOCF03UW1A9XpkWjGK34Dz7fjxexdTK8-jn9hmTND5u4hbQ" />
     <title lang="nl">ESPN Top 25 Goals</title>
   </programme>
   <programme start="20260812021000 +0000" stop="20260812022000 +0000" channel="ESPN2.nl">
@@ -5080,45 +5016,6 @@ Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale s
     <icon src="https://iptv-epg.org/images/wgktnQFLPSRxc80NU_8s9tTyDBpGPOV_feLrXccpdhTGptNPCqyFdDBZjdM1X2IR6NSmfxgwh6atwRsUFcLt4GtJtlKMdJByrpsMx3zPmhJWjkm4Qjz5Iw-hRiCFfBjbEaU9ddoiQUS_fkbDmcmJyujN0I7JllqY3LL35LDyWGhK8rs6LT1gak0cY6aHOVUlAHGhOO2FiIKjEeteHZolshVcB4SIRj-1UoUGSyvOnS5-SwiqdWknfApZetCViXLeN40eauEGChi1JtbX-doDnbvYYx3-VAx9oyATj3HlwBmt2bns_g" />
     <title lang="nl">ESPN Vandaag</title>
   </programme>
-  <programme start="20260812013000 +0000" stop="20260812014500 +0000" channel="ESPN4.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
-    <icon src="https://iptv-epg.org/images/ACoGCTEU4vQws_1N2UpXMHS4tNHvAe-zgOlJwP2v6gT-JVNkvDU6OU5UGE53Mf4MwUIIvSZ3X4HBWVTrjqs_h5yRwwgxQRg7S2uDXH5EpzP0212qt0pn1uGqarOCSdtfLRGR3ZrtwOtKRv9FbpP3dyIbGqH2ER4Ms-O3PPdq1AOwEMnOr_xS7yNIfOSzJLoEJdz5447ebP9FmDuNwaVpC6NCR6BRjYfq7PIKJqFgamzAfHXvU3eLH2vuA6ynJO0jLGxVwV5kGs8n2AGppZKhPyloHpHG30iSLXkm8oBkBBdvCidQ1w" />
-    <title lang="nl">ESPN Top 25 Goals</title>
-  </programme>
-  <programme start="20260812014500 +0000" stop="20260812015500 +0000" channel="ESPN4.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Jong PSV - FC Volendam
-Samenvatting van de wedstrijd Jong PSV - FC Volendam uit de 1e speelronde van de Keuken Kampioen Divisie.</desc>
-    <icon src="https://iptv-epg.org/images/kYf1vZORTZ-ZAgFRhtQePXJxw9THT1WsKsXkSaSt3hFoHtLqoQwunpuH7jGPoKbMfDDOWhtmGgKPaQTDuO5VFrXOIb_cuakF00nn0MKsvk_SepcwCjfW_vp5rWvdrctaURqVK9FRU3EoSlMXEFyk6LdrfCCS3flrUYisWPcMGjg_60lAalMsYE3mFLxPU2fHn64Oagzr-wUM_XKkYNKxx_k6qkYeudD7tvswyhOH-KxaJaqnD1KT9DLBiX30_KHB6-orypb_meqSfHaa2L83rHT-zKAXJk6TEXFXJMw3nhzzFkbgxg" />
-    <title lang="nl">Dutch Eerste Divisie Soccer</title>
-  </programme>
-  <programme start="20260812015500 +0000" stop="20260812020600 +0000" channel="ESPN4.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Jong AZ - FC Eindhoven
-Samenvatting van de wedstrijd Jong AZ - FC Eindhoven uit de 1e speelronde van de Keuken Kampioen Divisie.</desc>
-    <icon src="https://iptv-epg.org/images/MeHdHwAwZYe_c7k0w7HoSAy7w8n9dSI26ZpGYT-I5vHAiHwByORsz6lQk4-ArFqRjBlDzRvDG873jztZ3XXzupM0Flxio_oDp9nlLOpYhV2tOLBkcSiRyRtMwz58tVko-YGNZEprPyUPAR5QNlnYeKCCAJ5raFcFfVmap-naaXPjyNqOc-9qEfxWy0TIKCCrAWBhfJZimcPGuzbDcm7PbzxV9AReK6OdNHHfiPLnQaMJsDcDHuAjvmnfo6sl9esewp8AyOYtF7-L2H3OFiYdL6xoCiTXsYNRruxdEJ8aTpeUog7EiA" />
-    <title lang="nl">Dutch Eerste Divisie Soccer</title>
-  </programme>
-  <programme start="20260812020600 +0000" stop="20260812035200 +0000" channel="ESPN4.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Fluminense - Independiente Rivadavia
-Verslag van de wedstrijd Fluminense - Independiente Rivadavia, gespeeld in de achtste finale van de Copa Libertadores 2026.</desc>
-    <icon src="https://iptv-epg.org/images/BOU29Ifrv3tuSG4vU6gFCxNy5QF_khb3_9AjwPKK_uC8oBsDN2cF-Y-sz6oxRYceGk_Ze0g80XDZSr8khNn1AhqPzJGqzfNF0aU0oF6Alugnai6thYdqPSpo_b9HXwM8xn1u0A1D7a4JKqR12_OIttZcK7zXwyTmm9fuQKGQCw3DbK8NUz80TVnx2KfFZjaLqphtocZDTWnpS9DzRdjxkT7kr2lKF2hGHGvZRwX8wNi5GxmkEq_j2GhDeMsP1KJnzW48_CCUpyphKZlf0ZpeXR0X929pjseLagDlzRi1hVwgUTYK2Q" />
-    <title lang="nl">Copa Libertadores</title>
-  </programme>
   <programme start="20260812035200 +0000" stop="20260812040000 +0000" channel="ESPN4.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Voetbal</category>
@@ -7294,16 +7191,6 @@ In NFL Live worden van maandag tot en met vrijdag alle ins en outs over de NFL b
     <icon src="https://iptv-epg.org/images/SP9-BbR9US72G5aa6oVQLaRkSyzqFZT1qD8sposB7gd1m_zEntVhT7Rj8kvLcAqS1yLBGTPpyeMiuEvWfUUscbmnXlRe8N8hszYiUOle9Uux26EmRXZPnpSePOKKkp2o0kWL9CS9RFqpB9rxt3mdA7y5WOaWWjeYAfUrJBTrso03gByUa1EAUYV27zrFMD88l8kn4-xaCO2YSa4QmApO_sLOnhZplYVRBzqvyDchzTLcLaRnLP3Kj4ttB_A3QLA7fHtkV0NoZA_CWsYXonJJFVPdaw0ypTP0ZZQ8JLP0QGIgyLGwqw" />
     <title lang="nl">WNBA Countdown</title>
   </programme>
-  <programme start="20260812020500 +0000" stop="20260812040000 +0000" channel="ZiggoSport.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Motorracen</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">GP van Groot-Brittannië: Race
-Verslag van de race van de MotoGP van Groot-Brittannië, gereden in Silverstone, Engeland.</desc>
-    <icon src="https://iptv-epg.org/images/_xdHu4RhTimb_6l1WkEeaeB01XtDXn-zteZ9lnrfbzyjTGAq1wNFAMo3IBBI8XBWVfwNwCrfpWVTnWc-8UII9JkAQu5CPiMGJ8fcMYvlCGSZ9EMm8FSmiyxrgUk-bZiRxFoYGPLyl6gQvfmuMg0OlZwCG4R79ExojYRU501r4mLn38rhJv9RyO29_xhkdwjXMMP0lbks3epAYehrDdYgW0MrwVRbEq458ChxN4iXUrC7F8MQrgOXlj1InoGJHAXzqFsVYfHLMcGFMCFgTCUeqol5UkEBlBT7Z-buOrHCAbsy_J6w9g" />
-    <title lang="nl">MotoGP</title>
-  </programme>
   <programme start="20260812040000 +0000" stop="20260812042500 +0000" channel="ZiggoSport.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Motorsport</category>
@@ -8880,16 +8767,6 @@ Voetbaltalkshow waarin Wytse van der Goot met vaste gasten en andere prominenten
     <episode-num>S8 E2</episode-num>
     <icon src="https://iptv-epg.org/images/qVuAGU5KpG2fiECJa-z0nqt6R4WQn-Y_sWYvxE9bmnp44TP4kwz0K5a0e6SLxe83fsZ6L4FzIrR6FnC5PG8DxXTwby2SnAG9Ubq01sU49wH6z1rdUDAINluo817SVNtwf6gMs-9cyQd5q0cU6H-XNWH05b39nqDUDOAE4ezhJsiyCN7lqnqNeQQB5gpuuGwr0jQ8B_e-p4BomE4Msixk921eS8piT31irqd5Wq3NR7mWn-oXWvEMtYYquNwBAueSx5btcDGSV5knjKRCE2i10fgS9r1_WHIeBX03Tb7qgxIMbE5Nvw" />
     <title lang="nl">Rondo</title>
-  </programme>
-  <programme start="20260812010500 +0000" stop="20260812025000 +0000" channel="ZiggoSport2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Finale: FC Barcelona - Real Madrid
-Verslag van de finale van de Spaanse Supercopa.</desc>
-    <icon src="https://iptv-epg.org/images/SX0MBY0wzFgL44YP-dO1fouCVO3SP4Gq0yTIkb-ZDZ8AA79fv97-AFo_uE8wF9zwDFhFasPCy3YxLXZYdKORIzo2h92LLyR1PcCVAkXLXkGkNBBmKob5MYBeMgJH50unEKVWhzazJg_wUgb8CmHFIBPDYXKb9IyZ2FnRPgAWFLd4VJ03eebJQ6Bdx71HZa-GFS5r3Ear3st7T-_OLnXomZdK-crrnpbiPvfYGrrJG70lhiSupJq1ObiroPVy5XIvmEtWs0f-pszRu3w2eev8eYw8S_ksEm7VDHv94LhBGE_Tr5HZZQ" />
-    <title lang="nl">Spanish Super Cup Soccer</title>
   </programme>
   <programme start="20260812025000 +0000" stop="20260812043500 +0000" channel="ZiggoSport2.nl">
     <category lang="nl">Sport</category>
@@ -10626,16 +10503,6 @@ Verslag van de wedstrijd Deportivo La Coruña - Elche, gespeeld in de Spaanse La
     <icon src="https://iptv-epg.org/images/D8pe-qlbqtInVXTwRNzM4JjVkXIfWVWqtS56DC_gOdPasz3eNjEtXf9lwTrkJPtWYHy4BqhH4_5LFxcLT0UwosQREc6utd1rHcfME108AxboQvg4CQmzEWF3PCH_96QEluI_jRGGZjcGiTXryEZqxmD1DdlkuTfZkcc5SrTpz7Y8s2zsKorDbC3NhNl6y03BRP39b9Fvw27vwKYEDZU1TsNEVc2jT7sf1HZ-rIUXtPrGnLP_IruOIztTu2gYoRZxMGyyf9YIkEE9O7Kt9PmghSGxCg7NOzcdg0xWMdykNe4BT2OiqA" />
     <title lang="nl">Spanish Primera Division Soccer</title>
   </programme>
-  <programme start="20260812010000 +0000" stop="20260812040000 +0000" channel="ZiggoSport6.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Golf</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Wyndham Championship: Dag 4
-Verslag van de vierde en laatste dag van de Wyndham Championship, gespeeld in Greensboro, North Carolina.</desc>
-    <icon src="https://iptv-epg.org/images/qOmlTDMbmRLVKE5FKd7v-VZZLq1Xvt2G0yK6ioLqknZIOf9Lkjsx8uDB4G2sjF1V3VAw1js91iWAYI7QRmSHArV9uIpsDN51keIhtxb7o5IoDJfFO6rbu0K4gzyh31vgorEppYqM21aHngNnlW-t2Q3_6JQBfMAcVlh9BeGZFLbPHGJ3mRFAapxEt9ylXJ89clxSj6CS0dxUpB4YY_Zt6ge6OLq-GVHKH6Kf5NAUt8UMVvaH7ovH8yWDWvNyibisrgtqqX6YDK2kPlvEpb6WRFeaVVuWIPzoUMF5qY58e9qoSSek_A" />
-    <title lang="nl">PGA Tour</title>
-  </programme>
   <programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="ZiggoSport6.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Golf</category>
@@ -11692,25 +11559,6 @@ Hoogtepunten van de Farmfoods Scottish Challenge, gespeeld in de HotelPlanner To
     <display-name>UK - TNT Sports 4</display-name>
     <icon src="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" />
   </channel>
-  <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Talk</category>
-    <date>2022</date>
-    <desc lang="en">S1 E5 — Episode 5
-Watch the latest episode in the Sporting Countdowns series.</desc>
-    <episode-num>S1 E5</episode-num>
-    <icon src="https://iptv-epg.org/images/3bpnh0QewsSxSxIT4u8V3ws_AuQAho2sdKRpvW4FeBxpmqYKNPXeRZKlaVI6gdiCek_2WoWt39Alat4j49O9YKfiaUgn4DB--x3WXulGmMBCp8_sF1IGY4YAFj8-sCVw4VzW5GdjY-ob_DBW_6fha8gF46QgmWK8ckcqsC6ylEbi-X5AhQROqDR0IqdhEkO8xj4FkjeyAmfpf5Kozz_m3oUmBJCSG4WqU-aUzFzj8x_EQ14DzldlCA-aigvvIFhGQbeiI9UyZ6jhAaD03GrHMG56iD1nbcHVv5y-QXfnDrSxqBhHPJSClCGo7YdEtNnsXRyCrqtV" />
-    <title lang="en">Sporting Countdowns</title>
-  </programme>
-  <programme start="20260812013000 +0000" stop="20260812023000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <date>2026</date>
-    <desc lang="en">GP Lithuania
-Watch the latest highlights of the FIM Sidecarcross World Championship.</desc>
-    <icon src="https://iptv-epg.org/images/riCPtEZeSxrYUi6O7yorXQLACK01NmrqgEZoHhw-fAkjnrw2CJgrYXa-M53hlmH5T5MGKzmNlpksFPoI27uVniKK5drz6h57LWSLdv5PQPIZdrq6A9fu542J8Dsq_KQrRuYDpFoDOqKPr2Yh2WJSjDXzL0cuvHNpcIMXjVw4VsqOx2fcp_5udj5biRzb6UDfaC-1K40HRSGDiXD_UQm5qhpue9KNY65ujGCXTpupy13zrQU_JC53PeIYagZrf_ZyHlKfaPp5zhMI8WlV6-jOQr9gVvNp-by2Ql38vcqy8dgoTlt_sc4xHToB5qHM3iepH-hC-aOe" />
-    <title lang="en">FIM World Championship SidecarCross Racing</title>
-  </programme>
   <programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="PremierSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Motorsport</category>
@@ -13000,15 +12848,6 @@ Coverage of the Swedish Speedway season.</desc>
     <icon src="https://iptv-epg.org/images/tCPghVjDfjC7QYCoBQYD8a5dHfhxtIRPXSAz-2Mh3IFT4dPrWaDfPAPHkQnUNnYxHf9FYf7qqU3TrTizM0lSNElb0V9lkAdwM723NUBxGx7VfbSsknqTbT8lt6D05MfZ1zCj_frxgGoKJdVA_JQVy5AwJ_E8Gla5MwEcNdLFxhpura-CW_jLVUITb0sB6w6w8XNWffYaoxJl6J_zrlKLX2u2hLX0Qu9C1j5ArmW2IDw5IC-zsEqyaQYvG8QZKQXon3z1pvKqxWd5IrMtnul95G_3qRkIZgAwiCbvPpAb1iL5nzlRho2uQtM3tqZr1WbquyPEjNtV" />
     <title lang="en">Swedish Elitserien Speedway</title>
   </programme>
-  <programme start="20260812000000 +0000" stop="20260812040000 +0000" channel="PremierSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <date>2026</date>
-    <desc lang="en">Super 4: Antwerp Anchors v Ghent Gladiators
-Watch all the best in T20 cricket action in the inaugural season of the EUT20 Belgium tournament, featuring English players Alex Hales, Ravi Bopara and James Vince.</desc>
-    <icon src="https://iptv-epg.org/images/NJF--vYfmo5EcHCfZWm7zmaEPXWfJi2xTWbrNhwuGdQAMmT3_cg5RqviY-HK_vP_TsYmcy7oobqhGyfevNbELv1TMi1NkiME0G_MNFx_0Aw06I6OEIis535zKEpC0-MpVTlBCPlHM6DlH-Qn443PNDVkKauZHpz3kxNph3UUJ__Q-ZurHDrEvRAQO38qZPAlnWB_y57Zrl-sMXhuZC-inS8TW8TBWo-m3v27NhXuLKp-17gAOFX1Dw-iqLNiG7tuFxb1LtE2iJjCay6fjqPy18Jw5hHnXMtvLQo12qjRO6Km-fahUivysh3EvkHoBXH06dzjtuJn" />
-    <title lang="en">EUT20 Belgium League</title>
-  </programme>
   <programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="PremierSports2.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -14164,39 +14003,6 @@ Watch the greatest players from past years talk about their careers.</desc>
 Mirassol and Flamengo go head-to-head in this Campeonato Brasileiro Série A matchup from the José Maria de Campos Maia.</desc>
     <icon src="https://iptv-epg.org/images/UAKMTmLpJT8GxxYIiPfmugAXZd_Vvk2VKBJxyltEXsyan0dpIJbcJI9b2mgfwSMcmfPV8TvaPf3ExKZjjfyCqnw-yWY5S_EpZJqMZ_pTcqHyIzbEyCJF1h4VLlPEUK-UvUIngAsONeH4d2TxHzyYmVO2TLv736JTUFTxchdf0eBPungRf2N8oWdOyNAm54U0cDc3tOwFGU_7KQ9X8OBVfzqq1LgmO8n0XBRvHu9F1X5w8SqfmHVOpfWcxXYJ4QPdROE1QLcNXlsAYguEN6tZpjJdCFIwDaRlyFLDu5LNdT6mCQl4uyS0xDTcD3SeEd_N49_T0RGs" />
     <title lang="en">Campeonato Brasileiro</title>
-  </programme>
-  <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <credits>
-      <actor>David Brightwell</actor>
-      <actor>Colin Carter</actor>
-      <actor>Simon Clarkson</actor>
-      <actor>Jimmy Glass</actor>
-      <actor>Eddie Howe</actor>
-      <actor>Nigel Pearson</actor>
-    </credits>
-    <desc lang="en">20 years on from Carlisle's remarkable escape from relegation, take a look back at one of football's most extraordinary events. Hear from Jimmy Glass, captain David Brightwell and others.</desc>
-    <icon src="https://iptv-epg.org/images/9ZmosFDJKXcnoqrPHaeQSn_P4T0hF8sg3q1jWL3ufO-UYO_2x0-wRM8Rh0EXEkzj-lpXD2T1E7q83rOsy_Klc6jlSIinoPIDzqh7mKlRxW7-0hBzZpFWGtg7wZzfsEnW7Oa9GUi8end5gfe-FNR1ma-AU9j8ugaIzNf1qnt91k8mu4Hkvi59WK6MYjPjNklpmHL1i85bdQ2dATkBV41ssZeDNesl6i4_sjLdP23iGUXQwZ2uULKP6zlp7RuZOsUe48NzglY5ijjLBrwSR9z6jaCyOPb2WTkHrnefXZASo1TN_HL7qNEBhzqq0npyi7TY8qvfPTOGSnt8kbOsOQVqePQ" />
-    <title lang="en">Jimmy Glass: The Great Escape</title>
-  </programme>
-  <programme start="20260812013000 +0000" stop="20260812020000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2017</date>
-    <desc lang="en">East Anglian Derby
-A look at the 'East Anglian Derby', contested between Norwich City and Ipswich Town.</desc>
-    <icon src="https://iptv-epg.org/images/pqeI5oJbpP672sDMr7nOhhbtbjC7kJVg3FCqDBoiFWJwf12ZFHWvPwXXfasTAGMRB3bz639ovmVLE4j1uLzd4Bk8y-YGy5qOwY1aLHVuz-6FGiDmO2vjVQTVgLlvwWFPgw0a9ESoF35nNF73PR2ulDDU0WFs529Tx2HlwyugkIzBm91hlcQAEqD5pWxqgmnNy_fA8Lw5EnScRBXqRf8seckGlR0oqvZP2NZ6vU2cSEOyvgF3sEVEmXnAOI-RZFAyOeNga_4VBQE6G39uDg4HQJ5Wtt3eEjooW88lEB6hI40mLVLDNK2K_CS-qTvtucbAj48o7w77" />
-    <title lang="en">EFL Rivalries</title>
-  </programme>
-  <programme start="20260812020000 +0000" stop="20260812023000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2022</date>
-    <desc lang="en">Rangers v Celtic
-One of football's most famous rivalries returns as Rangers meet Celtic at Ibrox on New Year's weekend for the Old Firm derby.</desc>
-    <icon src="https://iptv-epg.org/images/y0XNMn2J6kGu7tMSgQYmgtboVG7I1VzsDKzIJpEQTjtx1OPhAUfoHTEUxxi5cKTZvEMVanIQaZ2P4QC77hcIPQjiJM9ey_nNbkObl6MQqThkKkdxUrvEfv4zqmT4pPj1xxtdR1Oqzol-trVMP3yVfXsVhY1GhHRvQNBO8Ho7jw9ov5QSaGF9yYtPhoyVlSGysqFAfZAZU5mPzyLQcYp_AuKdKkNoAFuvmhPUzKRetgg1YU47Ed7xv3Gqpwy4s-PgAG38PHLZWzZ_AmRkXH6KgMwfRKROD5DTqaR_AHxeBLIx44kQYmksBfYm1mYZU8c4YMWobFh5" />
-    <title lang="en">Scottish Premiership Football</title>
   </programme>
   <programme start="20260812023000 +0000" stop="20260812024500 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
@@ -17095,7 +16901,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/gol9O9su91nG9wuFnLyvi6t_d_7sYYSPrJ8PO5gufj5xnuBqYwShnTGqtDFB2-1lzaqdHQZL2-plTVC0nPBeYWnp8e27Vl4HLualLjprISEV-_-rDWR0c1-tDaI_5h7CobVQuo87C2WLvhCwGFPd48dp9M1R_ZCYVb1aDrMatoh1dw6glO4uPwn8KFlPVrK9PHCrfA7CUIo-JIvjY8nauk9jcp6BVLO9AbULWt3hP5WCUyZo7U8AtSx5WzPjVVOqqWKREa3O9dUrucpFzOzK9ofK-oAbGf6P0Orlt0CDvcCfZYeJkTnzvoigrx2EnOGh98gX2XGP" />
+    <icon src="https://iptv-epg.org/images/Jx1CBnwJKlYquhZ03Vt4RWRzs5PJC_uXWoPcwXOT_3-2RhgPABkUcyRidw1YMqgdyfk_JfKMDIk_ckM4LiKZa41ejizTeEL_kRrB4roUzl0zouh0n7rjTOFfJKePz_ZXhx1QwTyILDScatJdDfZc-DidPaDNqMRYjpkSgcJciuvyb5MAeAhz-sbJLdQTFq81hZL6jWXZavIfcCvwYgjDTNe-WgFtamm27QdLebXo6igiV0XoeQbf6TYJfmSsWrjqSSxES-lXFhXRhXvrD7-aP-1RzhXGNAQZPcah5qH3e1rivz4RflhKDXhEs8-aEpJULkzJ0Wew" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -17112,7 +16918,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/5Sfwzi5p5YN5PQTWmf3pkd0aYA4Y8m7abbvMe0ZWfQL01c4JUg_WBxFC40VJmKLVVSmEUn6oilVz1LkiSbSr1dJfk-h2veL5CiaVcoXmO0PE7cW3e6_mfj6VJJS7O-Gts-fuygiPaJj7VKJm3_mYiR6Lex7f0aUktp67zlqSCLXNwZCs9D1si20kKQG1WvWM1ATSs9mGXw1B9SjsIMvf4U_BYsjQlHNHlt83-IMD_QB76OAeCasF-erPcLB-j41b1_AZi1QHfMrQ7BF3Wd-CkXQiOQKZLkARFZJxbRoXApdj4vqmUvnMH1csOcX1jJ3maZxhmPdh" />
+    <icon src="https://iptv-epg.org/images/uxZTVz9WRi-5z6oLXitKE16SSkJbFYp67jXtljOd7WYvtXMeodgeX9uZ5s4tdsjf7B0XXVXAPW1PCBglUH6Io02FsrXUKoDnHzpqBxZSGshwBMlFJJqW4t74IsXYbk2NLAsznm0vCNSVRgwixvdWebUKRFor7RX-eeSLJqqCtR4V1wUIS_e22s9orSKiO0YCxZP51ntRvxN_Sfx2_GP52YqNzENHZVaPgVI17Q2rTdTId6M_9cFTSZ-o7UofRIszqWcqJYZyVHKcnjWfe9N7NXGbAiCIECAFqK0K5hIg9b3Fwq1CS5xJp-0wh_Dkj0ab9JmkXhCa" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -17131,7 +16937,7 @@ Welsh Fire and London Spirit bring their respective Women's Hundred campaigns to
     <category lang="en">Cricket</category>
     <date>2026</date>
     <desc lang="en">Men's: Welsh Fire v London Spirit
-Welsh Fire face London Spirit in the Men's Hundred.</desc>
+Eliminator outsiders Welsh Fire take on London Spirit on the final day of Men's Hundred league phase. Fire's poor net run rate means the Cardiff-based side are unlikely to advance.</desc>
     <icon src="https://iptv-epg.org/images/KOIMTle7bw8Nor-n8GSGRblhbuUf5Dr53PzklJ_ZW74BNNESVAFuSQ03DqMxVc2gayQpAkJ5yv9_S75NHXfYw3TmpkojYF0nuE2f3KCsYVQybuXZziVU3xQc82YGbm__gXpvu_7x7zm0t8uf8ALcoecwGCss7RoaZ6wTnAjrke_e4NvYPCafgZARLILOzn0P4EmFxo9QrsyTeqzEU3HnaZy_avj382CoSWSrmsaOGlat3U0l9fZ_DjFm0JvN9hz-XhaYK0CWta-bYgw7KRTKPmADvOkptSAuvyLepsdimjul1edXrcxdAY4w7QJaJDlRAFpp34zX" />
     <title lang="en">The Hundred</title>
     <live />
@@ -17141,7 +16947,7 @@ Welsh Fire face London Spirit in the Men's Hundred.</desc>
     <category lang="en">Cricket</category>
     <date>2026</date>
     <desc lang="en">Men's: Birmingham Phoenix v MI London
-Birmingham Phoenix play MI London in the Men's Hundred.</desc>
+In the last match of the Men's Hundred league phase, MI London - sat outside the knockout spots - need a healthy win over Birmingham to secure a spot in Friday's Eliminator.</desc>
     <icon src="https://iptv-epg.org/images/cTpbSw8e5YIZVUm-JAdOrRX_C4vgP2GvxKBH06wCld18acTgDCWLiHDEEAYtIwFP09qLLwZPnHv3QiwW9RqRVFUeRIccCYpB-8ypf_WFo6bQrqxwXbFPWC5UEI4J6ymfPiWxjP6z-O-L4zl3AF-CrjL0Umo8ikca8ZoOCElOhKC357hWoyR-7XtFXJOqYpNEIiSPV6DoIA7Jw3rSHCEUZvfYCzyqBKO2K4od2O-QPxjpwfR0M9XRZdeNfHFgnYEt5RXcsEDGLDYI-CktFmPU9xdZOUxt9f438clNODX_Kh091a41UxWp87v8DFmrRbGzRzgjwpH7" />
     <title lang="en">The Hundred</title>
     <live />
@@ -17177,7 +16983,7 @@ Birmingham Phoenix play MI London in the Men's Hundred.</desc>
     <category lang="en">Tennis</category>
     <date>2026</date>
     <desc lang="en">ATP &amp; WTA Canadian Open: Semi-Finals
-Enjoy live action from the ATP and WTA Tours.</desc>
+Coco Gauff and Elena Rybakina meet four years on from their last Toronto showdown, while Iga Swiatek faces Elina Svitolina. Rafael Jodar meets Brandon Nakashima in the Montreal last four.</desc>
     <icon src="https://iptv-epg.org/images/FqpVzoMCpaXPjeNiwV5IyxJFbgGK0Doxw7buovITP_VR2-qhOoKYrVQv0WMTRSZ6WGBbN1PsyC8d2A9aGGGo1o0NZpm0akZpbiUVwLho2PZSFapIvjWC5LjsG7ma61wjS_Q1yW-lzfPCkfJmGBfEbMwCSP8CjJ7uDMH87pESifCq5I5tlAt9sXunnBNlZaMX4DUzSnii85js-l8aAkX9ft5xEQ-UUeo1yf6a90MK-3WdOhFCV5NwNwgJjYAa2Ohc-iH7SDkboSXPF8ZjYC1WfBsUe_5gE8H1fAJPPGYUmWRVsPaHTMvT3YufTEw1BI8IuulEYox3" />
     <title lang="en">Live Tennis</title>
     <live />
@@ -17239,7 +17045,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/d0hUntHyFMjVy7gJRYeauslqu1CQ-hOu801_YK1_r25Bqpv80Ak2HOxphAwraLOM0RXYdiEo4QWddBhUAd1YjbY3_2mYHBc2mJFz0p94bYcK725wbiycijfQMGmHmBGm1DluWv2JqSeY4GG0VzlE5hHKo1QD1YOKLWCPCz8Y-e36qYuBrUB026Tf-DX3qJtMRshzyU6BSF673xYHv3axVl12YsdzDbh3pOjrDbKvSbZrCATACdFUmy583iIXo-UVDs8pxPNgjOpBeLpkshy0owcQh17VyTLmoQ1MLfdgJNt2hbXTMfCwwnG94uYZ1C00p5Fgvoex" />
+    <icon src="https://iptv-epg.org/images/vqyMFVIKOPppRquprl_OoV1MmF3oFXHN4fvt4jAfF33L_Sc2qi8MJLrHeOqK2r3GdOsHGMDJ-ctH-3gxQpprOCl0FIuISytzIHxftMJtdCsuVdoUi_69nKWfNvSMIhrlC4G1xcS4URXFUiCASFhHZPDn1OS-OxSj4Mj-0J_h04AErJgsD2GT4CxjTTvjxYXHzDvsg9lO5sIfDldJ0H6mJoALLHYopBNLq6v8ullX0ltofXSmjAsJb5xNvi5FDj9ySmhrSxhqvMM70dTLrZN_6qJ_aOwe3_UDshVClXuzpiruCB7HXje5FEiDYkGUJ1tTMhpZPveA" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -17256,7 +17062,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/NKqehhJJ75foxXTjCQ8q-Lc8hpX4RTqlUbe_CyvlQzXNEdAYBJm-XN-Pc5jDiievUORcKi_kfwv8QLFFkB_wPBCZGHN2yDUVdoafJxO0uPslWU00pUtrDmILt0YneSIhbwAhmnx0fS_4dy5N5U9cp0rlFGu1dtg9CLYs_syA8O6_ZKz8ZNwatzlxhj4FNHCQVKpXYlBkFS-KAJIn30af7L72lc0lPBpxbNvaQXtqnaOPdZbIjlP2N5ogu8Y2njcadZGHHip0KsyyYBD1O7-51q9eNCuZqQT3aXxKhw4kJjLR_ZyM63g1_NiDG4hiYicWTl_0FCJs" />
+    <icon src="https://iptv-epg.org/images/Gq_IaK1yH9YJj19We9_DIN--WfQ8J3nlzJKL_e_i3ug2pjFC1Y8lYXANAl5pcsjgpMD8jHr7f9Krk_Qpt24WAdt1oCeDUAdcCH6r7cnsaEkBiuJLDQLmhGIhSsjDoNkuxul_Aiwbe2AUugi1rqu7VPVb5gqncsvq0HlKf-CnG6Ca0mIf0WCKILDxW7oZH5o51dIGl-SZf7ckuOa-NrkNBv9F98BaY0u7jxth5DHgrKxZ_tSrvygwBzB3c5uPEZFa6L51AJtxa1dnE8EuVDMJNg2EvNFm97imezz--_Y62WU4jKj4RE8MJQHKn5sqatWcQ5X8Df4b" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -17421,9 +17227,9 @@ During round 24 of the 2026 NRL campaign, Canterbury Bulldogs meet South Sydney 
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <date>2026</date>
-    <desc lang="en">Women's Eliminator: TBA v TBA
+    <desc lang="en">Women's Eliminator: Sunrisers Leeds v Southern Brave
 The Hundred is a professional franchise 100-ball cricket tournament involving eight men's and women's teams.</desc>
-    <icon src="https://iptv-epg.org/images/v1LmHnG9f71r7b--vPTwQJgaHw1-tUjYkinfPdcMBLJlfD0iMH02sJnq-HV4UWFp9dZx9ghEqggGwIfyTsCIWa6FyeI1FxCGANHS8ywQmGzIbStVOfNvh69QlZkYxf6ZFsEt5E6GTKQZINMVBGZT5UbZ_97iFmch6czPbhZb2CXLOU7XTL3NFLaC3ORZSs6FmrfO7t8bOezytJTizA_w6pFZfEVyEdpj6TWmneYUSRc0O1nnpSA3bChwguB3FXeGPTOSPrk6AienMB-zlHlrenATu_7lcysY4fk3oukoDxOSCIiXDtloGq1I30o9IQyUxSOjwAe4" />
+    <icon src="https://iptv-epg.org/images/8UQnMgkWfGmpkcfc61k7Cg8k4HZ3_zn8vvlsHz66aKWqI2BEauBhen2pMeA-4flsgqqO-lRqTuoBcHULOACiKH5YKCt9xOJI4Wq4NDRirjMS7nvVNKXLLsoZcRGyq0uS7ZCAU4KWVkN7e_qolejGDm-QiORiVEkZntxZ9ZHmc_1CwVlkZK7K5DZ1J3nhz4QLw3bdfSiBXELeK_o6JUbchv579tgXPjrsIf1FXR7vJYFOORgbdh5skWxuSz3Ml_5qvadhU5UOLBIk0zwZ7lsLXMAj6p4twSCPb672dIucgbNfqeB8llG4d2tJjB-3aAhJhmmL3WYs" />
     <title lang="en">The Hundred</title>
     <live />
   </programme>
@@ -18040,24 +17846,6 @@ Enjoy live action from the ATP and WTA Tours.</desc>
     <title lang="en">Live Tennis: ATP &amp; WTA Cincinnati Open 2026</title>
     <live />
   </programme>
-  <programme start="20260812000000 +0000" stop="20260812020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2012/13: Manchester United v Everton
-In this memorable Premier League encounter, Manchester United welcome Everton to Old Trafford for a twisting, turning tussle that saw both sides hit the back of the net multiple times.</desc>
-    <icon src="https://iptv-epg.org/images/qJ8u3Uuk65XozvLMMzutDp51EafnGk3225oUvWd6lb5b0yCIZCYTZlOGsnr3e8jG3-oOXfBSVHhQhXNFclsQIzkzik90ZwLLZQFNCtNKNyIZ7ZXCFGi3Fxb6_pq87hbcHKt-Z3TG-egyysXRvQq9kuZbJSYq6-i2_BoQDgh-sxtYIP8kvxHeABJhVPEBVrHEbY15Gc5RtF23Nvqjt4-CinnMPeYXkkMr_GssboGFEyp7oFZNM_HkDmSl37tLUaLucAmJPBMnWBCRheG2szrdqhTRURxDu4o7fDSFZ0H-t8joQjOIHKCI3sJikx_AupZxX9CQj8ni" />
-    <title lang="en">Prem Classics</title>
-  </programme>
-  <programme start="20260812020000 +0000" stop="20260812021500 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2017</date>
-    <desc lang="en">1994: Liverpool v Manchester United
-A chance to relive a Premier League classic. Here, arch rivals, Liverpool and Manchester United, meet at Anfield back in 1994 in a match that saw one of the Premier League's great comebacks.</desc>
-    <icon src="https://iptv-epg.org/images/hhN_tzD4vL7ekttR4NcK9nDCaIJBn1VcjYDL69s2nCzi3_LGGKdKf51Xvr2VIg7-6G4F-MNHbg84Rew_U6-INMDMU_Y0rTaLZQN-kp8LDck1fyVdJiUwTUB9EZ60JIey8S1GQWv-1_DSV4ikAjIZ6ZE5yVmu0alI7-mQYeUMUUqErKORtnUhNrN4ffj68IrAP7wz9Lp4BAQjzWBZgMwVTyuo-gaNZTWyqo8RMqBxBpZuK1gulWGVw4sUrBovrcZVXAXkSDjsAmD3LAADw6Uq8cTCRgvwdX42p45wYoyFunyC1ab_nN7943gdw0hJaR5VFPjvcUQc" />
-    <title lang="en">The Premier League's Greatest Games</title>
-  </programme>
   <programme start="20260812021500 +0000" stop="20260812023000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -18200,7 +17988,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/Ki1m7iRwvqz4BRIEjI8WyemdgR9KgvXeTSwgvl1H-A3Re1F8DnRn7xsy-8PP05npjCqOqraohtf2i56H-2oL2g-hvLpNHBCNJMvAcj2JkCuKC5J4f49NsJ5Bm8j-vWIC0nznQTchVV4ktJLVNlREt71s4CWwdPANqDjdiaeTTy-clBiM66rNFu9u-vwW8_DJp9Xx1uobN7ty2RL941RdX7giUJo4e__Mt9sdeeIvTH6ru207lxQ5Q4QUi81-G2Fx-YevZgqX_XWNElc4GV821QaUuvPKKA45FXhOy-tl25A_gS2gRlMH57-9bIa2WgohQOSTl4Jg" />
+    <icon src="https://iptv-epg.org/images/YARE07O8V0OFRroTpuvNkDh9BpffJHgM-xq99dswfHYVNP7r5s8sBy7jGlzwCQacwQlijaM1-l0wDo9OgcI_eioivPsPprwQXuqEfrWlAidmYIzCqkDa8aKvcONq5z6S10RqkbtJEHvuBdRwS8cXoJvkDy9QR6Q-lhKMSUM8dOFS1ooPBd18lHPD3SDVoXwiAh_NugFkhFtTLvpPrDcmPsYBwuJ210vsIz1R9O2pMxlAKcSyS1OnUYulVyMgJ8F84yLtOxawqxzcGVmplGzX8xRtNwZd6MQJQC_95auq3Fc7XbXblSxwuo8yee74FOIdoTwL6r4U" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -18217,7 +18005,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/WBQOjYoP9WqyZKAMnGw82zn7YmKhgOo7hGFQ9olcKQwdi7a8Jw4sHapPav1pl9L_y3c3V0Z2WxL2p0K6uABXSJh7pWzu1Z3r-AInVgcpavOMcis54Um9rRPEXE6Fz01K03tzmO8XrDalQzdZrSG8KIdaMRPNIomNBw_0mjHdJa4WBcRGf8EG2Pt7vbPhmjzNRk6Bx_frqOvryqWziyXllPiMs1MM89awdmwdbD6TpunandvO7jyQDv8Uk-Do8SoEaH3YNirAuOZnIWq83gw77yjJs3RO0EARDUsTBpgYWRlVMCT8hlGbf3MH2nOY-_zKfdVcU5wI" />
+    <icon src="https://iptv-epg.org/images/qS-53U8Nbr1_kJuwkw27WmGCXj3w3ao6sIoEoUqC-IXIw7lnrhO7phhX6I3qHknLdgZDYUcIVp6FlUpcsW5UVQ2JBOh8RAwVaCTVmtg_L1OQfnaB6qbed8vMB2FiCPXCYIC8OPWuc-95E3J9nO3DK-lhF3mNGaKVlNToe5yxrowY6IoZ8bVDTr7f3BmXW0TUpl-_Ke1JMQNBW7tMSO0xD6gp9X3BTNMsIIakrB_4ovcZaeFVeVDdLPJLB5yP57Mzyfp63_E-CpFoSHys7QIllqit4kyFAQgwoz_tzkjB-yVTFwctxRmeWJ9UaP75RK51QNtTzOVJ" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -18234,7 +18022,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/in_pmBx3aYs0KyAMK-qsKCcoyC_f5ahVLvdByXo0-V6LyvFufPjURyJa5haPhWGc2C8eTSTF6e79wcapqoVZRLSklcNj3SvIgEkg21wrUGZFgORH_arMn62eVXlLJWJHIhBCUpmcQ_ieEoiPy85s4XTw2It45t3mDmfB2qIY83rPr1AkxWieSlqQQdeLs_kS65IBUZWi4k60aoJqSVZdkIusO7bWtV2a5Cv32gBOfuQicuPc_F0j60CeU0hsybZ9gwGikQb3vPA70GsNPqwydu8LkeglUCsx3qM6piVbRn2rZaMEAfvYWXm8mJEWWtRnzR2hjMxQ" />
+    <icon src="https://iptv-epg.org/images/4GwlXEHV75GmVQ3o3v7_aJqqC2wDXFjGH4IOP-x6g6RBulJruKExeUUapuPbE0gAvNN_1YGfZatzf84A1S4DhLrjZS-ivQ7gB_2w7bDZOCrx0pKlkXLstR0ASNyv1UHGS5922Uf6zmZnMwCVGq8drq79kVMO9-KvOLfPiQjkf6gzBqnbHBzdeNjl_ibgwTjSQju7afsy8DHptiVGTPHknbsBY2wFWE-nca1p9W6B1EAVcSoOXT3GkZdgUsT9-jFmIj3GqikcZJqZAVDTCn0IQevHRRGsVwoZHIeXNHd3WPaal1LyNwhGQ3DoFYTqSP9czM4FNzQY" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -18593,7 +18381,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/aQ6HOkUvG1uv7_YILAeCMHhkocSo7I2iQmen4gnVrJGzYHrOPPA0cLYZU4EaCM8ZtsG0tjoC-SMWXazWx4-HAFAVBT5uiu8aZVsaKdqLhHSJ66K80XmbO8B4oBIwVD-Du_fF0FyaZQLf-0BDxgoapI9l6JtgKntS6jOZSsedX87x-fYBxFZtiSLhN9dtLLQjcM_QuaPoB1RtHbKKIuqD3xuNOaTUChVxcINEFSAhAo5yOR9ic4Y5mjC4JRGZw_xSot85Xvjc5EW2izbZpVYCqScTxmWB0Hl9EXkE6TpPltTOsYsvSh84YJ-cC0HnzVUrr1p5Xa3L" />
+    <icon src="https://iptv-epg.org/images/SZOlkE_HyP-cVXxr00WDGGhdCwScaZDprz6ieCnxslhhKsYDcgL35t0CeMxIC4H18XNqMzpjysBO2tqnQJ5vpMzAvJFqPgtmzRCDwDvow6gtYWmgAN2NvoXfyDCnGdvUKpFFuLUX4moaP6OdRbXrFenDsBY212RhJwPzcy9C7fnfyAI26899213ftbNz-AHt1AaAxcpb-mb4-pWzulgGjr-xzME9P7ePRcH1EZmt1SfdAmOcJfKglXrJgf7LnEODnV8JXgnr25T1rUb8NZV68yh1lzM_gu9kOeWx7_O4xKHxzUOTZgDuC_tDOK_MXRnq6jw83Hje" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -18610,7 +18398,7 @@ Join Sky Sports News for all the latest updates and stories from around the tran
     </credits>
     <date>2026</date>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://iptv-epg.org/images/xYNDC-q-o575AqENsfYV-NHM370rxUMyU0-X2rhSNCg_Amiwfmy4cAK6ynHOxTeiGDjFUYZ95PSXvcj5gTMyyvA9oPLNXvSbtH0es112q8RXZrdQZ13SH0idGGF0HCEtxyMLsFXEK6dOP_eh49aBTIATBxR-LMVoixbbXoRF7SS5Mf_B0lngoyl2HHHkyedtpgM6fIC0HWPoyhO3EgkelBkBGZALjdeXTLYLKpvdIPheu2iDuamTHwfxSK3C_gi6o8OH3O5dnkHxoBEdUOgGlxnYBlskl0ZpY-Sg4MhGAlzZOMf2lCtBbvBiErtAO8f050zQpesy" />
+    <icon src="https://iptv-epg.org/images/sssTJ6sIFHtM0z5QRbCTMbK3py-4uMoRz9qfqh7_t2bKtktpSc_84N_qudK04jDB9JjSYTp3fnnHC-ZbyVsOZGZk3lZXK-EJ_Do9_KCcNCF9zhM0knUV1JeKwgJgxy3QqThcJGt062MJlovwuCnrn8XSsZe9X51zNm3pUBXyTfFQfhm5GcdUUlN1vX_gNwnr-z1d6pbP2tv2RYrQPJkAoE5X7sUAzOdg4MCnY3MXu0scrpcu-h0vX1zOCzs4IL4sOxfpNZCfPyaCpTOVCJBZ7WyZJq_JfGYCzn9tgvIdriuB4Ys3p63uXOsMZZIbQfWDqx9ouF_c" />
     <title lang="en">Sky Sports FC</title>
     <live />
   </programme>
@@ -19091,12 +18879,10 @@ Revisit the annals of Premier League history with the 2025-2026 season, a campai
   <programme start="20260814200000 +0000" stop="20260814203000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <date>2024</date>
-    <desc lang="en">E5 — Jay Jay Okocha
-Find out the inside story of Jay-Jay Okocha's move to Bolton. Hear from Sam Allardyce, ex-teammates and Okocha himself on one of the biggest transfer coups in Premier League history.</desc>
-    <episode-num>E5</episode-num>
-    <icon src="https://iptv-epg.org/images/j2b_t83j0SXwIm_TLg5AVXi_Dx1ixtVXa_sNKqmmdYVPz62Uit4AaokcAz8WNUJSJxHHa7-ey2r3gtrdioUgVcx_FpgLDkQGlfoDe3-VpdBzuMXZGbLFIQIoBv8v3bS6S3eis-t2Ay8fyFzsopCAVkB5rc6gVZf2pC2f6B2FTovcR5JQePhwIazGwTINa84S9aMA4lFdA9AdJ-W2IU4VGKsM5RJtW1UZO2FjDboGiGxI5_S-Dt6uC7VpcHXlZLzN4z2QmSXmRSFq4JSHQB4bl38fwLlAEinGId_-Zi6RgY-1TiAoxIf3r3alPhHNrSmFRR-k431b" />
-    <title lang="en">Transfer 360</title>
+    <date>2026</date>
+    <desc lang="en">Experts join Kelly Somers in the studio to crunch the numbers and give their opinion on which Premier League stars to pick ahead of each FPL Gameweek.</desc>
+    <icon src="https://iptv-epg.org/images/RbImH3BDN_j5Wanuc10-enz7J3SONxXbZgx_85gsyf2jXMInuxSvN0k5kq7dziA9OehapSSmzoRsgR6_nvpGhpa3npzv2ijm6hJEkhDsZYP6OZ4nz1xIV6krYtLxiYACVW9KadLgZAqFh_lGO4pqGjI8LI34TWSX4ImMyGPFW7uxpFZDxI95pHmvGUfkDzuKgE4o5Z9TRaWe_ak2eJ3gZf4QyDzMURncdij7jYk4YpOcwt5ABUfpjGIcEZ9M9_xzGcKMhFUwEHBfbVciS7cLo2TOJEN9DnetExGEB8QktQ78M03Y_QvaOHihCQ8m6Osx73T4TIKS" />
+    <title lang="en">The Fantasy Show</title>
   </programme>
   <programme start="20260814203000 +0000" stop="20260814210000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
@@ -19286,15 +19072,12 @@ Revisit the annals of Premier League history with the 2025-2026 season, a campai
     <live />
   </programme>
   <programme start="20260815163000 +0000" stop="20260815170000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <category>Sports</category>
     <date>2026</date>
-    <desc lang="en">S6 E11 — The Tigers Return
-Hull City's return to the Premier League is the latest chapter in a story built on resilience, ambition and belief. We look back on the club's previous adventures in the top-flight, reliving the moments that shaped its identity before looking ahead to an exciting new era. Joining the Tigers at their pre-season training camp in Slovenia, we go behind the scenes to discover how the club is preparing for the challenges ahead.</desc>
-    <episode-num>S6 E11</episode-num>
-    <icon src="https://iptv-epg.org/images/HSskiCyD1apxt0lsKFZYK5vEHcSFwkpVIbAkWjWFvh678wmLaofhuksbGYD968ZCQ4QygWyNcwCDNtUuYmP1K2X4BqfmG_h-u-43dmWy5TFjSw0LAt_L6faPeKt3rxXn0qLOhPIbn785yHODZkhdeMszGVdek0awDZeaNfJuALc9ZBS6Ht5LVgyfLTN8pajZL6J0Ey6HS3OirC0n2xg1LlkrSy9Zd_d6E5D6h4BoSqjU9pwNW5HkqmvOYTI_xlaMEJ7cofvhcpiNWtcdHRO4Gx-UqKg4PHrFGZvcruBKaF1q7eE7rWHpW8sCxWJJeQNbHIX41AFO" />
-    <title lang="en">Premier League Stories</title>
+    <desc lang="en">Experts join Kelly Somers in the studio to crunch the numbers and give their opinion on which Premier League stars to pick ahead of each FPL Gameweek.</desc>
+    <icon src="https://iptv-epg.org/images/OVLxkIoQ6GnwAQRqXNLeLLe4N31Hsi5JrTp5wMQGwXapSuG24sJNjBc6KE508h3zgtm2-i-et7CSl7wiAhkuGvvHCxRM62FLjJhpm2jGliWc2IkF899GKFd5rCzE-dN_Lhtc5skslaWzObR-GDEDMLDFn488KqXZpVsvLqrM8rz3ZaEZHSHngud3kS49npIIJ4FbHpfcI1YACM8BQJluWdA4-3QhxWF6Sk7H23OKbS1bINHv1SBBHBXtWBCKO3Txsh0BDaHet-xrZ1TmL1SiDs8VcG_DqpKPgXXtK3OZXcPuq1_CfrEOHP5gNkjqPuIWdlvMNwsO" />
+    <title lang="en">The Fantasy Show</title>
   </programme>
   <programme start="20260815170000 +0000" stop="20260815180000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
@@ -20306,17 +20089,6 @@ Have a look at all the most memorable moments from the 2004/2005 Premier League 
     <icon src="https://iptv-epg.org/images/qkDzbvImjB6zR88jOV894VJjQ0ZXATe1Ejz4F52Qn4xdBzYsAskUFNYUxP73FcD64MdcSQ5oXCgAbYZ6nqgQH-DzjodUdB7z0wSRIa3YFudaApfSaUbN8YsnqgXZBE84MZQv15qub7stI4OaWRglkhA9_FYTaL6UxZJmx4CzmVXOhtj2LDXlPkhhcCUF0fzOZPRU-S1aZXyEZCtqzO9iNzl3Dortqc0j3a42E7lbshTvYi4S83GX6XoR-gDRhu1mi2ZBcl43FwZ-zBdjicLhA6sdRZknugze7LdAdOkfYsM6_1m3unGiun4_bGQVUuwpWb4CcVw" />
     <title lang="en">Premier League Years</title>
   </programme>
-  <programme start="20260812020000 +0000" stop="20260812023000 +0000" channel="TNTSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <date>2026</date>
-    <desc lang="en">S26 E19 — Episode 19
-A look back at the best action from the MLB.</desc>
-    <episode-num>S26 E19</episode-num>
-    <icon src="https://iptv-epg.org/images/V5d-Vg78Dwri9ypZXkqbDda3x8y8kfzAjgbs4EhTL3DFB9wv7DB6XCpdPJLVrsnbDdbBRH_i86bpNG3T29ZiXU7crLXuXqbUQBvYhmjIm3rp-euZnlA8iP8Xmp2ZTs-Tyy4Zz7EYQU7d022dK7QWNlh2MfQhJSzdWicgriGILR2gov-qJZnOwjmslTa-kbxEUOzFstiRqT2v4hb66Px6foZMRCUuyIkFC6TdOULL2x9k_Bri489l6KQJ3KjGj1gZeHpbfchIp59eg7khrN1XQU2TfZLlDFjV22bA20bSWoCCyM85ldstOXdrOVbdbbJgtX5pv0YJ" />
-    <title lang="en">MLB Closer</title>
-    <live />
-  </programme>
   <programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="TNTSports1.uk">
     <category lang="en">Baseball</category>
     <category>Sports</category>
@@ -20341,7 +20113,7 @@ Snooker action from the Chinese Open.</desc>
     <date>2026</date>
     <desc lang="en">Final: Paris Saint-Germain v Arsenal
 Action from the 2026 UEFA Champions League final at Puskás Arena in Budapest.</desc>
-    <icon src="https://iptv-epg.org/images/9dpILBg1rwNhpw8nrfQgBq6ifqAGPe4ESTqmv4ZzFIlQJ3o7ES4lcYhyDPz9EMOGygyDcoGPyadEAyg5zPx_VddiGdFNeDrTxJkY2xS9J3B9LvDMHMcn9lo6LfvEJR2hICqEJ6n7KapRV5pRaVpUGhpnrxD2MQLMuZ92DVgWd-gzEN0D3S3Ugw_BFSNfdOgPGm469Cw-Q2wyqMOfDLWHP-mKxpsRBKX61o8BYhpf7GUOAHPsi5nisQkB9FD7MGQg6lW6K2Mr18gPUh73ZHI1udMUcF7WqFSfOIXrcyS3neaVSBY7MyO_GSSCPn7ZNRKKSjywke0r" />
+    <icon src="https://iptv-epg.org/images/pEq0u9ZJprHKbGd-3cRmp4kosKieWUhTxdeetcdoVaMvltDRZRfYdizQKMfZ1c-AnQXlQL08aULMwJp_IX74TkSpXi8s9xc9blCeGH9chvjS-PGHeBT_VOSVOlRVEnZUmtU1Db92JQV9z3s-TgDKOSsjwvmwgXqJ57Z7KjANk1Y_NTd0yxy5qb6KDZSLAEMNKfbX61N7LRNjSewbuDq4KLmsK0EZ0iI0ULF7IiWg5REbw-0AMad61R5mMgVNzajgYtvPYrach6UPJxp52HEv8iw5sUMfiN5En_8aqTUQh9Rv0SgZ8wzLP1Uei5VR3tD56yveHn-l" />
     <title lang="en">UEFA Champions League Football</title>
   </programme>
   <programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="TNTSports1.uk">
@@ -20350,10 +20122,10 @@ Action from the 2026 UEFA Champions League final at Puskás Arena in Budapest.</
     <date>2026</date>
     <desc lang="en">Final: Crystal Palace v Rayo Vallecano
 Action from the UEFA Conference League.</desc>
-    <icon src="https://iptv-epg.org/images/0XerwooBjEC-4AylFHE4hjRXGOj6t7m9Svwp_2RjoZ9GS--hpqY8SWQHuaPEfpYsaecj4Siv90gQuxuhp4zN7ZTPxMGQu4WqX4kgEOrRDrSpkt27-ICxQdHf11B3VvHMtAMmN_TiLcCnORxpeCxNE6cAgkVOBcdnTsmvFRn5Dkt20zm0si01vic4FmSlRg4Z30HkprA5Yz9uso4ksOBpIhgEZiRD9xT8d5IdhU1C3rU6EuSVWFlnG-rmAv3dvmOx1IAiaKRfhFJJtyhNWB3jkw0Q0lxBUjnfCL6XRVqiC4pCqzALxq19_VLl3t3e9VKYpiikChV8" />
+    <icon src="https://iptv-epg.org/images/T00aYc7QJTVM8ye4TpeyhvnM3pfiDPQfU9sIMtFwaOCVRI8S4gqHek09nc2Ymy1T0WS89EUlaLS6UHjhvNiOgprKLngt11REul_JlZ6lTF2kD_O9NCoh0uhC8vuXQV4h7x7lOevb7QdEXTBXyJwYvODvjkcYWsHAZIYdxnWVNGP6mCF3I5mpwbeuRPAT72wiOvb6DFzLCzFRR7wEqwPI5etP0JZzoHZ_gmb_QZR2w3UKZDctwT9_Am4T6aqYUsyquLd4so5K1IqLMnfZF7Torwd3tm-X1Ct0IqJx6U_Slf7ziHFJPu4W52f0QKrh9URZW06IwCKa" />
     <title lang="en">UEFA Conference League</title>
   </programme>
-  <programme start="20260812060000 +0000" stop="20260812093000 +0000" channel="TNTSports1.uk">
+  <programme start="20260812060000 +0000" stop="20260812094500 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Snooker</category>
     <date>2026</date>
@@ -20363,13 +20135,13 @@ England's David Gilbert looks for a big upset - and a place in the third round o
     <title lang="en">China Open Snooker</title>
     <live />
   </programme>
-  <programme start="20260812093000 +0000" stop="20260812100000 +0000" channel="TNTSports1.uk">
+  <programme start="20260812094500 +0000" stop="20260812100000 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <date>2026</date>
     <desc lang="en">Final: SC Freiburg v Aston Villa
 Action from the UEFA Europa League.</desc>
-    <icon src="https://iptv-epg.org/images/HJW8c4jxRi7TLbTDi4ENlb3Be1vSVPw1SSlsjmocnvTOeLVt56wi_62S5YUlh0Pxl2q4MmoyLeRBgeYyDPURnUXNd7r64dnXtDJTFb2I9ryZH03sI0Nfj8FsjWacsITLkMHj7LsPuZcGlxH3JvL8JyclWmzAUA8XBnflwbpvulhlrRpALu34fwlBiaW3v3H3b0zB7ZRd0ccM8lT5A8NoCxpE5OIjIalcPC0vG5kd7E2oSjxOgwbgnw2CvpsjXJSMiSSUAhfcmxFvAeggJCKvQxdB-x8XZU1J4C1fOlrKlOAH19d7Te37J2v8wey_sfEmnc3u7_b9" />
+    <icon src="https://iptv-epg.org/images/NymN1xTlm_wc-wstLkP-wcLG9WDeGN6_I_1rmddE7uRhLeBuvjvm_0Biuj8uzdAsxVt_wTtTUEnDmpgrTicdUfsany_JO7xONWzUr5Bw91Z156M0v3Zmgc8Qkq6GaooR3gYGdnIGn_HNh9w9_MyjTt0fK1adAWWf-JaNJ9WlysDs_GesftG7GUvlIP-g1tzWqMdMGdPZ4fTlDAqkDPDYIzJkccv6jH8-qBxxkIA87Aa0xNtKs0l53bAgx--n10J7wQ0WvI62bo7LQa2k7qSt-clRE3d4YTyL0X5dQVKqdOrlBRgFVScyBLx6FC-tMkzL0YsrLmwS" />
     <title lang="en">UEFA Europa League Football</title>
   </programme>
   <programme start="20260812100000 +0000" stop="20260812101500 +0000" channel="TNTSports1.uk">
@@ -20481,7 +20253,7 @@ A look back at some of the best cricket action from around the world.</desc>
     <date>2026</date>
     <desc lang="en">Jamaica Kingsmen v Barbados Tridents
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/ztJPhgBwr-XQPUJjf6TTEhqeourEWWKaOlWZA8knB7NyxqYulCKFwY-yTDV-gF0xAH23Uyt6prstePdedc4-1Gkx3VkuzGiBNujPYoOgxu02LF95QbHTgImqqRnKVzYOSIyqpYACwtRTPKpmZFDHknGdmGYMD3xU2iopvXjySWGb4qkY-53e_iqH7BPnhGi9w2gfGAmMjaKoI43jmIeEJL2u9hRBKGbmZ5B-YHY6elC-Qw5SOcmxINBAmcZfSVaQj_jGVtK7f3Tb7VnD3ROvTEaMMbd1uaznu6l0JCwEilG2sykUshYO2v-cgve608h8apXNmDEK" />
+    <icon src="https://iptv-epg.org/images/YHly5zeTshn4jAwRQVEqm2gh0nThfmJei8254LEfqnS30kXch6Fvgp6x2q30U8bmeCCm97vvojOwRBjADonvsdnZ5kGfwDeRTC4U7buOkEjcGsW0fNcwE85fM0pZ3zh7QmdPHSwaw66Ut4ua2OBQr3PHW1lY3smJHcshLZ-Q2NLIv4sR7J7VUtMQ3PUEFb0d38WZIhP3EySJkb0EJIYT14uABv4Gz0uyLeJznm5kKlXAAQGiksbScPmzb4DM3eLZwBOueXaxUkfM-zWa1v4KIEKN6Fye0tkv4HsQcAMsLC3bMXASUghyeIQVzjsAwKMHobTZp6Cx" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -20551,7 +20323,7 @@ This weekly MLB highlights show showcases the most exciting plays from the past 
     <category lang="en">Baseball</category>
     <date>2026</date>
     <desc lang="en">Seattle Mariners at New York Yankees
-Action from Major League Baseball as Seattle Mariners and New York Yankees go head-to-head.</desc>
+Action from Major League Baseball as Seattle Mariners and New York Yankees go head-to-head at Yankee Stadium. The Yankees won 4-1 in the series opener.</desc>
     <icon src="https://iptv-epg.org/images/Dce62j9lC91tXB--oBrPMHeVBUAS2W-zU_vg6YtyV76xyULF3qzUtDY23OYToWOhQsBOeTLEADpSrcW0QbzRIkZ1nmxfjd3Ef_MmX-pqBc-d7xjTbcah8OrEClCQ4sN1Z0jH2tICPoaAvsGbbmkdd3AzZOsG1lj9pUBmQec6nxXCPrPwHaHQVpaJzQyNKTP06pzrLXe4CvTWKNlj1j0uv1Mg_OXD5wsryel36zVmypLAGKlrf3fw8kPV4fLt-OpE2eK0PyYzYMwHcy61GXCBySlfaRrkBB-59OFaYtPA-07qzKpPvr9_i2onM1mYYHAKwYIYJ8hG" />
     <title lang="en">Major League Baseball</title>
     <live />
@@ -20607,8 +20379,8 @@ Action from LIV Golf as some of the world's best golfers compete for glory.</des
     <category lang="en">Sports</category>
     <category lang="en">Snooker</category>
     <date>2026</date>
-    <desc lang="en">Round 2
-Snooker action from the China Open.</desc>
+    <desc lang="en">Round 2: Neil Robertson v Si Jiahui
+Two-time China Open winner and world number two Neil Robertson takes on Chinese 24-year-old Si Jiahui in round two.</desc>
     <icon src="https://iptv-epg.org/images/gtz6M-ecMTn1U-pbuGrIveqt3oN6dUpSwy95R8n_SXNKNtx79Mp1KeLWgV3T_NmBtD7-9V85T9p7DPMFSp40ggWkWEY8PjimrNAHzE3ztXczdIu-KcOVKFzPDQlcwwjkLfosaQ_6qR_RwUgsI1rgWa93FPAqLVNgdxB32yQgIsLca8gEp0J2gPWdzY2ds5t8zzobDaaeU0IzcQKTRe3BXEVUqf2on16Ak8MHfYe6nEkVDVkCizTsft2vVtXzPqvwZqkzp6nuTyHKxxO4yc-9UGYOY84GCgs-nEHPvJkEZMOPXTj-ErbDK6H7GGN2nCMpCIpRDmov" />
     <title lang="en">China Open Snooker</title>
     <live />
@@ -20670,8 +20442,8 @@ The best bits from TNT Sports over the last week, including exclusive interviews
     <category lang="en">Sports</category>
     <category lang="en">Snooker</category>
     <date>2026</date>
-    <desc lang="en">Round 2
-Snooker action from the China Open.</desc>
+    <desc lang="en">Round 2: Mark Selby v Kyren Wilson
+England's Mark Selby hunts his fourth China Open win as he takes on Kyren Wilson, who is seeking his first, in the second round.</desc>
     <icon src="https://iptv-epg.org/images/Vn1WWSeR_MHNGZrOmqIYSJMWuaqxtmkRjtu3YPzDZ2dfQIjg5ypv2PgUj8KdgB92mC6-QqKJFoKZsVbe36HK5EEYnFGpyH0_TDnP7iNdUfzEsfb1eAdsKFgC4dpdfNK1OVUvx5BHDSJ4EKKfcI93l58rGmZIF9rogKrigl9rIlM3TettfEshFhApbnS6Csrgmd_R2WhjM9BPFmzEi3KLHV7E3lMHqP3ok8R3pB3Qt28SUoBmWbk1Z5yJyx7aak1H65vwe33Nt7AiUtPua15AJxH_eVnIY-oAIT40Q0NUcHq253SzvPUfsKsfOqh7AtAvlpnPq0XK" />
     <title lang="en">China Open Snooker</title>
     <live />
@@ -20702,7 +20474,7 @@ A weekly show featuring the latest news from the world of golf.</desc>
     <date>2026</date>
     <desc lang="en">St. Lucia Kings v St. Kitts &amp; Nevis Patriots
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/khkO_bkHMgjSrvKTzi4ygHERFpYP_-GXPZHaXSUxr2dqkjOA-JnE-Xd-D7gpQbQiO6F7JS5YMsObNXD9CqDlo_V4uC0dq8iKuoU0Z0QDyDsSp8qq1pyb3X7RYRP7wvEn78ZTMISayHGDSPE3DwtkSlNQuX04h6Tz1IIz7QdUlZnLE8PM4K5lZzaR-wvOl6jZO655P_568r7bFk_fs2cn_zAvW-4AbXoNwpKzExlysj0QhuUzp1b4397e8sJzA7SHqHujNsD0fwk0eTCUNL1rLOTr3UX-fqFlPFbzHGtPpPRESw9Y3bZf3nigXJFrrNHFMSDbwH_5" />
+    <icon src="https://iptv-epg.org/images/MvjtFRzKEc_IfSjFk-N1oBkXUwPVFYP-uSGc_bfQI7WlW-__dnqSNnrpp7UxL7mgsD32_rDk9zap8QFgjkV7tdCpq5bw7k9aAb1KYKmB7FgI6mLAZBsHi_QvNrbapBU2paFGnf7lh3ZkeXFdblR9w7DLC_ap9-BMBSiqdjDhmDT6v1le-Z07EVtF9yYveuU5DOoOqX0X10RSWfRxGOQqdVWPH41XTAfqENa--DYB27kocjTThDlBW-JorNmssUUaQk0sfPYHcNkC2mrjdQsO3ho5tGkMtJJlQH0Sj4D_zdd9EJX0lTKBh_CM2fMIIs06TPcyS42C" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -20722,7 +20494,7 @@ Highlights from Major League Baseball.</desc>
     <category lang="en">Baseball</category>
     <date>2026</date>
     <desc lang="en">Seattle Mariners at New York Yankees
-Action from Major League Baseball as New York Yankees host Seattle Mariners.</desc>
+Action from Major League Baseball as the New York Yankees face the Seattle Mariners at Yankee Stadium.</desc>
     <icon src="https://iptv-epg.org/images/grWwfPvLsHS1ed4iWyyrWESPvkip59Ozg96YnrYfPo7TtlGdLQKYU7hwek-ZXU0xr--n5S-7nZs4EH1sOBambC3NnbKxchiX18kuaDcLpKBn0W1HvUmjA8lRLAEdHqSzzd5Zy--pVSuBz5n4QKoETb-TdSnv5uJQlLzdyzpXBF2M7zz3S7164Sa_sZU85tw3gd3n4AbsiitO_jjFlri9SXmnb4ISe1QWQD6Aqb6kLZbnDWxE2a-wKvpjWFEuvAuUqCk1oxOKCn1L_kUFzToMJ8tKaAGo_fFgNhd7dsJUBpM4wU6_O-qZG1zrZBrqHmkveNw-qV3U" />
     <title lang="en">Major League Baseball</title>
     <live />
@@ -20783,7 +20555,7 @@ A look back at the best bowling action from the first Test between India and Wes
     <date>2026</date>
     <desc lang="en">St. Lucia Kings v St. Kitts &amp; Nevis Patriots
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/fwanFTuG01XRHvnKVOXkwSXmliwPhTF15R_Af66QJgO3CEB5DlYCuvICBSBL0GiW8TZN-KGSkT1IZFXJegp3qr2Jl_ch-qOqLohdfSl96BdgIfNgPMXCqe3eRkN2f2e6TB61TW1AjMRXYjnLoZ1usNRIg83tumIMTJjkV7Bfrweuye4F3BRxV_Zj4zHpM_2cs_zf_ZHLfN5E7cx7zK_Wo2MpCYk-nfcRwVjeAt6YnrtBoTYKtt_KedS9cdmntWmCYxZFRJpFt3ToZ5-Mf7cx5OBAq3eBBCNRYzRXNTKCRFTLKYRy5Pcj8qUMwfEPNwsWZ_Zzg18x" />
+    <icon src="https://iptv-epg.org/images/6yMtCcbceYMvBYAxpvDsx47B4clnADxptFcQYkUPWM6_3EGRVzTrpHwYzSGoqMgo-Urb8G8s6x74yKou6zBQevWT9g_FFqGnnIXab1zaCW7h-Hlrvsph-nnCMtoxapHoArIcmIxp_3eAJbXW2ULGK9743fpdkvU2MUz5hnHIuu1RPkNa1b4_izWJcA8dKp-onV9q70BDW71faiSfJDOnj6IoutDfrQ0J_kHWbO3OXJfC-aU_b7Jn-pAIuNutSNh4xEEjUhq54kvDq_Fsr63lxlrNyK5K7-Q25HCYH933oxevki2ssHDiOM5CQhsOJRoWJNOTUOw5" />
     <title lang="en">CPL T20</title>
   </programme>
   <programme start="20260813233000 +0000" stop="20260814034500 +0000" channel="TNTSports1.uk">
@@ -20792,7 +20564,7 @@ Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
     <date>2026</date>
     <desc lang="en">Jamaica Kingsmen v Guyana Amazon Warriors
 Action from the Caribbean Premier League as Jamaica Kingsmen meet Guyana Amazon Warriors at Sabina Park.</desc>
-    <icon src="https://iptv-epg.org/images/uXjB1tOWLN6wfUQdTfIJ21_846wcxzxgcpoUtwBObi2SIJqhL0VnCYB81Yr1lNaUlV7dM-u0kJXQQuvCZWiiRrbld5F3wvUhT3QlrZdrLO5dUMCO6yB7qujuqtvtQnwZkj1h3-BRLKDsr_DghsKTIWCdL_sQr_N7E5BPOWYvRE1Gcheiay-6zXbZSSCcpSeY01xXll7fDqaGRNPwR69q4u06BQ9aV5BWzqKXmP6CSEXKLaUf5JjhoFj3YkKt4s0_DqwMYrfJyJ-DMYl0CiNh0Iw4GIAWadSgwc6I4XLwSj7JmiYV7sjpBg1zPHY58YvW3F1wRPtq" />
+    <icon src="https://iptv-epg.org/images/xZ6qXE0X4IrqkxIqKOR6ds4oMMeGCM8SBgon6lTK0xUnaLTYXVlasaxK_CKwLO61tWHzTq7wzRRDqPtO5oecgsMBDfDzKg8huuDwme_fWYv5jqgm28YkvjFZYzm5Z5CFD2SYDQ6ByF9C0ha_7h9tk4VDtS-na86oC3i20oo2NcaSReTrcw3xJTdFkmyzS2uGLMDSINnFjWxH0_LtAQ4KuF7hsvs3iW0uQhnZzxtXPbmMcGIRDs-KLgvj2TmNJ_iKZzC3CIv0zRCHlQNZPLrpyRKWRcKiVaPdkKyF0uheffrkGFOb5xPfL6Q4WgWHhrcs_s5LpcRc" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -21803,7 +21575,7 @@ Action from MotoGP.</desc>
     <date>2026</date>
     <desc lang="en">Jamaica Kingsmen v Barbados Tridents
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/1Nve13_d9oA9PlfD1OIxc3m9xc8dZgtxNcpYZXJapzoYtnQh404tL3EOdpXGCviY8jB2SXcDDViNzM_ThK6IKeGr3l4MDPYPBvHs-q-0kzVQOAFUci60VYdmjj3xVylnVpx22fJ2ibddurtXAaurfRDvfvZPNRvs_8NM2ADsM4-ojqw_MoIm3E73hardswbflAmBGM-tclR5FqJ2BpGmxBVUdEYdIYhuQ1hDr7tLZ2bVb_1jJc9GIJNHacuLHxImmRu8pf53JQQeV3J-HtCv-aUGxP_g2RjXpiadPaNCtNNX9-kTInk3QDB7LCYdciT3pSV07U3T" />
+    <icon src="https://iptv-epg.org/images/A7ECXq8KeILcwue1iKBXbnSzPODMzkEuAKNPYhST8lBkSd2vnSiXszMTRJyT8jDqy7ola81l8JZ2vd1kfcUBRm-cWpqs0-gF9bIrkAptjcgaRPi7k2Mk4N5hpch5rah-P3Jlhx8EvyxXPBIk-3yMPlYZcoL9RVV1_d6HnvdRIyVAr4h-XZzJnaNQkkpog_sACvkSWWQmcA-xPrml7G9iJ3cu325e43jLa4wqgFQ57qOq2wecQ02kzPZCZKrTPZ1Ua0rSLw0U4QY7QKjNP5bF-NvH41m4g2LcnR2MyFgztfuUVk6xXGe0aVoWI5cirosEWkdytwEP" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -21902,7 +21674,7 @@ Highlights from Major League Baseball.</desc>
     <category lang="en">Baseball</category>
     <date>2026</date>
     <desc lang="en">Philadelphia Phillies at St. Louis Cardinals
-Action from Major League Baseball as Philadelphia Phillies meet St Louis Cardinals.</desc>
+Action from Major League Baseball as Philadelphia Phillies meet St Louis Cardinals at Busch Stadium. Who will triumph in this rubber match?</desc>
     <icon src="https://iptv-epg.org/images/alUrn6HDeg0LWZ1XRw3ieNM7kCXb-1cM-mq2M9KGDzP7CkDjo005E5N7zXdCROsYnUiBqsCclGsubuLVv-u65y33wo0Hl5-wAPId0R71Mn_veblEd4KMfJhXDaPEY0ILykWJqy_L_yoXsnKnbdKxfv3KZIMLqx-TXoEDkad99i9L-Cgur0ZHlditp1MICfnC5ilKsCZpJrLH8ZVFy_PLAkb2nbkefRZzv1uLKoNFppUfbJbtGt6et1-a08JYMqPlz_brlVM3GSge2RhwtpO5jhEU5T2GUydEDMW37Ye4G6HuOUKPLrhsWhUUB_SzO4YGATbgSRP0" />
     <title lang="en">Major League Baseball</title>
     <live />
@@ -21923,7 +21695,7 @@ The 2026 Tour of Portugal continues with a 129km mountain route from Santa Maria
     <date>2026</date>
     <desc lang="en">Jamaica Kingsmen v Barbados Tridents
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/VZuA-Mi1wslq5FoovcjrSEpif_Kl1oQLk8c8P4oZ25B4kCB_cniX125PGep0XLzzbcL_sVpg6MsfLmEn9XkIHU9DNF7dfrfHm6k3oJs1WF0u5WsAHZgMKkNcBkrcYk_sGdGEa0J8lyOMQYfVqgbfZpYWKtj6e7OUQswR0ma36zSg0V3yjInm-IOk3X4Y7NACs6t3WY6sUhjHszE4CbKV2HkKw78XsEcG7DVTEvF3XqIn0ayk_sE7Ol5gClorYDTFIS7nubkrrWKgVsdoWBiXYZSQx6nNxLEIAOCEvpEhffpJrBi-ydrtNWpmrjGhDHBStJ2y2Ejs" />
+    <icon src="https://iptv-epg.org/images/kARpfeQIy_BquwI0SX1amifMbJgbXl2d_uHgW0qq4kFs-kPZPuKjcIjT4Pc8vpRZ-q6RR-MyP-EJ4AHLfnhtXgFzXnpJxXhgGj0zfwTcU2zg2Cjvhk7Da6A424IQKj-ahiJEJkwLstj_Nc3QV6sNjUczpaURCQh62oPzA6UxV1QUjfN-f_WJFQACrYFvssqp60oOF5Q1y5cJGiLnbkC43fixUo8V6L21vWl6d9ArjfB1vPD1arR557TRaVbXbrs18NfMWCIRERgcVjrzAzG3OopkIeWGgnujkNs75YJJ_f3LC1QxiSeDhdqPNxuZ-d8YJ1CCbo9G" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -22034,7 +21806,7 @@ Action from the UEFA Super Cup.</desc>
     <date>2026</date>
     <desc lang="en">St. Lucia Kings v St. Kitts &amp; Nevis Patriots
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/GxWGZm6utio9WhbniMO1Mj00RP2d1v9Op5I9diwyKcuvsxLm4w78aJFhcw9RPHzR1MNq83TpmitX5OiPt7YQRqEfljmbFNHIDGpO1LxuKBxwsMLQqNcw6YBLCEtL6jCz9bhqtz_QxrdN6a2qEMarVNXIJx_9mhAUTctGCv0DnrisyAqKv9C4ZioWsNCYAn9CaYiBl7yBgmu1RkMEJJnANE0WUx5NNT4s_YOxNUE54uWcMEkb7qyrXGLhKwkm52rmP3FjpVkB2-ioOGMbgPRDAap74tbuO7Tczp5yAD3mnXteWwVTRYkwvyoZ3I7o0FMbbrVsnUUu" />
+    <icon src="https://iptv-epg.org/images/HOSxEpSqpWPV1I0QxgbN0WJGNythpGwrVr90Puwiy3gg8GluKU4sctCs-5QeENxg9SrCCYKHcJElV733KXElDurxP5w1PbHVksS_4989IyZ1pXF0wre9Oh4KbnZPn9Zha4EAJH9kZUzvxFrwx0H2CMqpSM5eSKSb6qRh3ns0XYLp_HvsF2RIh_4IvVnqsb_AaZBOkBkS5gE33_EsDnj0HIsvOFpfjjFi5Xwk-29OQJoy9jfkV4Tqnk4dPLA3Be3geTC5lfPuCKJOGbOji_BG7sfoGek1qO0A38XUQpvwuex3lupFQQr61lB591YdPv-Wp9pItYnS" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -23167,34 +22939,6 @@ Action from the UFC.</desc>
     <icon src="https://iptv-epg.org/images/6rTpgGI6r7QLwexuxNi273tSJ3G5XAG9ej_-l5A-6qfKMu0daA7-ELxv7ugNkKU_TkfnU8d9rH1fMotTrf3eFVTgWeqQELczkw8sxHnpox1TMKM9IdGSz1ZQ3cDNg-f7K3anKhISX3iHJ-oNoFYuEG26p0FIkY-srFu4BLTakYWt7KYTS88Xen_kmsXb3Wayo54mAZAXBCjHU2gDvSJjDD-EvdH3OvEd1aw---bkuWaL30nypqIZCdM6kNAVSc90fr1R1Zj_bqIdwK1TJlCWuvVknSbBNIw2IRjBv8ZwVUq1hCa7UsOYtYxqm81K06GvzgodLKmW" />
     <title lang="en">The Ultimate Fighting Championship</title>
   </programme>
-  <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motoring</category>
-    <date>2026</date>
-    <desc lang="en">Perth Super 440
-Highlights from day one of the Perth Super 440, part of the 2026 Repco Supercars Championship.</desc>
-    <icon src="https://iptv-epg.org/images/X0aB5I6ROXPx9mmNYAxAkImFjovJaHq0aOW_pQybFyiIVnycIf_FGDeLaQUkvzSUWIFmCT_kyk2_1CTNkPYW92JefGx2o60lJopEpp1RTGPxxtHc8LOQACvVXwgHI4eajHIVcmVsR0PZkDltC1769xVCyPwjVqA_sfVUvdBrf0HsSVr5AmcZfisTQvV1j6YCoZkmJu5Vme5Sk9o5OHokM3Az74qwh8Db8ousye2bQPNPZCM8FXXQK7q2r8rwhmuWqQy1CeGUBOAkzL-HQR6JoWrDGrE5O81_XuWPtHt60pG-GqIMKzfwWho5PExKwiXSDOzEvCOR" />
-    <title lang="en">Australia Championship Supercars</title>
-  </programme>
-  <programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motoring</category>
-    <date>2026</date>
-    <desc lang="en">Perth Super 440
-Highlights from day two of the Perth Super 440, part of the 2026 Repco Supercars Championship.</desc>
-    <icon src="https://iptv-epg.org/images/M8qgkou3e25ge6cnwiNeQVvxASrSzYDOX9UEH7-jQnU_JP0J3E3xkkouCdpOZkJwma4wLvVC-C_PBXg_lt43lDF2IOU702akP6QsN9_ahV69hJ2K2z_4yb76eJVdgTR9fJgTaFMYL0OfEE3Iv_2zhFVHH-5ZClxFjh2T8SUNIiHvB5ytDxwh9IpN9gdu7lKLxH9S5AYVB1l4u5-F9L9k1pdwZcfMRQ-3psXy6JxqdG3XpWy6oYD-Qla5l5Jr6DEpz3LyhoX0y-7eQhz0UOvEsbVkB3jA_AYp-xuwwQQc8YqbUN_vuW2eEvhoWwvtiC_4fPlN8EZ3" />
-    <title lang="en">Australia Championship Supercars</title>
-  </programme>
-  <programme start="20260812020000 +0000" stop="20260812030000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Mixed Martial Arts</category>
-    <date>2026</date>
-    <desc lang="en">S34 E10 — Episode 10
-Coach Daniel Cormier takes his athletes out for a day of mini-golf, while Michael Bisping prepares his fighters for a huge bantamweight semi-final matchup.</desc>
-    <episode-num>S34 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/dt6mWxzTGtRoQrTQoEaqVm_5GYAN_dFL0nHYVLaLZ79NFzMbLMDwtoqkgNK8t-HEi6v3T92in3bjX0oPYcxa9kNR8Byani5MiBUoCFtGHmz5vGF7lBO23mgmxOF79cOGWVsQzs0Ycj__ndIR6PvfS4OF6d6N7bptnEDtEJcqsLy3Fkh7khofIsm7rb6gGyD-trNTSwIYnFPpOt5v5YQPZSQj9IwV7N7TFQ0aLVV9fiPyqS6bIku_kvaFIWbNdUVYrO79ZjRfzOuNjYxJdCfC8oxrABCRlh4CTMaq1tp_FEp4e486cqCUg4BeKpLf95abnvBfY3P7" />
-    <title lang="en">UFC The Ultimate Fighter</title>
-  </programme>
   <programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Mixed Martial Arts</category>
@@ -23269,7 +23013,7 @@ Host Kenny Allstar talks all things first.</desc>
     <icon src="https://iptv-epg.org/images/mYZxvgv2g3w9pTlSXmahLKepemlKB9Pg7WKXnMduc2yKOuAe7yA2mwfaM8MnWNyHtu6QVsfkRyn5Di0rRocQG145IuQJ5jOj5k0pHVosJp2qWJEIDLlEY3xFe2DjXQgLfUibJJYaZMhxd7rvaV55Hv4LLm-bMX1K2Omft4h0n300fLmA83DereX4zSOwjc1wZZW8GCisk2YSdwg45KYpka63L-mCU_fziJREuiCSHGIKEFSej0wJjFR57vvooeRSu5zPvS_sirJI10pKEZbhaiOrE5YdPpt4wjZDgRVrzZPT4djDNlgB34c1YvMnwDfo_614iGBr" />
     <title lang="en">Kenny Allstar's Number 1s</title>
   </programme>
-  <programme start="20260812093000 +0000" stop="20260812123000 +0000" channel="TNTSports3.uk">
+  <programme start="20260812093000 +0000" stop="20260812124500 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Athletics</category>
     <date>2026</date>
@@ -23279,7 +23023,7 @@ Coverage of the morning session on day three at Alexander Stadium in Birmingham,
     <title lang="en">European Athletics Championships</title>
     <live />
   </programme>
-  <programme start="20260812123000 +0000" stop="20260812133000 +0000" channel="TNTSports3.uk">
+  <programme start="20260812124500 +0000" stop="20260812133000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <date>2026</date>
@@ -24701,24 +24445,6 @@ Action from the Caribbean Premier League as Jamaica Kingsmen take on St Kitts an
     <title lang="en">CPL T20</title>
     <live />
   </programme>
-  <programme start="20260812003000 +0000" stop="20260812013000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Equestrian</category>
-    <date>2026</date>
-    <desc lang="en">London
-Coverage of the Longines Global Champions Tour, as the world's top show jumpers compete for the big prize.</desc>
-    <icon src="https://iptv-epg.org/images/t-FNzr_yLhKNEpzuJFBMzcb4C3ew2XcF-wUrVprBVVMJ6xsEArG-4DhkXQLocCJZDTAcjlqFNRjDJg2oSt3gE3Svo6tZVbdZqVs6kaMWsL4rp7KrlP29yX6VUFXggvFzeZQyYM5CqCMe8HSCwjSzg0PWBZK72cLond2mHQjfpMzYQmbqpcH4GD-RazrcXLzu-pO9PX3Z7x9X_50A6l7rNi8Kw4lZtpP9fWQL0Ez1bwJDKgOeT7rUg6BTGItoZfBc4TNYIrigcHJH1EO9GG9WoQuyqa9_Qpn_xBe2ES1K44A_v8H472VGhVZz5Zv6QgiJVnVNF04q" />
-    <title lang="en">Global Champions Tour</title>
-  </programme>
-  <programme start="20260812013000 +0000" stop="20260812023000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <date>2026</date>
-    <desc lang="en">British Grand Prix: Moto2 Race
-Action from MotoGP.</desc>
-    <icon src="https://iptv-epg.org/images/22yKHwberxQpAd2_mBD8ZREZ5Og6rqjNv5GJrsYLKEvH56o0F6i_7DHO4qjlf5vs4VW2_df-sFuDvA6PCgl0WBVsXtniKT21VA2VlI26g2RsuWKUjr6xnPbniGXsq4Vf5tsN-0xTVRmT_W0Hhz_XhSJnJfCk4xJc3FsMtVP7iKm8jMtyBYIWvdYjySSYkPF4JMq55X2dXkSraG-I-pQnVaYrdyISzRkJwCQYJLJNa6GxBuWuWokrYfbdznXF3DUXoNuaDCv3CMqCPpUHNtknMvWVz20DQQb6E_kfDWCvmUI-kkgr84qhCnxfI98EyhVWPR0LX0cs" />
-    <title lang="en">MotoGP</title>
-  </programme>
   <programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">Motorcycle Racing</category>
@@ -25212,7 +24938,7 @@ Highlights from day two of the Perth Super 440, part of the 2026 Repco Supercars
     <date>2026</date>
     <desc lang="en">St. Lucia Kings v St. Kitts &amp; Nevis Patriots
 Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/EDJltHoVnccpRDSc7ej3sQhoqzZwEHD5h23jifTSmWbYbMu1D7gqnHw1UO0NIeEMc-7aZkoq6LlrLqEOKdWCBwZBrRAjKIn5KX2cJVS3XI2mNTfP4-OUlsHGOZ1YnMNrqvvH8ChgPVY-ggiaBibhxrBhQHZ5Tc8nDJOY0ui7Jn-jOlTkCJwzGKXau9onhxnCYUIp9lixDPKGDIvkka04W1Xjfe8cxMSkYqnm3MoF0Q5LusNKB7pZTYRmzqTsFBYX6PoCNCKFVilcCJacbO3XOYKUqGOYJUeJzh9cy8gA8bZ6QYlWQExIXQgtvN1vQe-Z_-LR3-v5" />
+    <icon src="https://iptv-epg.org/images/u6Hczlplf40baZDh8MQjCd0Tuae0yV2FTkByFvK9yVk1JUan1L7srPI8FTnOX44kJS1Bl3FX3DzIzdGuCTxUHnQqma1KBTg6xfkHrBsiWOg8OLuA-KyVtpor9As3gs9XzRbhULYI02b5A0GRKQ5W4PE-tCUPeVc7BNiyvnQK12TZ9V3FzWWIhY1d82EVTKZTboVQ57HlrO06NwvWylyIJAgBUijQxv3oskil1rQrwtGvyWm94XouIatB6E-BjuXBObDwP1YRQ1wkNEjF5iZJQwK0ZpdW3Mhsv16yBAiJVg4u2vhWFRxt7uzt47uDRkLWqg5WdslY" />
     <title lang="en">CPL T20</title>
     <live />
   </programme>
@@ -26256,53 +25982,6 @@ Action from the Serie A clash between Lazio and Juventus at Stadio Olimpico. The
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260811164500 +0000" stop="20260811171500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.</desc>
-    <icon src="https://iptv-epg.org/images/LNzNJWaxj6A1OdwJMzhspBqvr3BTo-YxevcSfu1MayZIUyyjoQHWkBh5hNiFcY7xEMHcoz7pyWu2RD6p7wEnbSPbR7fo4xSjbNgTX_pFazZ_FRxMlUXNRWTSzjfm3oSKmzbWarxXnbLaFIfHuRF3YcUcKU_ijnsq" />
-    <title lang="de">scooore Polen! Alle Tore, Highlights Ekstraklasa (3. Spieltag)</title>
-  </programme>
-  <programme start="20260811171500 +0000" stop="20260811174500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten portugiesischen Spielklasse Primeira Liga.</desc>
-    <icon src="https://iptv-epg.org/images/-sOrnIDdB85fA7FzK2RDMNbOajwDBSMYbpZNxHgObn07W_uVNX5c8g8-zaZAlOfRAj-dGfE352-S0EiSaqiJcPGSG-iUT3NLhhy8rEVI_KwEOPiQX58OmGUIpqioEwNlAuzXh_zAHEKk1i-tDfK-3ILU1t1POJIZ" />
-    <title lang="de">scooore Portugal! Alle Tore, Highlights Primeira Liga (1. Spieltag)</title>
-  </programme>
-  <programme start="20260811174500 +0000" stop="20260811194500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Benfica Lissabon - Académico de Viseu
-Aus dem Estádio da Luz in Lissabon, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/Md1GHQSFcHgkbibPLydP_NDXxRTgibFw65WDJv_jG0K2gnyYoTnBLrNl5mytpBq5t6X0TVdWhJkyWAnRgRf-Zm2koMuSGJ8Xxuk7-tkh_f4rqQdc3IxzjC8ut36StjUR9_SlvjSG6JkdtzEMm-KNXn65xKUldjM" />
-    <title lang="de">Benfica Lissabon - Academico Viseu, Primeira Liga (1. Spieltag)</title>
-  </programme>
-  <programme start="20260811194500 +0000" stop="20260811215500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem MAC3PARK Stadion in Zwolle, Niederlande.</desc>
-    <icon src="https://iptv-epg.org/images/jPO0d5tm9239CTPtA_HwxTiS1EPZSMYM0Ba4oLCofQSFkHnuxLbYVognzoAPcgixZoqsXKNq9Qc62kepCKQWSnavNq7P20FpWfV31svCbXGQi1ZOPvZiR7OwP-vbxgpZqZk8M7x6gOUeRBFZo25Fuqbj65nYneg" />
-    <title lang="de">PEC Zwolle - Ajax Amsterdam, Eredivisie (1. Spieltag)</title>
-  </programme>
-  <programme start="20260811215500 +0000" stop="20260812002500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">Boca Juniors (ARG) - Recoleta (PAR), CONMEBOL Sudamericana (Achtelfinale, Hinspiel).</desc>
-    <title lang="de">LIVE Boca Juniors (ARG) - Recoleta (PAR), CONMEBOL Sudamericana (Achtelfinale, Hinspiel)</title>
-    <live />
-  </programme>
-  <programme start="20260812002500 +0000" stop="20260812023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">Bolivar (BOL) - Sao Paulo (BRA), CONMEBOL Sudamericana (Achtelfinale, Hinspiel).</desc>
-    <title lang="de">LIVE Bolivar (BOL) - Sao Paulo (BRA), CONMEBOL Sudamericana (Achtelfinale, Hinspiel)</title>
-    <live />
-  </programme>
   <programme start="20260812023000 +0000" stop="20260812043000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
