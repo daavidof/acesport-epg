@@ -23,15 +23,6 @@
     <display-name>NL - Ziggo Sport 6</display-name>
     <icon src="https://iptv-epg.org/images/PR_s_DRdQGU2ryeVqnlFbz1mWkY8CHnsA8J5E1McR9hP5moOQp3Dzgl6YkNrrayKiRZR7RykJrrM83dcDh66vg6p_FZzIbnJfW1ovKcXN8uYSbPzwE7FDzw" />
   </channel>
-  <programme start="20260813000400 +0000" stop="20260813002000 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
-    <icon src="https://iptv-epg.org/images/Dl2KrKovtnBykp9F38bJXx3DN9WeXcy5ZPRPzoMnw8z454h4Fy1MHS4yBzHY0h4T6ehQ50x8kIuAXhfpV0kRemytfTzNc1FtcKR_8QIBUDuGmAUMRpppPL_lnvnAqjsxFB2ZdSxcN0Z6S_ow3y6ZZYcdRPidQSL_ypWDBUZPFl_45pMk85sdAXjO-JyZkX2J47b0carOqVltw4VuVo0Gd6A4f3iMS1MWxJ8Aqka59nEMFg32NikhxeUwU-nMdQRSHDEynOrPn0oi3aOM-d6ZQEhBgqxzylpXAwRQHBdg0J6wiKj-Xg" />
-    <title lang="nl">ESPN Top 25 Goals</title>
-  </programme>
   <programme start="20260813002000 +0000" stop="20260813023000 +0000" channel="ESPN.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Voetbal</category>
@@ -2348,17 +2339,6 @@ Een gezelschap van 4 experts bespreekt een uur lang alle hoofd- én randzaken ui
 Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
     <episode-num>E19</episode-num>
     <icon src="https://iptv-epg.org/images/VbFusgRf0VKs89zeqNjT_2We0T_2VicURLHyg_lqZjdFJdAUdCAa5wodn4Ke4NgwYFZVL7fcy1PrAb4HlZ_d8O7rR25-eUAYSLwJxpJHvQ9LK_QlyBp14w4lK8DT4qfSbotcyKxkD6ET7RW10OS0qPQqkAUoSCTDP77T-DgvItxZC7A7My-Jg2UM0VmEZYC9dFZ3IcyUOwNB20Yt-f_EmQQHoDZ2V7dtoE1ePJPfKIJdVlLioiGSEzarxHVqc-7oF1iF1pEOJIFrfXU01iUQLK7-7kigom2hK1xongvMGzeob66zcg" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
-  <programme start="20260813000000 +0000" stop="20260813002300 +0000" channel="ESPN2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E12 — Aflevering 12
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E12</episode-num>
-    <icon src="https://iptv-epg.org/images/TGZLvB6lRYuqQrSFjNmxnT0uG7FIE5nF0wOVC-VBOeN6s1apJ4T-HRH3AoDMpLJwW7Bc9CRlNxrN3JCNE4pH1765bUth-8Lzq2hPs7hj0PeZnAUvD8WZxcK0PsR1EkP4hWCwJuBHeD-1xySfiBa67l1luC1460eQF5uQ_hFPABBaJZOH9ADuIKCI2n17SGJNndNSXfgaxDvN5Mi5j6zHq3k47swJJHDxK99iimntfLCsCehZSsyimKKrj29jNUIKuzPqAjSXn3jD0n4Bqom4pFD3GSSRpcjhP7qbuey63fYGvQkvnQ" />
     <title lang="nl">ESPN Vandaag</title>
   </programme>
   <programme start="20260813002300 +0000" stop="20260813004600 +0000" channel="ESPN2.nl">
@@ -11532,14 +11512,6 @@ Hoogtepunten van de VP Bank Swiss Ladies Open, gespeeld in Zug, Zwitserland.</de
     <display-name>UK - TNT Sports 4</display-name>
     <icon src="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" />
   </channel>
-  <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Ice Hockey</category>
-    <date>2026</date>
-    <desc lang="en">Coverage of the 3ICE Hockey, a three-on-three professional ice hockey competition.</desc>
-    <icon src="https://iptv-epg.org/images/xfSvY5oyp3kkpMDIOCbEFsZ8XRf9RdJCHXbQ0GQtGir1vKezKQ8zl2jcTjGeo8T4PLteMKVIiSAT6YAZbyNwzzADeF9FosNlEFrxZ0zih7n4Ls7gin_aW3gMiC0oK0BPRlOEz9TdSqJFfnKXF04CDC_yl6O677jv_kQxuHvcLLucWLCGR48CtLBNXs_9hhNPK7fqUhndWSxx-fWveA7s3dZGMGGiEIhcD-0cIylo8SeW5JFSjvn1aZULZ4fWnwqm1XA4AaFGYjNL8vbiuUabHl_Y7WfXZhb_NxUJ_6UFOp2kifzc1SxgPHiWDQ5hd5HHybbkkOB3" />
-    <title lang="en">3ICE Hockey</title>
-  </programme>
   <programme start="20260813030000 +0000" stop="20260813033000 +0000" channel="PremierSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Biography</category>
@@ -18107,15 +18079,6 @@ Enjoy live action from the ATP and WTA Tours.</desc>
     <title lang="en">Live Tennis: ATP &amp; WTA Cincinnati Open 2026</title>
     <live />
   </programme>
-  <programme start="20260813000000 +0000" stop="20260813014500 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">1996/97: Newcastle United v Manchester United
-Relive a classic game from the 1996-97 Premier League season as title chasers Newcastle and Manchester United meet at St James' Park. It would be a memorable afternoon for the Magpies.</desc>
-    <icon src="https://iptv-epg.org/images/YXU73GV4EeN9k_ms_8jWiqaULm5lhz0wA1zX7k7sGS1X5tvqU88ewLlxL92OpSuClmbA1WnNNryZPapqQr6G1XENE3Id7g3ysk2apltfgiuGN4Ds2L3p1g090oE_8PTeOy2afFaMkASP7R5Bo1siDn2RC7w5Nqx1rptIarc1azw3llqlcsy-anV1bEQBzK5-ng0jIts0dmf3i6cCC_cOlEDcBfpPf7f6glfNpieDkxnXvzwJ3qcvRistZ48GKW4FAwCLXoHFuMZYbFIrwhJjjD5PWkf1Qk_ctW08NZDmoPlXOrrowLNcrx8dWc-20gpfHBAf5iLB" />
-    <title lang="en">Prem Classics</title>
-  </programme>
   <programme start="20260813014500 +0000" stop="20260813020000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -23068,15 +23031,6 @@ Action from stage one of the Women's Lloyds Tour of Britain, as the peloton jour
     <title lang="en">Tour of Britain Cycling</title>
     <live />
   </programme>
-  <programme start="20260813000000 +0000" stop="20260813013000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Paris Saint-Germain v Aston Villa
-Action from the UEFA Super Cup.</desc>
-    <icon src="https://iptv-epg.org/images/fkuUKMLrGqs6PM8OeVujRGi4DvtsvijJ90CBrtKrjPONDem9UvwQTI31B9gJxxCxi6Ay01U798lx8uh_2a7R1yV-nisUl2xKGsXOKs3r_lK_XfNdqdSeIdmCWGDPCA02wrs_EvDuGi0gFpL2_BJkcBYoKzlVABMvgvtwCWW295ARM3FRhS98U_CskvcYO8SIE6opqOELIUJa2igsAQLZ9w5DGKqb0nXFaYregBCIOJ2MOCQGCVngdN8FNinjdM8QBDf1tLtWgftstpU8sFSjsb25Kt5kGw_I183WJ4-i_Vd-rervlHLIbAWkps0zcIJ9U2Nb03no" />
-    <title lang="en">UEFA Super Cup</title>
-  </programme>
   <programme start="20260813013000 +0000" stop="20260813023000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -26033,46 +25987,6 @@ Inter go head-to-head with Bologna at San Siro.</desc>
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260812174500 +0000" stop="20260812181500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Alle Tore und Highlights der Campeonato Brasileiro.</desc>
-    <icon src="https://iptv-epg.org/images/rHt-_-B7_ji0pEzyLv7bOwj1I-S_Ck5IriYbXf3r0qifi1hsNuw0Hvhbp6jItvPJm3GlmggBI0RMNlFcDXyRh82i_Fl8yngt2kEEfWRV0ksw2T8cvOIBt5F9dupuH-nuAe0BfB3U7hbMZSdMx9CBTjZQ7lcV8-He" />
-    <title lang="de">scooore Brasilien! Alle Tore, Highlights Campeonato Brasileiro (22. Spieltag)</title>
-  </programme>
-  <programme start="20260812181500 +0000" stop="20260812184500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Es werden die Highlights aus der Liga Profesional präsentiert: leidenschaftliche Fans, rassige Duelle und toller Fußball. All das bietet Argentinien. Um den Titel kämpfen meist River Plate, die Boca Juniors oder Racing Club.</desc>
-    <icon src="https://iptv-epg.org/images/CxruUTc13jXvRem5nJrUv6CpMnlppH6anNrWYjMdEZEdY71ahga3l1tbVr_N3qskDzDcwJHSWhv7uBKPVmDad4a7b4MUnlDyH1QVPzaGAdRkCtv5_DWQXb-3QNg9ByqAEk_uMegiKoBtMo80mI4zNWD-PYgaf7Fv" />
-    <title lang="de">scooore Argentinien! Alle Tore, Highlights Liga Profesional Clausura (4. Spieltag)</title>
-  </programme>
-  <programme start="20260812184500 +0000" stop="20260812211000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">Deportivo A Coruna - Real Madrid, Testspiel.</desc>
-    <title lang="de">LIVE Deportivo A Coruna - Real Madrid, Testspiel</title>
-    <live />
-  </programme>
-  <programme start="20260812211000 +0000" stop="20260812231500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">FC Santos - Athletico Paranaense
-From Estádio da Vila Belmiro in Santos, São Paulo, Brazil.</desc>
-    <icon src="https://iptv-epg.org/images/aRMOyk7upk7Q8qvbopM64H2TGd0z2SM9KNpFGcRNhJvJIYkjkizD0N2k_SOrDYnLMp0eyRtyudU9cgiJzVwAEGa7iiN_eA8UZkUTUqzJRrG5570dpdAn47YcUa5uPz9Y3AG8Ljd3Z7kgLYlv_H7MDeukV2JvSYg" />
-    <title lang="de">Santos FC - Athletico Paranaense, Campeonato Brasileiro (22. Spieltag)</title>
-  </programme>
-  <programme start="20260812231500 +0000" stop="20260813011500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Sparta-Stadion Het Kasteel in Rotterdam, Niederlande.</desc>
-    <icon src="https://iptv-epg.org/images/cb47P2jvmEG8bv8Ncv3au3f_Y4r_Ha_VgS4-51nwZblTuy8fii_UxuieN40NQzXKXpZN8gFIWqEsoKqX1vf4CczS5qcj2HzE-2fJidRc4MpsOKd2tGcecGMlqPnd2MfgYZXFBFJKfEqrscPX1680PZ7d6DGJlS4" />
-    <title lang="de">Sparta Rotterdam - Feyenoord Rotterdam, Eredivisie (1. Spieltag)</title>
-  </programme>
   <programme start="20260813011500 +0000" stop="20260813014500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
