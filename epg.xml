@@ -5201,16 +5201,6 @@ Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale s
     <icon src="https://iptv-epg.org/images/67-aqxp5dL86pa2KYFTOpFsEAyhyXRxXwbxaz1iamTqdjuxwUR9UEAiosZz5Yv0AmrpGutWux3iDtlwBFJl4mqo5LNhQ1xNc4Ozgxkl_2QfdIAjGac-P2Pkklj1AQQO_BDVQvFLvlS-s5S6lPR2nEVF2yIVPlo4E3VfOCaMDnlEP-XPoS63ldE3WfEr3mKP-uQ9KRSVXFPiHcfiHOuRP9bTTJ1F3aopULfZYhTmItv3KzklytkQQIryKCsbO--NRo4HEVP9lIrawFDmw0UHr-aEOY025QMHw8b620RdcPbp1vm3PuA" />
     <title lang="nl">ESPN Vandaag</title>
   </programme>
-  <programme start="20260815000000 +0000" stop="20260815014600 +0000" channel="ESPN4.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">NAC Breda - VVV-Venlo
-Verslag van de wedstrijd NAC Breda - VVV-Venlo uit de 2e speelronde van de Keuken Kampioen Divisie.</desc>
-    <icon src="https://iptv-epg.org/images/9dNuy9yuqmiRFQLQqF1hyakol704dIpYCSa1hE9_D47feKRNAAidnNBkQ9V1CsNNPOywwPWp72b5QXB4M54uLfaqcPhFMNHZwn3RImObihWBN9ylsf0XMkVTuXYT9Dokb_2aAsp2ZHKMyPEFwwQlhRF-ZMYN-S2JzEMi9CKgxHqLEKdXjdDDWwdo7pDrHvrD-CYDBDnSKPkrww1L-P_I3lykdnQvsQTAj-vymttPrjT14u4LtCQ1BbFH_X_dH34JyQTx4jpZu4E9Sp_k57HmK9gGNVIXfe9kE4Un_bumbUZmGyo4Vg" />
-    <title lang="nl">Dutch Eerste Divisie Soccer</title>
-  </programme>
   <programme start="20260815014600 +0000" stop="20260815023900 +0000" channel="ESPN4.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Voetbal</category>
@@ -12066,16 +12056,6 @@ Verslag van de tweede dag van de BMW Championship, gespeeld in St. Louis, Missou
     <display-name>UK - TNT Sports 4</display-name>
     <icon src="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" />
   </channel>
-  <programme start="20260815000000 +0000" stop="20260815020000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Second Round: Kilmarnock v Ayr United
-Kilmarnock and Ayr United kick off the Premier Sports Cup knockouts with this last 16 tie from Rugby Park.</desc>
-    <icon src="https://iptv-epg.org/images/CzoDcp753zKELQAYpqCyEux5WO7rG02hsHT-uebtF3pFsc3mnV5Y0mK8Ei0I0fkzr2JiizWIJaPFeqN6OgWwBCu70VuBdpdnheCNRnZx53BqTQMnHpPe0AKy-bMtsGld-JczIkSr2HVaH433AWPh2AetcSnzO-OWaUHjSGPTm8ZsitwC-aFLK_b28LlXQIe4HGUsDACSuaReb7qxNflEh5sn0HHTtBvsnGDHiNUNigRnMB5EO0xymyFrk4SaFipFjKmrhu7J0Xk3BAfvrCaFwrN0rAcyE3Cy8yjOMHVVcH8byfH8pUrwChuArntKtTRoacWK5qOR" />
-    <title lang="en">Scottish League Cup</title>
-    <live />
-  </programme>
   <programme start="20260815020000 +0000" stop="20260815023000 +0000" channel="PremierSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Biography</category>
@@ -13684,16 +13664,6 @@ DTM Motorsport Highlights from the latest race taking place around Europe.</desc
 Coverage of the LALIGA season.</desc>
     <icon src="https://iptv-epg.org/images/kEm_eCA8RXlNJK8MUAIIHHY873FrJt4lS2O2NwCu8B5AYZRGRr_T_X8XbhBNkBsHxZtZWecKbZjd2JreCGPR_WTgUyVxjbULRZ9mdJoGXmdFQgo9aebZibo5h955W98hiBXC-dXFEYwC9h-JYm018o7gEIWwJo8jtmrEA3tTKf6pBRA80fls8IASg28u_8GQLYgGyGiXSHhnHz-lfkK0d88X8gsHsRWlpkEEZSPOdJG09FZsASCI7OV8aLg2RYc1OXW19RrLfihHBh5ZoOKzM23I1smBxPDx2kr73A-M_Rc9qdAlYdKeS7-T1kA1-2XIAHdjKdZ9" />
     <title lang="en">LaLiga</title>
-  </programme>
-  <programme start="20260815000000 +0000" stop="20260815020000 +0000" channel="PremierSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">First Round: Monza v Avellino
-Monza and Avelino battle it out in this Coppa Italia Round of 64 clash at Stadio Brianteo.</desc>
-    <icon src="https://iptv-epg.org/images/CvBXg_hyRHID_E1OTQilAPBH1RkTJhY2h0ECoynobe25IfuOD2TNGrJbUUr3p9R5ZapOnUjO_7DkkIsxLgDx7ZKSNWit2OTfq_1K6VtEkDeEPYq1S3LKxE6Fvc6K4_n3iLj_1PzixZeNHL9KTmfbQbndNgpA2iiweBdcEpTCOREkcC4hAxhDYNhph6rsV045dumRVt2q1ox3XAuqmtAgS5ikp1s3b0hAmvOAk5jwqJ49-FuwLiA6Sk_po3K0jc9GfucMbtlaLOgTL3jWtIAYKQJvXocC3c0HqkWMQXkm9XV9COdGa9q20QIxn43LonWF8PupKfzG" />
-    <title lang="en">Coppa Italia</title>
-    <live />
   </programme>
   <programme start="20260815020000 +0000" stop="20260815023000 +0000" channel="PremierSports2.uk">
     <category lang="en">Sports</category>
@@ -19001,15 +18971,6 @@ Enjoy live action from the ATP and WTA Tours.</desc>
     <title lang="en">Live Tennis: ATP &amp; WTA Cincinnati Open 2026</title>
     <live />
   </programme>
-  <programme start="20260815000000 +0000" stop="20260815023000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2022</date>
-    <desc lang="en">1995/96: Liverpool v Newcastle United
-In this goal-filled classic match, Liverpool welcome Kevin Keegan's Newcastle United to Anfield for a vital clash in the race for the 1995-96 Premier League title.</desc>
-    <icon src="https://iptv-epg.org/images/94UOtx5919HyMATY12ong4vSAK7bNo45T2J1owYynFSjdNDbot8vSUVDvau-fxMaVa5CfSKV6IAtMFX_X3OnWeRr4vgfxppzfmIN7UcPkOsTol-9vrMNxRSRHgzpuOcyYiX0eBaDWKDJmLfmuuJtdZDasUngOb1X5X886kaxbcYNeBYjA6fq7WbDvN9FHYzM05dmJb5cfP8bVG6pcquJpVjIhb_XGNzRAAHMvW7-Xn3z8f4HdlKWM8j8bRJMPiyeFBbW99p_aobRzls_Rwr8xhKQ2SovSzZ87c2s8Je-zugnkGSnF9Xs2fXMQfV-K0f54SzvQQgD" />
-    <title lang="en">Prem Classics</title>
-  </programme>
   <programme start="20260815023000 +0000" stop="20260815024500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -23641,16 +23602,6 @@ UCI Women's World Tour action from stage two of the Lloyds Tour of Britain, feat
     <title lang="en">Tour of Britain Cycling</title>
     <live />
   </programme>
-  <programme start="20260815000000 +0000" stop="20260815021500 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Gotham FC v Kansas City Current
-Action from the National Women's Soccer League as league leaders Gotham FC face off against Chris Armas' Kansas City Current at Sports Illustrated Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/mDP-N2e7nh5ecGZq7_fEL0cWbre1lT3bA30YDo9QDUPmwGrDDJ-6QggpMNwwFZrzGQXoZ3_tF6hVyxIJIDXCXZXCg4AAlZ7o6KlmN-TyZsea_IqDpjOBB8DYEnaqRqwgq4gS38KEdGh8nFUiS8TXCL-wimNvytdZp1b9B4lvn_0YmKXB3yT1g1iJcS6Ymvcr1RMgoVPl041X349GXJalPDxYldoO-0Xm9Cvngiv-6CpTSg_rjS3YnBBdiMEboNinErvhjp5f-7cVMiHmK7dWdUos0FetkZsl7y5AiPUKd_nXnmAh9LjEZDDkkCo-pwDRwb4zLXH_" />
-    <title lang="en">NWSL</title>
-    <live />
-  </programme>
   <programme start="20260815021500 +0000" stop="20260815030000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Mixed Martial Arts</category>
@@ -25124,16 +25075,6 @@ Action from the Caribbean Premier League as Saint Lucia Kings meet Jamaica Kings
     <title lang="en">CPL T20</title>
     <live />
   </programme>
-  <programme start="20260815000000 +0000" stop="20260815010000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Poker</category>
-    <date>2026</date>
-    <desc lang="en">E40 — Highlights
-Coverage of the World Series of Poker.</desc>
-    <episode-num>E40</episode-num>
-    <icon src="https://iptv-epg.org/images/QSX5_VQ27gTDss4XtWZLaDMXNRSSrCxOmXZF8lXJ_qTQn7jAFqbUJ1wdtMH7LBd7S9TEKCdJUo441hXdlvv353sa_qqgiozQK9JE__UjCwAt4lR_sdaFKvWl8dN0CxpNYVrAzSKd2jGEXt9JyKaypf8RLUL2Q-6m1SeoinyLSEGPHIVqiuaGPjamjPjMWfvdZ8jmWRxqirOy26BDmbZn4_U9V8ZpFH73d2oK5br2o4t3ACkutd4e0BjZmjLpMRtuyrHumMNtmKIYJuOfm2eFMuy004mos7ucRItUgfeekiJGwXj3Aj8joPYsIieiSzNJptGdXUUq" />
-    <title lang="en">World Series of Poker</title>
-  </programme>
   <programme start="20260815010000 +0000" stop="20260815020000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">American Football</category>
@@ -26478,44 +26419,6 @@ Action from the UFC.</desc>
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260814180000 +0000" stop="20260814183000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Footballs Greatest Stage,Sergio Ramos
-Im Rampenlicht - Footballs Greatest Stage.</desc>
-    <icon src="https://iptv-epg.org/images/_qI6hrhHnwuTdlJxVW-hsoDC_4ldpYgtg424ANbyYLN9bcGh8hSDjHkFXPaUAJFLswHmc-5VRCdrPKShl69i4Q5eGgllO1UnfyzrjxnuR7tDn5tTxvk8rchk2dHuG-3IY80VhwO18_5AiD-MQ6WpiOmstjHAKbU" />
-    <title lang="de">Im Rampenlicht - Football’s Greatest Stage, Sergio Ramos (Episode 24)</title>
-  </programme>
-  <programme start="20260814183000 +0000" stop="20260814190000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Alle Tore und Highlights der Campeonato Brasileiro.</desc>
-    <icon src="https://iptv-epg.org/images/rHt-_-B7_ji0pEzyLv7bOwj1I-S_Ck5IriYbXf3r0qifi1hsNuw0Hvhbp6jItvPJm3GlmggBI0RMNlFcDXyRh82i_Fl8yngt2kEEfWRV0ksw2T8cvOIBt5F9dupuH-nuAe0BfB3U7hbMZSdMx9CBTjZQ7lcV8-He" />
-    <title lang="de">scooore Brasilien! Alle Tore, Highlights Campeonato Brasileiro (22. Spieltag)</title>
-  </programme>
-  <programme start="20260814190000 +0000" stop="20260814213000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estádio José Alvalade in Lissabon, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/w2N_cf0pufx5wk61WUZmszhltABOfR3WPRji8PHbLwiYYJ2JkqLU9CbgiS_YTxA9K8Z8WOA4nhmigsyGM3rSXCmuQRcQTvGQkUcFQk5MOO_KudCdrcn1nNcPQVMRQ8ozX-wDrvmFaOzaZHkbq7-VMKT_Us7ZJZ8" />
-    <title lang="de">LIVE Sporting Lissabon - Vitoria Guimaraes, Primeira Liga (2. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20260814213000 +0000" stop="20260814233000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">(Wh. v. 13.08.26) Santos (BRA) - Macara (ECU), CONMEBOL Sudamericana (Achtelfinale, Hinspiel).</desc>
-    <title lang="de">Santos (BRA) - Macara (ECU), CONMEBOL Sudamericana (Achtelfinale, Hinspiel)</title>
-  </programme>
-  <programme start="20260814233000 +0000" stop="20260815013000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">(Wh. v. 13.08.26) Besiktas - FC Hradec Kralove, UEFA Europa League (3. Qualirunde, Rückspiel).</desc>
-    <title lang="de">Besiktas - FC Hradec Kralove, UEFA Europa League (3. Qualirunde, Rückspiel)</title>
-  </programme>
   <programme start="20260815013000 +0000" stop="20260815020000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
