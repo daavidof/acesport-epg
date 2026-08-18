@@ -2396,17 +2396,6 @@ Een analytische round-up van de afgelopen speelronde in de Eredivisie. Wat waren
     <icon src="https://iptv-epg.org/images/RkrnEr7pXa95m6ngunIFpB8MuN-m4vcBv4JZelkhDQ99lDDb_4DerKfgh_pK273mrps5QQStwdedhVd0zbDfkYh2xKjFO7YKPVm1rJQfEgR87wbggCtO6pbcXj-S45Nz8B7Mcw_OfFkU7hBb9L5jkJpnb_WNFW-nNMcELu4i2GItNt5eeIIE5MVIP3i7kh3a0V-boQCcqE84RHv6upu19ONBbwBvWEXfnOt9zyrJcfE8pQB4WA5CwPFa-2ZB_M9nx5s05tVjKzFX8xaOHYuKd2_dd6NKjqZpnJVxnSGdDZJ9LmkpQA" />
     <title lang="nl">Dit was het weekend</title>
   </programme>
-  <programme start="20260817000000 +0000" stop="20260817010200 +0000" channel="ESPN2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E16 — Aflevering 16
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E16</episode-num>
-    <icon src="https://iptv-epg.org/images/aNIzhnkZeTpIUWD0BPV6XZbVpPht1al0-vszsdAz5_8GpAHixJX8J_leFRam7u0Xb4Bvfnkhd_4tC_mbiShZEO47lpL7xjK66uNvrvCn_jUrrEVabkm897mL6QYF5zDiKx37AYYJsAeWNsVuIcsGLP6sbhT5ppXmTNlD30vk3MHjhZWM_eVUaAUD_s8HBRvE1EI0EY4-_Ml7O500S5K2C6PhcCcCzw7GvRnh8k70QjpOEZxgsCI5oAFZdKI4YvuGoL37dbIRJmUd1kNqYXZHMO5IQ3douqy68jzyw6_aVVCJCGnpgg" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
   <programme start="20260817010200 +0000" stop="20260817021200 +0000" channel="ESPN2.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Sporttalkshow</category>
@@ -12263,15 +12252,6 @@ Hoogtepunten van de Irish Challenge, gespeeld in de HotelPlanner Tour Series van
     <display-name>UK - TNT Sports 4</display-name>
     <icon src="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" />
   </channel>
-  <programme start="20260817000000 +0000" stop="20260817020000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Second Round: Rangers v St. Mirren
-Rangers and St. Mirren battle it out in this Premier Sports Cup last 16 match from Ibrox Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/ZchhsJab_G4DBmAcckKJa2K1mYUUpXS5SSGyziTLuyQfQBfCMErBj3lshvOHAJ9KTmv7cbDD5c9jVx_QLWtGm-7e6G-YMrzkV2xX5qMH-pSXDZhyUTUTBRG9uA3jr7T0gV0RY-ZBUoFjI4p4CMZjJ-AxIdldJMXeFRVD19Ibd-cenyiY4l4hyHHeg_t9W6Z4xIjWUtlJAg_s1OUuPa6enQEXXTrAy9jSFeK7O0rcQdW8M-sCDKUo4WC9ZfQ1ljcqU5AMEx1y2gjEzrpQEqrytA6VzNz6ZcSDOomAPlEWBcPXCuwmfaaBvpLixRNbJ2N3kfz7iOeQ" />
-    <title lang="en">Scottish League Cup</title>
-  </programme>
   <programme start="20260817020000 +0000" stop="20260817023000 +0000" channel="PremierSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Biography</category>
@@ -13939,26 +13919,6 @@ Coverage of the Campeonato Brasileiro Série A, the premier league in Brazilian 
     <icon src="https://iptv-epg.org/images/BeZM_P5SzTUAI90R8Y-A1gVayd2NNMnfU9fUq-8Vh3dVpZmBV7mlbEZj00OdTiGxj2OCo9Pk331Igt82Ebp1GV8869H9e3f2Qv2rQseFuuSWpwqYs2iEBdvw_pGDue5DRzhRnTBmHlN7dTU6T5X4_FQMcsxcvL4pnJGlRkHDW_oJR4QQBYyBjNwlqi3XWWt7rMoNOMI1woMjim1DdFrPz59nPNcYVxyQgt5RYw46nc54y5HPfvpQUwr1lozAVD32qJE7Gn1N_Z_Ik8qEP1x6LNpy1fWTbbZZEg7l0m-mnhw6BWt8oTxYP021299zVTp1OXiel5fc" />
     <title lang="en">Campeonato Brasileiro</title>
     <live />
-  </programme>
-  <programme start="20260817000000 +0000" stop="20260817003000 +0000" channel="PremierSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <credits>
-      <director>Alan Rawlings</director>
-      <actor>John Hogan</actor>
-      <actor>Chris Northover</actor>
-      <actor>Luke Bowler</actor>
-      <actor>Suzy Taylor</actor>
-      <producer>Kevin Andrews</producer>
-      <producer>Chris Abel</producer>
-      <producer>Nick Jones</producer>
-    </credits>
-    <date>2024</date>
-    <desc lang="en">S9 E148 — Episode 148
-Bike World brings you the latest action from the high octane world of two wheels.</desc>
-    <episode-num>S9 E148</episode-num>
-    <icon src="https://iptv-epg.org/images/zYT9RToHUzGVTvOJDLYemVL4ggkhRK1UlOQKq5HGYfGZaRZ8UwJinTZGPLbXUOcwTLmnxRkQGgA7RiJqja7rSA4Bj0thGJzRtPFqHWPCWrJiDmeX2khWrlyMrseGIOjkNusBA-BD6oSOcmMEt7V3gpnUpEX_C_7Qhj1i_T3vnMigUi08jrwP2JIr8aH6GcQ4REJ-_6dgPt5GH5LbE72jop-GhEY82eBsX1xlB44-l4k_jl_QMNKiqhjOG94Tg-ER4OZNceyYdNKEFVCWjty8vCXjTStmY8n5VyfZpLT647OVbleCkzZSQlNB4XMEaWW_CgWnoaDj" />
-    <title lang="en">Bike World</title>
   </programme>
   <programme start="20260817003000 +0000" stop="20260817023000 +0000" channel="PremierSports2.uk">
     <category lang="en">Sports</category>
@@ -19255,15 +19215,6 @@ Enjoy live action from the ATP and WTA Tours.</desc>
     <title lang="en">Live Tennis: ATP &amp; WTA Cincinnati Open 2026</title>
     <live />
   </programme>
-  <programme start="20260817000000 +0000" stop="20260817020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2000/01: Leeds v Liverpool
-Leeds United welcome Liverpool to Elland Road in a classic Premier League clash. It was to be a goal-filled afternoon in Yorkshire - and a memorable afternoon for one striker in particular.</desc>
-    <icon src="https://iptv-epg.org/images/2fLo5Mt7aCuAhlb_t2ENavi9AAhDxLIhCbYFDm6bnWrUfvDOJdL2v-AOwmYigO5eSXX2knrtpntAsFWeZatbZtzuriFkxmmrM5m_E-5zYJofVwPbrtQzJ477QDY6RpmGRmNx8ohiYNUXXjLMvh57Y9j5D9wHHgJLcY6VcNjWEr29OYb0d6vsLjot3WKwQlZwhSO0A0nzhBe9kXV2dUgzE_dYf9EtsCnG-THJIVYvXC457hCy-OGKx7bGgcyHkPJtl0PT-a_zoPbYVdhpsZnfJZi4D9JOTbqh4IEv3jFE9BUqku_eekJCe_io1A5PYfc1X03WJ1JH" />
-    <title lang="en">Prem Classics</title>
-  </programme>
   <programme start="20260817020000 +0000" stop="20260817021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -23922,16 +23873,6 @@ Action from UFC Fight Night at the Golden 1 Center in Sacramento, California, fe
     <title lang="en">The Ultimate Fighting Championship</title>
     <live />
   </programme>
-  <programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">E40 — Season Preview
-All the best moments from the latest action in Serie A.</desc>
-    <episode-num>E40</episode-num>
-    <icon src="https://iptv-epg.org/images/4EqqE6lS3qExq7XVYl78r-msv-Gnhb0LsH9O6AOT2lnjb2BDtVWZ0V1vM3AZ-AmXpwoDwxSOcZLhW_OiFqA_UuWmt6kIxlxj-I0MxxRWkRnLsQ-QflFkCX6WLnnDvRX3Qi1yDtdnbpwiruCiUYDu3cn8h-rnEDRnxO8T5peTgN_S1jNsSI_kT0tiHmEkIbpT32RffLUItPx-bz2WGgwTlbHQ_B3IsWAfmyMXBMbibtoKn0bTqxAZ7fGu8jQLSsIhxRD4RlSQMcIXZPl6HQ6YaZ0rO505mEU2e731k-iXxaMKLW-80f4V2ouCW36umdxME7vr3NGB" />
-    <title lang="en">Serie A Full Impact</title>
-  </programme>
   <programme start="20260817010000 +0000" stop="20260817031500 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -25393,15 +25334,6 @@ Action from the Caribbean Premier League as Antigua and Barbuda Falcons take on 
     <title lang="en">CPL T20</title>
     <live />
   </programme>
-  <programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Cycling</category>
-    <date>2026</date>
-    <desc lang="en">Stage 4
-Cycling action from the Men's UCI ProSeries.</desc>
-    <icon src="https://iptv-epg.org/images/0SqzDcX3v_miheMFCpCKgsFgxAbu3taRqLdClTLviHNxPzMX_A7MfyPNcOcuNiywRguJ7KhzW4MlR0f8g4Dwr0ZcyK8T7Z91bKDrYI6Hfz6RjJwBYIh6bX81k9h5ilhTMJW-T56jUeYZtzFDQQDGR_xrB2iZX6XaEzm4FPR5dZzqpsNxX8al9Yfdr9qsh1mr2_RKguaHr_v5n1L0ntLSBRvpXokIqHjgyBC1n7c5c2uNtEV-WZ1zP5tV-Hq7O44NNdTUAoesoY8udpHjRZvJ9wsurbfe4CymA4J4FjdU7mFrNGyMjBKxALg6xgRtHiPw14ZLzq5-" />
-    <title lang="en">Arctic Race of Norway Cycling</title>
-  </programme>
   <programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">Cycling</category>
@@ -26829,58 +26761,6 @@ Action from the individual jumping final at the 2026 FEI World Championships in 
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260816165500 +0000" stop="20260816171000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>1997</date>
-    <desc lang="de">Übertragungen aktueller Spiele aus der holländischen Eredivisie, der höchsten Spielklasse der Niederlande.</desc>
-    <icon src="https://iptv-epg.org/images/XbD25FP52xsXvv0wB5f8VvpuijCv7V469WCwouvYvn9k9R0PIsEWNDBX1O08slYdFPJ0fFXbj4cBlhtLpQLGkNy9R8cULCrC-xdQTzGWSzF8W8shIWufJRo-fO66aw-3se2-_hI2KJmNAo7Lb8_6OB3f671mazs" />
-    <title lang="de">Luis Suarez - Top 25, Eredivisie Top Goals</title>
-  </programme>
-  <programme start="20260816171000 +0000" stop="20260816181000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estádio José Alvalade in Lissabon, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/w2N_cf0pufx5wk61WUZmszhltABOfR3WPRji8PHbLwiYYJ2JkqLU9CbgiS_YTxA9K8Z8WOA4nhmigsyGM3rSXCmuQRcQTvGQkUcFQk5MOO_KudCdrcn1nNcPQVMRQ8ozX-wDrvmFaOzaZHkbq7-VMKT_Us7ZJZ8" />
-    <title lang="de">Sporting Lissabon - Vitoria Guimaraes, Primeira Liga (2. Spieltag)</title>
-  </programme>
-  <programme start="20260816181000 +0000" stop="20260816203000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Górnik Zabrze - Wisla Krakau
-Aus dem Ernest Pohl Stadium in Zabrze, Polen.</desc>
-    <icon src="https://iptv-epg.org/images/QfqQ-V19mBWhnxu6oLxD_WW6NIlATCZ2PFIt2x7MMT7i7En8aefqcJrooMb9Plnc7r_xkXXK3O10VJHMJcSseXF5RCEVmzYGPI1VgUc0i0eXb67qQN-5PK4s6ITBBKnhaCmQ4LqGp3lAnc8XjCx5xwfalRiZtig" />
-    <title lang="de">LIVE Gornik Zabrze - Wisla Krakau, Ekstraklasa (4. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20260816203000 +0000" stop="20260816205500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Footballs Greatest Stage,Sergio Ramos
-Im Rampenlicht - Footballs Greatest Stage.</desc>
-    <icon src="https://iptv-epg.org/images/_qI6hrhHnwuTdlJxVW-hsoDC_4ldpYgtg424ANbyYLN9bcGh8hSDjHkFXPaUAJFLswHmc-5VRCdrPKShl69i4Q5eGgllO1UnfyzrjxnuR7tDn5tTxvk8rchk2dHuG-3IY80VhwO18_5AiD-MQ6WpiOmstjHAKbU" />
-    <title lang="de">Im Rampenlicht - Football’s Greatest Stage, Sergio Ramos (Episode 24)</title>
-  </programme>
-  <programme start="20260816205500 +0000" stop="20260816231500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estadio Monumental Antonio Vespucio Liberti in Buenos Aires, Argentinien.</desc>
-    <icon src="https://iptv-epg.org/images/ok7Vf2jqU3YPPWuoVHO3dBobCKbki0nj7Yfnk3cN5gUdbRS1UbLqsRn9aUAB-qZ7CP0J3yp8hoi7uwfygbNj_ybes-X7cEE09Hw-FnRQbIp94Xeq0dqIhcFUhymApBQLx-ZxRmu2skxmZF5ZYaiqXP8K2aesX8s" />
-    <title lang="de">LIVE CA River Plate - Argentinos Juniors, Liga Profesional Clausura (5. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20260816231500 +0000" stop="20260817012000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Feijenoord-Stadion in Rotterdam, Niederlande.</desc>
-    <icon src="https://iptv-epg.org/images/1g--m_N7H-SmwyYuYYqDrPAyNtAvg3Vhqhq8HtT4MZzsK_cpia57GBe8VSwLZo7Oa0y7WUipu387Dhf2YipC2QPEXZETGOIordLri1jcXfNFVUX8xJxTCz98icAIyMkhqpj2LmHNkUZC2pAhSRAvM6Mj953JMQQ" />
-    <title lang="de">Feyenoord Rotterdam - Go Ahead Eagles, Eredivisie (2. Spieltag)</title>
-  </programme>
   <programme start="20260817012000 +0000" stop="20260817032000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
