@@ -2408,17 +2408,6 @@ Samenvatting van de wedstrijd Jong FC Utrecht - Heracles Almelo uit de 3e speelr
     <icon src="https://iptv-epg.org/images/yM65hDRqoEDqtjZyO2q6JatbRGzf2L1lh1CduxjoR_qWE6LUc3Pq7KMrbBnOknQOLAw0_ECypB2YJgposZj4tOv-a3d2yKanc7FvousCQIYMNv9GQkmYKYQMGSzEZz8Lazk1OhRBFIYO85ZYpiRxSLSJ6YDKnFJhMuGH_wXxknrllM3yAYY_osj_pLAZp1JnxhSOIK7LVFFXL4C-BNu8qmpBS4YvbVCa45c94efUte-Cfuw3M1VPE1ng9QmBeX1gmaCaee0fMMrpYaN1cO6qkr2cCCmD6KWztKbsAbhSgRCNWcaodg" />
     <title lang="nl">Dutch Eerste Divisie Soccer</title>
   </programme>
-  <programme start="20260818000000 +0000" stop="20260818004500 +0000" channel="ESPN2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E10 — Aflevering 10
-Een gezelschap van 4 experts bespreekt een uur lang alle hoofd- én randzaken uit de voetbalwereld.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/J1m60O4poumYTazzf9jxtoFxh6dS-NzbuIzz7YLSk0iW6sl_HgjtIckM9UWpObpESIwHj4a5n24nwso-uKvaPxsP-PF4ezp5zEvIb3_X7fMzrunZ18wRCkatGCnJdqWRXld27cRJmec5W8lxV3rhdLS7afGhHzqqYsp_F6geGyZx14Pm4ZXmU_KfJfIVXjR8vG1DotBFD16iD5PeDZepfSAQWPKVM97omdEI8H4rut0Bz7ge4xvYzwDl085_7So5NKXmnplJ6LU5cF4FXUcH5bsORRHB-Cq0XUBOCdOAk0huz9J08g" />
-    <title lang="nl">Voetbalpraat</title>
-  </programme>
   <programme start="20260818004500 +0000" stop="20260818010900 +0000" channel="ESPN2.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Sporttalkshow</category>
@@ -12303,15 +12292,6 @@ Golfmagazine met het laatste nieuws en achtergronden uit de US PGA Tour.</desc>
     <display-name>UK - TNT Sports 4</display-name>
     <icon src="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" />
   </channel>
-  <programme start="20260818000000 +0000" stop="20260818020000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Deportivo Alavés v Getafe CF
-Deportivo Alavés and Getafe kick off the new LALIGA season in this matchup from Mendizorroza.</desc>
-    <icon src="https://iptv-epg.org/images/XBc2OGaXtRTEHlUXb_Fiz2MyB6kGp4l7d7mVurBuXIY6iiKPos9E7kB38cZruftsm2FmDx5y0rA0ztnQ308RYlj0sIoOeyMVPym_JU4Whfp1zbTJJmVdk93avYHD8R0ceb5Iy0h51mLkSKFiD8KRCfkPosCh_36hd-WNl3zWENl7m-OXMGUwPbLJfHRGKRK76GTindaVarkwKbf5AEOgbCBsJRksWYYmy-CXb1yLEJWcPE0LJxIaUpGdWh_gkos9iLyLAoJEmWp8e1YAFgCuAVEI24J39y3QGK6n82SU70_fFyGmClEXqmveRui0_vSvMe1UPZOk" />
-    <title lang="en">LaLiga</title>
-  </programme>
   <programme start="20260818020000 +0000" stop="20260818023000 +0000" channel="PremierSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Biography</category>
@@ -15269,15 +15249,6 @@ Two of Argentina's Big Five clash at El Cilindro as Racing Club take on Boca Jun
     <icon src="https://iptv-epg.org/images/QNt2Zp_NxYqt8U4P5kxbzHBvipaB4Bh1XSg4NAVtRCA9_NF2M3gfdeH5q6PerdUr1GtTo88uVyrz6dsRI1Sf0LqMPT9rDyqtf9zFDS3_oQG4oq-ZW4B8cHjfHu6BosXcjDHEoow3Ods7QW5EfOi0wibEZpkrjWQ-v36IMQM9_NFBXyQabcpXASy1B-YdWdh__uQ6W3eG99rIwfJ5-mz1dA2yW6wcYV2B3qnZEstJX109MN1J7Snjw3VL-ngfEzbs43u8bhUWACVDh6fbj4yPqT7tWIzvbLUNPZE3fcSlTSRKr2mVVPIUoMryWFbgtudTOgM_u17Y" />
     <title lang="en">Liga Profesional de Fútbol</title>
     <live />
-  </programme>
-  <programme start="20260818000000 +0000" stop="20260818020000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2019</date>
-    <desc lang="en">2006/07: Derby Country v West Browmich Albion
-A look back at some classic Football League play-off finals from years gone by. Here, Derby County take on West Bromwich Albion at Wembley in the Championship play-off final in 2007.</desc>
-    <icon src="https://iptv-epg.org/images/4AveZIPd3l673SM3xaeOd1RAnw3DaggQshOHS2mtB-GQDzQTEquk0U-uqTR5lN52vfaeq0dWOvAvYvQZRUIlNn75NfQqOBNstYVA-bABLIe6LE135Iqus6WlxvUa1oVZytVkXSgkNAXjWR8h6fIjuj_hiQP9LjhPWmtJ-IlNB7XFJq6qWvMva5A8y8mXoNMx8sFq1wCH_DiR6Qe0j2ohHi3pZODKDNKhB-9MVkRlKvtJN0Kz8Zl7Yxyh--MvIFTYMEbFnkG7Ji6626eYHV98kVp_bNBPOY35B9IyZqw6lsCq1AxSckchclb8cMox4wcvEziJ48bl" />
-    <title lang="en">EFL Play-Offs</title>
   </programme>
   <programme start="20260818020000 +0000" stop="20260818023000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
@@ -19325,15 +19296,6 @@ Main-draw qualifying for the men's and women's singles at the 2026 US Open in Ne
     <title lang="en">US Open 2026</title>
     <live />
   </programme>
-  <programme start="20260818000000 +0000" stop="20260818020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2010/11: Arsenal v Tottenham Hotspur
-A classic north London derby as Arsenal and Tottenham Hotspur went head-to-head at the Emirates Stadium in 2010. Spurs were looking for their first away win in 17 years here.</desc>
-    <icon src="https://iptv-epg.org/images/o7JfxDbCmp-vtogzCjfyU2jigffuOv42u5APrO6EQgkOuThzPnAd8kMV3gtJQnchjYYaEW1V-kA0ReZD--5ghohEvfdd56mj2tbBNuP9nI69eU5TS_wRfuL7XaCZcSO092cl1HFyST9bmYHlIvfe4qomc0_YuXCzewYIcgtSLporD2ZJrmTpLuV0qWMCVcW8zImB6mIOAES-1HPuZS3XcqbWJUVPdJU10bdQWU81Ws7efxJMoeyYnzDQw-cnPxnRGKWxY4u3vAZNWLNG6ixJPm5_5OsSsIAHyAtv9VBBrzK2hR3jV6Ttzt2lUyN-lyBotEaP003E" />
-    <title lang="en">Prem Classics</title>
-  </programme>
   <programme start="20260818020000 +0000" stop="20260818021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -21461,16 +21423,6 @@ On Monday Night Football, Fulham play host to Chelsea at Craven Cottage in the P
     <desc lang="en">The Sky Sports team look back over some of the big refereeing decisions from the weekend's games. Did the officials get it right?</desc>
     <icon src="https://iptv-epg.org/images/kTA0xTmUS6FFh6Fl5XPoAOxfw49ygKzpzLZC8NAe95mVLb0JTjz0U2REVZNtaeXrx98UOrAprL9niHDDCEAkF3HoAKwDioNKInriBDMtKVZZALjCm3WxzMmARMF7YHzZVY28J9vluwLO2QVP7l9o-a9Sq0poslLvi8LXcvdlwNPr3L79ZuJZArQCxW8b4bNGWpgu9zAApz9LObfKdxYSU4MQiJTTkz6PXoRWA2pQ0oi3zf2kTBIIbJEDocRig1EMKk_ZTLLiTVMzr5u6zcBmVErIDcsUSqFavvOFWPSRcHyLkLGICAN31nKCjIOuM9Wy9OSflthF" />
     <title lang="en">Ref Watch</title>
-  </programme>
-  <programme start="20260818000000 +0000" stop="20260818010000 +0000" channel="TNTSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <date>2026</date>
-    <desc lang="en">E17 — Training Camp with the Seattle Seahawks
-An inside look at Seattle Seahawks' NFL training camp and what it takes, professionally and personally, for the players and staff to make it all the way.</desc>
-    <episode-num>E17</episode-num>
-    <icon src="https://iptv-epg.org/images/AcGyZ5SzTu2HIVhgWCN3z9SQvxB6tBCh1yVUXU3M1FHe59GpP2sDuMyXoAhMH5Hii0VTYYDQSrJsQssLQWUG_0E_9jk0OYMQBXCT61ZSQaAQbEgThCBdj78GDtvnSC-OkquUPIaIO1ybJ3WNDXGbgjUePxEMT_D98Sgbshe5YVuOz3hmxe6giKWyqnalQ5kw9MqmiWis2Qoa9KdrZeFxXL26TsDXjx5Y-4qywdwV-K5QcOwrVm5ahWv4ys_mXrtgTY2JJYWTqgi5uZS_VRMYr3tQWCPcYsPBCT17o2DA96DPTXB0JHNtr-EWzw-ok7BIwS2hwoG5" />
-    <title lang="en">Hard Knocks</title>
   </programme>
   <programme start="20260818010000 +0000" stop="20260818020000 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
@@ -23982,25 +23934,6 @@ Day two of the second Test between Sri Lanka and India.</desc>
     <icon src="https://iptv-epg.org/images/rGHnlQF3QugRH4BaRtytgb4K5RwK2RncTix58-k5mJlFE1y7MpUIZVW7sfW8pH6O2e6NY1W-0uyuSjhmMMS_OMlEvNuLLqsWfOsk_U7vHiwVVO10TmomIf1gUqOkmmRSOx5CpNLfZcWvyYHaK4lGaQUZIgYtyGHB0LQQhnQzEKAImzCbPfk1V4tlr-eug2JUCrrCMfFIiVGOgOQfcdxAd3uG_sv9H56HZyX9v5-2GGAlXuGjY99e53myYl7HvAmNixFvlLvUzzLhMQE5t6PMI5hqiXH2D--CptT_jv4Mca1RdAZxlgIJ9d4HbStoS14nZBqw16yb" />
     <title lang="en">Test Cricket</title>
   </programme>
-  <programme start="20260818000000 +0000" stop="20260818010000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <credits>
-      <actor>Jack Nicholls</actor>
-      <actor>Sam Bird</actor>
-      <actor>Lucas Di Grassi</actor>
-      <actor>Sebastien Buemi</actor>
-      <actor>Jean-Eric Vergne</actor>
-      <actor>Daniel Abt</actor>
-      <actor>António Félix da Costa</actor>
-      <actor>Jérôme D'Ambrosio</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">London ePrix: Race 2
-Highlights from the ABB FIA Formula E World Championship.</desc>
-    <icon src="https://iptv-epg.org/images/soVC_Y5h04Bh6FnP7TC4gY0ASfTJGvrkhiN1obEBD5Yn5Un9G5qiPgL7j-K2NQelHThXjfA7FkMrUU4Z3sQTy-JVVSr_m1wpEDb972hzUHg7mMK_X4wXIxpzDngP68Ioo4fBmirqaCFbCBxBcw9Gf8pkzGvmm4qLGIigyrMVqFBfYlaAkzY1aqU3iM4HiQrVaHXRfakW6unf4OBC31fTCAeo5VMpoYfNR-xYvWnPOMrFPyQNMPGSHZPYgZXsercPk1s5VJE-wTKX5h3Qfo8u2LXrT3HjrQMc45320RUO-5iYp_nXlHlcfh1cgmmHjxmoaSMWtZii" />
-    <title lang="en">FIA Formula E</title>
-  </programme>
   <programme start="20260818010000 +0000" stop="20260818013000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Motorsport</category>
@@ -25475,16 +25408,6 @@ Action from UFC Fight Night at the Golden 1 Center in Sacramento, California, fe
     <title lang="en">The Ultimate Fighting Championship</title>
     <live />
   </programme>
-  <programme start="20260818000000 +0000" stop="20260818010000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2025</date>
-    <desc lang="en">E4 — 2024/25
-A look at the best goals from the 2024/25 Premier League season, including jaw-dropping finishes by Omar Marmoush, Mohamed Salah, Cole Palmer, and others.</desc>
-    <episode-num>E4</episode-num>
-    <icon src="https://iptv-epg.org/images/oHy-QrPRglYtMRv6UycBkNdLgZHtevsDJF0Ji7QTwLv8EdQ1o6178-vxF-S1X_rYZZYe4cf8r0MvU3aHKjnfTfmib8QFAHHiPuEpU8BoMF1dbYdzusJVbRZEumVErfzpXtemKSR9_N5RDPCVc6Nb-X6vYKfERyy81sEVnggSwAh0nSEdFTVylF7TQkrMSVjBSLbNq4QP54cjSCC2guAsBP5q61w9oyguGkCUu8-28ddNffTidSqhOhu2mqsfqKqVDEH8F8rD-iWbemUIiQy2o0aI_nltX-rFU2dFxq5y0pys66HBFe2LwX04tZM-41E7DwMWCAAS" />
-    <title lang="en">Premier League Goals of the Season</title>
-  </programme>
   <programme start="20260818010000 +0000" stop="20260818020000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -26918,40 +26841,6 @@ Focusing on five cyclists in different disciplines, we explore how a cyclist's c
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260817190000 +0000" stop="20260817213000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estádio Municipal in Rio Maior, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/HC9dVNhoqNIa2iZh4hsRKeUWteBXLic-NeBf1tr1TWqD5AZUIpu4Yx7XW2cxMSaaq8XmSUenNz-su3gOSkoBIXaYJHTnUVgs2O5_rlcr9n5ecO_2ZIPlmLrsyc7J-QguwiVhEgp5F3G1iN3WO0xZkWUgh84YqWg" />
-    <title lang="de">LIVE Casa Pia AC - Benfica Lissabon, Primeira Liga (2. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20260817213000 +0000" stop="20260817233000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Miejski Stadium in Breslau, Polen.</desc>
-    <icon src="https://iptv-epg.org/images/IPj1MGvNGIPr1g-m5hB8Dn1TPAyv7NNgLVr5jlCj1uFocJMHI6lwRr2RBLRdcF2U6FXWg4lXdmtMWnfYQcqf6jooar4FW0kS_ZXKCuAGVP6uKNjBAONCJuWO_vCUauZQPugfLhzRD7O8PDoDPz0fdEkjKgasmGM" />
-    <title lang="de">Manchester United - AC Mailand, Testspiel</title>
-  </programme>
-  <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Spitzenspiel,Internationaler Fussball
-Die Sendung präsentiert die besten Spiele einer jeden Woche in 30 Minuten.</desc>
-    <icon src="https://iptv-epg.org/images/5gGJ1VsG2eqwDTKhlnhRmqhNwm-ZCAstSXt1u3A2YNQz7hiAU2Ya086DJovrb_yHSHPxhJapX92GNEjjDZNg75lqxTutDWKUbB2JX-NiKoNWZtuEWTzC7QYVy7GUKMEdsElGhESUgiwuWR5EmYKnH_pqda0qe8M" />
-    <title lang="de">90in30: Spitzenspiel, Internationaler Fußball</title>
-  </programme>
-  <programme start="20260818000000 +0000" stop="20260818003000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der niederländische Spielklasse Eredivisie.</desc>
-    <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
-    <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (2. Spieltag)</title>
-  </programme>
   <programme start="20260818003000 +0000" stop="20260818024500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
