@@ -23,17 +23,6 @@
     <display-name>NL - Ziggo Sport 6</display-name>
     <icon src="https://iptv-epg.org/images/PR_s_DRdQGU2ryeVqnlFbz1mWkY8CHnsA8J5E1McR9hP5moOQp3Dzgl6YkNrrayKiRZR7RykJrrM83dcDh66vg6p_FZzIbnJfW1ovKcXN8uYSbPzwE7FDzw" />
   </channel>
-  <programme start="20260819000000 +0000" stop="20260819002400 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">E18 — Aflevering 18
-Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-    <episode-num>E18</episode-num>
-    <icon src="https://iptv-epg.org/images/8HAmAUpYraZ94E1S7VRgCMR9R34VHQ-ozCjUeMSxaZEnEsJ_R7ocXACjs4_sSl-L6dp2n6lFN5mnJa7lFKFmkAQpSlKdov-cdJEWRMnrk3Ikz5NeLWzsUTqvi-XtN1y0p4uCnZgjOUMF1uz4TVgOlyaFsBcyryzegVXBVecacwpyMnP6UnrQzSfNAkqzoHlvoZJlgCB8JdfYKBC4qFDBPjoUJ5TmW3WNxpDelNjlJOl7Vc6_M3V6AcGWbfqKZqjat2HtsWjIpW66xwREKwqnzX6ooi3rw5yztwEWMG6kNpw9kEfm5w" />
-    <title lang="nl">ESPN Vandaag</title>
-  </programme>
   <programme start="20260819002400 +0000" stop="20260819004700 +0000" channel="ESPN.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Sporttalkshow</category>
@@ -15480,15 +15469,6 @@ Coverage of the Swedish Speedway season.</desc>
     <title lang="en">Swedish Elitserien Speedway</title>
     <live />
   </programme>
-  <programme start="20260819000000 +0000" stop="20260819010000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2017</date>
-    <desc lang="en">2008/09: Burnley v Sheffield United
-A look back at some classic Football League play-off finals from years gone by. Here, Burnley take on Sheffield United at Wembley in the Championship play-off final in 2009.</desc>
-    <icon src="https://iptv-epg.org/images/vjslEaZxnCxvN0szrsM90SX9F6WVOSnuFGwu8DB3NuxxuZI_nce7JT4YIVdMVuStsTBMhr9xJToPGCDxqJ-jCGVj7sHyF1kf4JpOdU62Wa54fbfmN4XNkZsLmjL09PlXsXnAPk0DvoeuL8paTHaC9Rvve3R6-5r5yBg0waiFk2g8nLWyH4pda20ZlJQUtsd3Z914b7U8hihe1n0KDbDwoLmaAc0lRMerlqvEKlPMhnjvGrqDfbTBJF4KnTs3bTErsPgnE7ZN0k0xBgrsldoHoNFQyj5rJ7MgS0N9FNLBaXL2NZhYV5nsm5sW68RgB3P3sKvc2qJD" />
-    <title lang="en">EFL Play-Offs</title>
-  </programme>
   <programme start="20260819010000 +0000" stop="20260819020000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -19391,15 +19371,6 @@ Main-draw qualifying for the men's and women's singles at the 2026 US Open in Ne
     <title lang="en">US Open 2026</title>
     <live />
   </programme>
-  <programme start="20260819000000 +0000" stop="20260819020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">1992/93: Nottingham Forest v Liverpool
-Look back at a classic match as Nottingham Forest met Liverpool at the start of the 1992-93 season. It was a piece of history - the Premier League's first-ever televised game.</desc>
-    <icon src="https://iptv-epg.org/images/1KXH2JvJ59WN1CETaRfhnMvm6SLs3XRlVJy7vx2KOmXz4pW6UIUBFERNSoMgoHDjunoL0_qmm-JQCJObM8TzF_FZa1gfmAhD3-pyg78_tcRPZpRsKT_uVfxtDirSRTN2GDF_3cO4jPztHTZQtcnInk-YrhjYqhIzqlSII-hMh3omYEApQiwdB3XkVkSiRRVPDi_YmkBtJ7E4A6Ov80COQGxxnDV8rVu0UgHo3uVZVEIl9OzdMxc-l1d5UhBehubiPKz2cEmX9XZjQw5Z-DbX9gpnsI3zcDFf9CWO0rDMwlvmORhVQVpJkU996crjPxdErIpsPHcx" />
-    <title lang="en">Prem Classics</title>
-  </programme>
   <programme start="20260819020000 +0000" stop="20260819021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -21572,16 +21543,6 @@ A celebration of Liverpool's Senegalese maestro, Sadio Mané; the third player f
     <icon src="https://iptv-epg.org/images/sXTpQeJjpDkTphKsHRpWxiUgpK04zMzOF-BK0MngOYXw5_O0rguCiXUfIGICgEjAqrpP2z9ojOYK6864AvmY_mzUEnlAqqI--zV8iy9Wi43Y499ztzr0FWPK5inLnjD1qFwiF3FMx5gKBVceqqyGtZ2YnAQemyFwbLD526OLzI0XuMVhgUl1Ag8LCXTj6K6Ioj9GQJWFGKOV8nqEEy1nVewKtPpcSCvFio1tnVNuJfyYluNI1zruWGE0EtBr4qzt56zWltGqz4f9JlPBwUE3z8HRZbFKBmL8IvEGpF6ddkLFBIlzKNQNnslxoTGbZRwJ8xSiWj_E" />
     <title lang="en">Premier League 100 Club</title>
   </programme>
-  <programme start="20260819000000 +0000" stop="20260819030000 +0000" channel="TNTSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <date>2026</date>
-    <desc lang="en">Chicago White Sox at Chicago Cubs
-Action from Major League Baseball as Chicago White Sox face Chicago Cubs at Wrigley Field. The Cubs won 7-5 in the series opener.</desc>
-    <icon src="https://iptv-epg.org/images/OQ9UPKXxtVEtOJ0V5YbCTwMF5dO2H7jKQridLzpZuYeZFtx0HmR0NdpHPwyxfv2ra4Rj-MvBJSFuvkUZv6i2bjyJMq6-avpz4kk2c0O3pqnXuNUIEU1JuhgdgLBxChKsZOTml5q0O8oDMGnqA1luhmx_0hR8H6dZev1mAy7hjdUT95P6wODlJMaXypVRFQNgzzabhppEJRcXF3FiYVS4_rdMuS0bCoTe9vhWtP9jdgLUuA3LJsg3paWjmSlt4RPzuaN7hU_G3fpA0fX4MUNKALDbenM97o88hdEox_udawhJ0_2W3LxO5-QFv3dQkudG8vgOOiYa" />
-    <title lang="en">Major League Baseball</title>
-    <live />
-  </programme>
   <programme start="20260819030000 +0000" stop="20260819033000 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
@@ -22731,16 +22692,6 @@ A look at the upcoming MLB action ahead of Los Angeles Dodgers at Atlanta Braves
 Action from Major League Baseball as Los Angeles Dodgers face Atlanta Braves.</desc>
     <icon src="https://iptv-epg.org/images/suUgtig5D435dslp_0YS6FCVrYpMxO1Aq-yNJY-biyDNUvfwem7vff8KmUhu9t0KzwO-9EIVTo_nQSuUvqGXdfidXXKTMShJHoMA3jO3ISrFWJtbyVpvZu8xfhGOr8Sdr06qR2RJXkPzMXqr6N_gUhe71v0N_f-220Ed85p_pVvaWMLCkQWTBwQ2viRaV7QEcx6z4_E6RJC4xo9ap2q8x4VCG3AfgjJZcMVLNkZFF1Fn6TA8bQtmjGFKrQ4prT1zXG0vF025nTZCGJ4VgiDKZaa6NnOKGejrk_iUCsJDPMTK54Ax8ku03ufsZVfUQwxuLvMBd0Jb" />
     <title lang="en">Major League Baseball</title>
-    <live />
-  </programme>
-  <programme start="20260819000000 +0000" stop="20260819010000 +0000" channel="TNTSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Play-Offs, 1st Leg
-Action from the UEFA Champions League.</desc>
-    <icon src="https://iptv-epg.org/images/3T0cIkuyzKJ6i3tSeQIJCIxyA_C1j7YwmZ_yA5Ei1XumT8eCbZtgG42DzaXcRNAtx09yzaJSDNFz91icQaOty8eXJP6cDGjRiQsPGtVdhwgf9bvJk65YgAfVjjDferAl1t9Fz2wheUAKeeneeyElx8i0VgmA4kqzLaOdE_cK-CZ63ipZkNgc-qauVyEZqt1S4A0PerbfUMMe4DzJBhYRswAB6rLuZgqyuosP9ekMqAI3XYSJJxnbsN3FiiOpUX-7MuJ71N7l51YVs8tQhL7Vm258VN0UpXAAc_G5hzP1HDkrI_k5sN7r_y_1A5v9FjpL0kDvej7b" />
-    <title lang="en">UEFA Champions League Football</title>
     <live />
   </programme>
   <programme start="20260819010000 +0000" stop="20260819020000 +0000" channel="TNTSports2.uk">
@@ -25493,15 +25444,6 @@ Snooker highlights from the Wuhan Open.</desc>
     <title lang="en">Wuhan Open</title>
     <live />
   </programme>
-  <programme start="20260819000000 +0000" stop="20260819010000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2025</date>
-    <desc lang="en">Lecce v Napoli
-Antonio Conte's reigning champions Napoli travel to face Lecce at Stadio Via del Mare. Napoli are unbeaten in their last six league games against Lecce.</desc>
-    <icon src="https://iptv-epg.org/images/CYnm8CHt6JuA6s5lse-KnEC4nYNMvinWWeRpjaKOlOECtSAlt9O2hsNIOASmQWL-l0lyZJxmxCykaprQC33_DesMVMswBHrS6yQy4DLw-L2Dx3K6wpT9ZBeEc3oJufMbtHR7Wr20pjkdHbUPG--LIF_3TOivdnAZrtngyYJrw6hubc-B-U2CDTEj_veGR5etRfytaFp41egkAPQ7-7XBdDk0kvjDq95EHUITDdlumn-zbGMQDfAnEf137DBZEA5b4iAe1ayn9M2VaA3ZrzifnvIgOSkHWEgtIHmefvqzXJpd3owuor44Vor7g0z03iJY3HbaaIGf" />
-    <title lang="en">Serie A Football</title>
-  </programme>
   <programme start="20260819010000 +0000" stop="20260819020000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -27043,63 +26985,6 @@ Action from UFC Fight Night at the Golden 1 Center in Sacramento, California, fe
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260818163000 +0000" stop="20260818170000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Spitzenspiel,Internationaler Fussball
-Die Sendung präsentiert die besten Spiele einer jeden Woche in 30 Minuten.</desc>
-    <icon src="https://iptv-epg.org/images/5gGJ1VsG2eqwDTKhlnhRmqhNwm-ZCAstSXt1u3A2YNQz7hiAU2Ya086DJovrb_yHSHPxhJapX92GNEjjDZNg75lqxTutDWKUbB2JX-NiKoNWZtuEWTzC7QYVy7GUKMEdsElGhESUgiwuWR5EmYKnH_pqda0qe8M" />
-    <title lang="de">90in30: Spitzenspiel, Internationaler Fußball</title>
-  </programme>
-  <programme start="20260818170000 +0000" stop="20260818173000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.</desc>
-    <icon src="https://iptv-epg.org/images/LNzNJWaxj6A1OdwJMzhspBqvr3BTo-YxevcSfu1MayZIUyyjoQHWkBh5hNiFcY7xEMHcoz7pyWu2RD6p7wEnbSPbR7fo4xSjbNgTX_pFazZ_FRxMlUXNRWTSzjfm3oSKmzbWarxXnbLaFIfHuRF3YcUcKU_ijnsq" />
-    <title lang="de">scooore Polen! Alle Tore, Highlights Ekstraklasa (4. Spieltag)</title>
-  </programme>
-  <programme start="20260818173000 +0000" stop="20260818180000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten portugiesischen Spielklasse Primeira Liga.</desc>
-    <icon src="https://iptv-epg.org/images/-sOrnIDdB85fA7FzK2RDMNbOajwDBSMYbpZNxHgObn07W_uVNX5c8g8-zaZAlOfRAj-dGfE352-S0EiSaqiJcPGSG-iUT3NLhhy8rEVI_KwEOPiQX58OmGUIpqioEwNlAuzXh_zAHEKk1i-tDfK-3ILU1t1POJIZ" />
-    <title lang="de">scooore Portugal! Alle Tore, Highlights Primeira Liga (2. Spieltag)</title>
-  </programme>
-  <programme start="20260818180000 +0000" stop="20260818203000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Stars und Verantwortlichen bieten faszinierende Einblicke hinter die Kulissen. Begleiten Sie die Reds beim Training und lernen Sie das Herz von Anfield kennen.</desc>
-    <icon src="https://iptv-epg.org/images/Nnx5eDUVy34Pm4oW-4YON5nLLD3CLMiV2VJLZo0dE7mSC5edW73xUyRJgM8A6lp8GhkF4ow_hxl5RFSXvxk7X_8Ua1q8U3K_Rxa_fdu9RngooOgbM7sFCHq6xdXF5O84RRuXRw__hKISom0CZwKm3Z83nS2hFplA" />
-    <title lang="de">LFC TV - Freundschaftsspiel, Liverpool FC - Como</title>
-  </programme>
-  <programme start="20260818203000 +0000" stop="20260818213000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estadio Monumental Antonio Vespucio Liberti in Buenos Aires, Argentinien.</desc>
-    <icon src="https://iptv-epg.org/images/8obv7qCM8oIEPJRymbnRVeoBoPoFPZiKXgsyLSm2omPyYwAJ-SzDd_wE0xanhVuE720fFA-XdCwS2Dc0pSTRJqYvtsOlouoyEzeFLCXWaEA_UrmNYtlIOtK8hz6tSdzsVewM-IR2uNZGv7OaKTiu7X1jh8KvZ-Q" />
-    <title lang="de">CA River Plate - Argentinos Juniors, Liga Profesional Clausura (5. Spieltag)</title>
-  </programme>
-  <programme start="20260818213000 +0000" stop="20260818215500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Spitzenspiel,Internationaler Fussball
-Die Sendung präsentiert die besten Spiele einer jeden Woche in 30 Minuten.</desc>
-    <icon src="https://iptv-epg.org/images/5gGJ1VsG2eqwDTKhlnhRmqhNwm-ZCAstSXt1u3A2YNQz7hiAU2Ya086DJovrb_yHSHPxhJapX92GNEjjDZNg75lqxTutDWKUbB2JX-NiKoNWZtuEWTzC7QYVy7GUKMEdsElGhESUgiwuWR5EmYKnH_pqda0qe8M" />
-    <title lang="de">90in30: Spitzenspiel, Internationaler Fußball</title>
-  </programme>
-  <programme start="20260818215500 +0000" stop="20260819002500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">Recoleta (PAR) - Boca Juniors (ARG), CONMEBOL Sudamericana (Achtelfinale, Rückspiel).</desc>
-    <title lang="de">LIVE Recoleta (PAR) - Boca Juniors (ARG), CONMEBOL Sudamericana (Achtelfinale, Rückspiel)</title>
-    <live />
-  </programme>
   <programme start="20260819002500 +0000" stop="20260819023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
