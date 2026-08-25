@@ -23,20 +23,6 @@
     <display-name>NL - Ziggo Sport 6</display-name>
     <icon src="https://iptv-epg.org/images/PR_s_DRdQGU2ryeVqnlFbz1mWkY8CHnsA8J5E1McR9hP5moOQp3Dzgl6YkNrrayKiRZR7RykJrrM83dcDh66vg6p_FZzIbnJfW1ovKcXN8uYSbPzwE7FDzw" />
   </channel>
-  <programme start="20260824000000 +0000" stop="20260824011000 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <credits>
-      <actor>Jan Joost van Gangelen</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="nl">S7 E3 — Aflevering 3
-Een analytische round-up van de afgelopen speelronde in de Eredivisie. Wat waren de belangrijkste momenten, welke rol speelde de VAR, welke spelers vielen op en welke trends zijn te ontdekken in het Eredivisievoetbal?</desc>
-    <episode-num>S7 E3</episode-num>
-    <icon src="https://iptv-epg.org/images/ZB0RPZKSuqTSKw8cpW6fB5ev7h1ZpWtE8N4SB6b4z3RKuEFS9WHmBG1d-oLeGrw-Th1ZdKYhukGNrz5PMh6PiGVS5AEYTabMQFWDTEBtgJR87GUFFxFU7sWbxhZpg8nnYW72e2ArYkdy5jbMX-flvuWw8xyg178wNsu1eAAHyLWKUHM36b7Yv-EmpdqT6AAJOog9V-relFsM6v9FU6fXalcPDOZNXvQAW5zbgm4Y2f1hLuirrYi4RowTTXDJCQHtva15XZR6uDBUOWPwMlB-ek1SwtaHmuZmFkx_5mVUZWca_3wFwA" />
-    <title lang="nl">Dit was het weekend</title>
-  </programme>
   <programme start="20260824011000 +0000" stop="20260824021400 +0000" channel="ESPN.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Sporttalkshow</category>
@@ -2400,16 +2386,6 @@ Een analytische round-up van de afgelopen speelronde in de Eredivisie. Wat waren
     <episode-num>S7 E4</episode-num>
     <icon src="https://iptv-epg.org/images/e4dsu3URAmY4V75RkNrnUE60c4tRdo-fLcaIiEPQbhDNDyop4j6XfQ2EAFz-miOPfTs_xQJ0_35iyU-0pAcWVKuVpWLI2BdA64XhsOMsonZl22KF5sZhY3iHT9hzztfHqO7PIxItEZYVym9_HOw-v83FpBM8I0FKZKMc1gs1r6gG_suvYX40MfqL5LOlFuZ6IXT3Ags1HUnCuWULYz7_FPHfvGL_dY_NW4RLJiXDG1Y0auFZpa76W79Z2_VbrGqjPUqKtYG5OT0UIqo19b69D4wNLAT0O_5lh9toPeE1e69cMuVR3w" />
     <title lang="nl">Dit was het weekend</title>
-  </programme>
-  <programme start="20260824000000 +0000" stop="20260824033000 +0000" channel="ESPN2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">American Football</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Tennessee Titans - Seattle Seahawks
-Verslag van de wedstrijd Tennessee Titans - Seattle Seahawks, gespeeld in het voorseizoen van de NFL.</desc>
-    <icon src="https://iptv-epg.org/images/VcSHOxQ1WXOYgrHCmkW_P8bbwwndNwQGzR1qG68D2HLXGsrTJxf1OhZXnX4oUWnaSDnbXaITV0DWbF-1oaH8BSOmJRt57qJfqUiXDAPzAkHFR0YBg81ATeVQgsIsOtAWHybf3oObLkmoyY5GqTqrpcYCAPhci-s6Y50wQDzdYtEE5XFqcZQFSOVOAyFYHPnVaTOpHCAzf6h3lu-SxHYIKkis6wgI6P-t4cYMnxzFgprfS6Rl-0QvJKOL_4-uy2p-jgdpej8eoCvzp8SaJA4u6ezyeP05J8MBtdSCFnqGrp0hD2kauA" />
-    <title lang="nl">NFL</title>
   </programme>
   <programme start="20260824033000 +0000" stop="20260824034100 +0000" channel="ESPN2.nl">
     <category lang="nl">Sport</category>
@@ -14600,15 +14576,6 @@ Coverage of the Argentine Primera División, the premier league in Argentine foo
     <title lang="en">Liga Profesional de Fútbol</title>
     <live />
   </programme>
-  <programme start="20260824000000 +0000" stop="20260824001000 +0000" channel="PremierSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Real Club Deportivo de A Coruña v Elche CF
-Watch match highlights from the latest round of LALIGA.</desc>
-    <icon src="https://iptv-epg.org/images/R6v7sp3d-jEbVo-MUhxsv9zf4cn74AXHHq_7v8wrHX59YFHxUT6rDDH-972_EQItORh4sxStEnrSRvlKagVd20GYqjrHLMzLUuG5_FCOSQBbbpxe8FVf4nKDh3EpEmRqcVLSLhkF-pcoFE9JiSlb-G7FZwcihyaK1Wn51dETE6qPMKihO4-xs4Rfu9h2I_MNN4lm1Cdx7zLG71sWXG43pw0qBThgcm1V8hPVAHp2i40jDruhHWAj1fMfY5MaZwbYMHGqODqKWOxp22qcZmsvxizwutvjg6qpUxKpnS4aeBXFrBSr3eT399guBEqTRVOaSO4_mzo4" />
-    <title lang="en">LaLiga Highlights</title>
-  </programme>
   <programme start="20260824001000 +0000" stop="20260824002500 +0000" channel="PremierSports2.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -15968,15 +15935,6 @@ Watch match highlights from the latest round of LALIGA.</desc>
 Watch match highlights from the latest round of LALIGA.</desc>
     <icon src="https://iptv-epg.org/images/q8TrwWfDSfjzU2tWv21Oi-vBCe1XNrrmn41sJlcKup1z5VRH7_Fa56l20JjqrlkRwJSUJFt3Zk8ui1LSXwjT8vy1hvKF285t73M4PsF20SX8pfx7iXqR0Aue-fC19tRbZc8OixkN2J5E1lX0IX0a_XCevhafsh08m3QMb7HrXh9nixFXKJ4um7zyc1BqLdnijLsUxleRVFaMnfswQdECxAanwc33sd1XaKuglV4iKFJ6OhuhRqs6xKoXPQrheZGeBRpeSSSv214D9EkuzCjEpN4K5pAPdC4BhBUyAOWNvgfo2q0O62edA8mEsBt3Lc5xZs3aK-tw" />
     <title lang="en">LaLiga Highlights</title>
-  </programme>
-  <programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2016</date>
-    <desc lang="en">League One: Play-Off Final: Barnsley v Millwall
-Barnsley meet Millwall at Wembley Stadium in the Sky Bet League 1 play-off final. Both clubs were in the Championship together as recently as 2013-14.</desc>
-    <icon src="https://iptv-epg.org/images/1QLGdu9IjLaSNOoJyDwiiObO36_rwkS33w5qPFovf8HfiKvvBxQmtEzmUDcU9_Lyv7lHUk6P_1OictaBqkG1x6WCaG6TB-CQDWpB0NTl6z6RqZLXuGeWR8Di-3LpXrEBVDelyHrcYEakWBLh4KWLXxZ7vRHWWky-A1YXpNU4Z2hZgKrKuDWZGsLaLaHS6kIZBeHqNKynh0lvtBZdtSFlRIE_OwNKjnLVrdd7DdABNd_HfDVt-UHWdBxA-o-bwTZbxejOKoiSr_vzlvPEeLBBsZ9wfqYuxsy6tgr06jY5QQlcWUxlTvhNgqT3h1Ddi6HOlK9ByzlI" />
-    <title lang="en">EFL</title>
   </programme>
   <programme start="20260824010000 +0000" stop="20260824020000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
@@ -19636,16 +19594,6 @@ Day one of the 2026 US Open - the fourth and final Grand Slam of the year - at F
     <icon src="https://iptv-epg.org/images/06P9oyPHbo1rieJsByhYfNHfkSscG1sBfn3hT-jogl3BXLO6r9dU0zzfboSdtLcAH6md1PcTNAyfWgg2PmERIU9klHQNKxGjxHGvixt-98VPIIx50K9LHv61v_XKS3NaPJUtaXC0-6Iinxy7mRVe8JxyNJNXuHIMpK2BTrgVVMhLlT38sv2eWypYp93VT3x2qbUJuWNfp6rGX6frQxeXPww9jThzjNIQ0_L7_xxRtSnDsskdyO7tkNLDv8Ytu-VwtFIuqXxK_XEBlqWuz9HKeAJFuGt5WHLgfEFm3GlBTb_2A3hUdzCTVeoJ7sd2cQCSqDbKKuXK" />
     <title lang="en">US Open 2026</title>
     <live />
-  </programme>
-  <programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">E227 — Manchester City v Bournemouth
-Action from the Premier League.</desc>
-    <episode-num>E227</episode-num>
-    <icon src="https://iptv-epg.org/images/AgZZlwZYoUs6kn3UW9bHZEKE7P5Pyof5mYfsTt5oZvZL7jy73N1ha4c2zvcjW4urqBZbedp-lby2SzBODEdqviJCNtc4pCOKyLfO8Er3cUbcPyh3ZMyEBGWskOiokEqo_uAAMxEFmE65ewvBrKvcovYpeQ8TtCFEqOy-DETO-aT0_zP5bFsL0xYUNpgT_ul3_IXompIjJwOu_ZO-DYbIgruAgKnezEi0Ohc8hzayL40g6d0f0p1gU8lb9SDX39EhojI7C-rrBYmaopo9CgSKyJqIXpwT1jRmG_CmfRp5e6ePOp4cmZ-XALTOBs0kk1wPob4I9RV7" />
-    <title lang="en">Premier League</title>
   </programme>
   <programme start="20260824003000 +0000" stop="20260824010000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
@@ -27601,43 +27549,6 @@ An inside look at Seattle Seahawks' NFL training camp and what it takes, profess
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260823165500 +0000" stop="20260823185500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Sao Miguel Stadion in Ponta Delgada, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/E5KS0JyPFipt10qHg91B-pbm0W9aWiSGoaWv0slzAaP4K4Bg87ghraZzAMogEHZUa2Y7lTv4Yj0_CZsF5sOzAlyCA7RMAgarlRipkNpcD8zJEFrjO7nosrHEpVqSDrPA7mUlV0nxIFy9LDjGv93dkOd3WzWr--8" />
-    <title lang="de">LIVE CD Santa Clara - FC Famalicao, Primeira Liga (3. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20260823185500 +0000" stop="20260823211000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Palmeiras Sao Paulo - Vasco da Gama
-From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.</desc>
-    <icon src="https://iptv-epg.org/images/CwdXwBKv0qycBbEXOo5nd0KHPthRZ91dEACChfoFevY_od6QahB5oePrd_8TmrprNX-jFa_yAg7YP6WlViJja_GKMmo5cxS4ADD6q1O8yI8OEXl2fkK4xWnVvcVdpV3zM1qdRzqp3kZp2MbRTD3VgHDmSuNEJT4" />
-    <title lang="de">LIVE Palmeiras - Vasco da Gama, Campeonato Brasileiro (24. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20260823211000 +0000" stop="20260823221000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estádio José Alvalade in Lissabon, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/OegwGFk6qika76jlEgD2LJky_1wilZ_S_ET4cgmQzYmiolg7PPUipV5wpK8TXi4ymlIsHbMk_ucni6cHTw-TceVP-kBRVMYWEU9YRGBJTXFNN8rEIpy2yUUMzxfQGss7ZFGnGj60o9W4dqmQ7wqicw3JmF3AsrE" />
-    <title lang="de">Sporting Lissabon - FC Alverca, Primeira Liga (3. Spieltag)</title>
-  </programme>
-  <programme start="20260823221000 +0000" stop="20260824003000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">River Plate - Vélez Sársfield
-Aus dem Estadio Monumental Antonio Vespucio Liberti in Buenos Aires, Argentinien.</desc>
-    <icon src="https://iptv-epg.org/images/C32q76hfuYmo2D_N-gR-nfA80WEArCpIVVKX4_s0w0w_tOJ6MI1XWWueN_EVJkk2Dr-UnMutLtqZZqFq-gLdj8j-zz9ez_J4ynOOK0_lnlFbWwJA8_vP2Q7vGKPtqefeaVYE0Bs7Dn5MWVLrFl0JiJ3u0mXoNyM" />
-    <title lang="de">LIVE CA River Plate - CA Velez Sarsfield, Liga Profesional Clausura (6. Spieltag)</title>
-    <live />
-  </programme>
   <programme start="20260824003000 +0000" stop="20260824023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
