@@ -9999,21 +9999,6 @@ Hoogtepunten van de Coke Zero Sugar 400, gereden op de Daytona International Spe
     <icon src="https://iptv-epg.org/images/-tKCkCsD85zIwFxFeKBL3OigvA5F0YUGqHug_lI3RiDBFppiohAHvEWZq2SnLrBVRQc8km5yCqwNL1VN-FMd-cnUrJgc0yMUNvrxvgsxxm5QD7UADqQ_YvGzW3hBYZ-lBD_klu-H3Gx8iYLbth_7kKMCeioIxdLXqd-pFClGL_CxTSO1YXISnQIR_NTiYlX4vNjCG4612pOsE3YbICsCQH1kSt9ElQcBeSkxeVcoVDDQeKfSRtdSBGE8o1Ho4zjOeAjresaAosjiPvx1fogvnX4XnoI1K8FtFKw3q3yIx6R6s5A1RA" />
     <title lang="nl">NASCAR Cup Series Hoogtepunten</title>
   </programme>
-  <programme start="20260825000500 +0000" stop="20260825013000 +0000" channel="ZiggoSport2.nl">
-    <category lang="nl">Sporttalkshow</category>
-    <category lang="nl">Voetbal</category>
-    <credits>
-      <actor>Wytse van der Goot</actor>
-      <actor>Marco van Basten</actor>
-      <actor>Youri Mulder</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="nl">S8 E3 — Aflevering 3
-Voetbaltalkshow waarin Wytse van der Goot met vaste gasten en andere prominenten uit de voetbalwereld de laatste ontwikkelingen op de buitenlandse en binnenlandse voetbalvelden bespreekt.</desc>
-    <episode-num>S8 E3</episode-num>
-    <icon src="https://iptv-epg.org/images/CrkM932U1zo2XvogV05UPYWwZsoQXPrkDw_9wvmaPFxyqgA07RZgvWnk4fFW2qZdD-Q-D1jV2bkj1d2Tj1t6MHDylCa1x9DbYQi1TXDUAVzCKq1QWks24B0yMamaXL0zaoeLIOnA7mDbzleCdBbmKPMufZ9GpQSzcsiG53KBNjANzdBZlLhVIgoM4KxUb7hBn4ov3yWkWzzAi1w3Df5s6CPf8j_qNc75fjlqc-UybkOXGfG3pkWx82lH54w4X7CNJZZkT9cATl0g-uygH3-Djh-BYT9K2wCO5hFhkzyDB2h90VVnaQ" />
-    <title lang="nl">Rondo</title>
-  </programme>
   <programme start="20260825013000 +0000" stop="20260825022500 +0000" channel="ZiggoSport2.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Voetbal</category>
@@ -16223,15 +16208,6 @@ Coverage of the NASCAR O'Reilly Auto Parts Series, the sport's proving ground wh
     <icon src="https://iptv-epg.org/images/sQAN31iqnHFL0iZerM04WALTqj3M12ePMV61xWJnms89hF8z9uQ9th__q4lBLIuhaoZoLSG3fLsiBhU3cruP89zcSCp2B0RDDra4UheqlU4qm_g_TAnuJ6OQnV5oen__ZxeT3R2q3kXJzJWAi-XlDKFfubzHeiALejq6-nAZS9lCgHj1D4NEUwagESGIbk0ymwGJbMZPckJ-6wZeNW2nFwoAXHzACCyv3MqojtpfQNLAQlhFqJne-nVJrwsevfOchKSa_CRPLMmeZlLN1ezfTu8TO6D18vbKAx-Yazagy9b6j6vbN7hdYgXcUOXnhCtqnyAJDfx0" />
     <title lang="en">NASCAR Grand National Series Motor Racing</title>
   </programme>
-  <programme start="20260825000000 +0000" stop="20260825010000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2017</date>
-    <desc lang="en">2016/17 League One Play-Off Final: Bradford City v Millwall
-Bradford City face Millwall at Wembley in the Sky Bet League 1 play-off final, as the teams battle for a spot in next season's Sky Bet Championship.</desc>
-    <icon src="https://iptv-epg.org/images/rwsUwe_Ff2f4hyfvBVqZERyllMEgzN0dJg_-honIIxvmb6fr9JbBbBblZz25oLk7cALNFHDPshp_8y0Vl5Aw0_7fDCwnT_JpDfsFkpeYgILGJ4SuXbGd3Qhu9inDbFD0TQ9rXwqJusIFzebH29cisC35I7kKNW_Hvyn1O5rEXxzePulgqRjzeUnEnjvOsmwFMZeOcom-l3Iq2TJzg3sDCa8BahrdfEZ0tHe_3qRhaI5Hc0leexijqAFAP9tAQDH2OuslyG5ixRbn5_w-KsgDMg9XKJdZBNG3Utm0GKNIgqb4qlLqFVxE1Tw0HWk61yIrGlhzJttf" />
-    <title lang="en">EFL</title>
-  </programme>
   <programme start="20260825010000 +0000" stop="20260825020000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -19872,15 +19848,6 @@ Day two of the 2026 US Open - the fourth and final Grand Slam of the year - at F
     <title lang="en">US Open 2026</title>
     <live />
   </programme>
-  <programme start="20260825000000 +0000" stop="20260825020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2015/16: Leicester City v West Ham United
-Remember a Premier League encounter from 2016, as title-chasing Leicester City welcome West Ham United to the King Power Stadium for what would become an instant classic.</desc>
-    <icon src="https://iptv-epg.org/images/GO-X660J4Th_iOL12Im6YE0nyVDWfsBCTvtw9vXTP-QjCzv-jndu5UkHCYt2ljSMwTIhqwso5wqGl6E1KfBVfvYkDx70UKPNCkavP-eEPXrzFcwmOV5tHhAtV4raEg_dMy0lgCMNKPJsInzwkLpsV0gu0ac00YKmKjdZ6LetEO5Rapo6ppy613cdZU-6_Zwv23QX68VVyNIKQvMjCiEMH3_301iIwAd1moDocOD6sT5nm8f3dWkLINm-5EiELYeJxmFbjeqCwAqTdvqtg5VFX_0rGhWfhA6tpZ7sJevgrhN065QNkxm05bXsxDjKTXNWR71V9l-O" />
-    <title lang="en">Prem Classics</title>
-  </programme>
   <programme start="20260825020000 +0000" stop="20260825021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -23314,15 +23281,6 @@ Action from Major League Baseball as the Tampa Bay Rays host the New York Mets.<
     <icon src="https://iptv-epg.org/images/z-me7nd5JAu7KhL8wZeKYxNmhN7uN6Wy3bDK_hpkL5bS3XLGAQKjafbSyf-DK91oVYgUY_5v_rqurf_DEVyoPyTae-_hC_VqYcVJGr_csfZYZ6g0TpfwzSh_AdDF905yQ5-UlCJtoQUGLjacYQt2JTl0C3RHUVHlxDL63PrGf7Ero4sPO-dWDFzALyTFjnv35HThRXeimETYCSYjhr2qF1HH_7Cu6u9P0NcelA1NEnHMZK34Gqw1I1WIQfV6dmMdOiXdJlBT1plLByPuFF3Z9JYGe85vhTrz-pVjQ8N2IWH0Cjgo5m0L0cflPe5dKB5YZY3EQIir" />
     <title lang="en">Major League Baseball</title>
     <live />
-  </programme>
-  <programme start="20260825000000 +0000" stop="20260825013000 +0000" channel="TNTSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <date>2026</date>
-    <desc lang="en">Indianapolis: Round 4
-Action from the final round of LIV Golf at The Club at Chatham Hills in Westfield, Indiana.</desc>
-    <icon src="https://iptv-epg.org/images/CeRRuLx0v7OsESx7expKSTA6V4EI13I2vofyBGsDprrW4GMn48mpUrifhJdBSSlvXG7P0o6hAl1oDJpkenSuiN0wuiWMAABwD7RdI65alTIgNv1qIPzHX-VtJX_IXh42zYi8YUs2KWaeM9o2XkFgEz1P4Yfr4VNqy11aq4XpRsHkUE5cKDA_em_2EbjK6gDv56Is-xniMD9gMgE0PAaEsMHJMgUWksC3Q-hB_oLaMrGo8THAwxYHcdnSMiW_ONq8kZPn9MLVaX0Ziy-pe9ipawq0VctmU04Fg4KrxwOW2ZflMmWDJJGfVEME1WOqV5T_MpRo89DD" />
-    <title lang="en">LIV Golf League</title>
   </programme>
   <programme start="20260825013000 +0000" stop="20260825020000 +0000" channel="TNTSports2.uk">
     <category lang="en">Sports</category>
@@ -27908,56 +27866,6 @@ Action from UFC Fight at the SPD Bank Oriental Sports Center in Shanghai, China,
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20260824164500 +0000" stop="20260824171500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Erfahren Sie, warum Pelé weitaus mehr als nur ein Spieler und weltweite Ikone war.</desc>
-    <icon src="https://iptv-epg.org/images/_qI6hrhHnwuTdlJxVW-hsoDC_4ldpYgtg424ANbyYLN9bcGh8hSDjHkFXPaUAJFLswHmc-5VRCdrPKShl69i4Q5eGgllO1UnfyzrjxnuR7tDn5tTxvk8rchk2dHuG-3IY80VhwO18_5AiD-MQ6WpiOmstjHAKbU" />
-    <title lang="de">Im Rampenlicht - Football’s Greatest Stage, Mehr als ein Spieler: Pelé (Episode 14)</title>
-  </programme>
-  <programme start="20260824171500 +0000" stop="20260824174500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Spitzenspiel,Internationaler Fussball
-Die Sendung präsentiert die besten Spiele einer jeden Woche in 30 Minuten.</desc>
-    <icon src="https://iptv-epg.org/images/5gGJ1VsG2eqwDTKhlnhRmqhNwm-ZCAstSXt1u3A2YNQz7hiAU2Ya086DJovrb_yHSHPxhJapX92GNEjjDZNg75lqxTutDWKUbB2JX-NiKoNWZtuEWTzC7QYVy7GUKMEdsElGhESUgiwuWR5EmYKnH_pqda0qe8M" />
-    <title lang="de">90in30: Spitzenspiel, Internationaler Fußball</title>
-  </programme>
-  <programme start="20260824174500 +0000" stop="20260824181500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der niederländische Spielklasse Eredivisie.</desc>
-    <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
-    <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (3. Spieltag)</title>
-  </programme>
-  <programme start="20260824181500 +0000" stop="20260824211500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Stars und Verantwortlichen bieten faszinierende Einblicke hinter die Kulissen. Begleiten Sie die Reds beim Training und lernen Sie das Herz von Anfield kennen.</desc>
-    <icon src="https://iptv-epg.org/images/Nnx5eDUVy34Pm4oW-4YON5nLLD3CLMiV2VJLZo0dE7mSC5edW73xUyRJgM8A6lp8GhkF4ow_hxl5RFSXvxk7X_8Ua1q8U3K_Rxa_fdu9RngooOgbM7sFCHq6xdXF5O84RRuXRw__hKISom0CZwKm3Z83nS2hFplA" />
-    <title lang="de">LFC TV - 1. Spieltag, Newcastle United - Liverpool FC</title>
-  </programme>
-  <programme start="20260824211500 +0000" stop="20260824231500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Fortuna Sittard Stadion in Sittard, Niederlande.</desc>
-    <icon src="https://iptv-epg.org/images/bwvtwT6UfHgHGdo3HtgvxJXOBoKZhmFoSPwLCS9f3_IOO_755taDlxKXhCBZRIoCgfOW_KvHc6VM_xZGeaXxGUjDGI00yWJks6f6JnclJyC1kSOPc23wVQQOCvh6aQo3o9TLrbDmlbgz-oSXM_3NknMCwtKhVB4" />
-    <title lang="de">Fortuna Sittard - AZ Alkmaar, Eredivisie (3. Spieltag)</title>
-  </programme>
-  <programme start="20260824231500 +0000" stop="20260825011500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Cracovia Krakau - Wieczysta Kraków
-Aus dem Cracovia-Stadion in Krakau, Polen.</desc>
-    <icon src="https://iptv-epg.org/images/403e6eH-pHDvf3W3PaBIriM8pdKQabzoyPErWuVtUcPQY5cnugWqNtczUOnP4atU_qMLK0Kl_QdqqO23GKEqJtkVlI_gVHOmmIaYvnrM86R3pAqkCl399qzzNsWg4ZiKe9vFt73bYMfExsC0SqBo7mKkI-r9SLQ" />
-    <title lang="de">Cracovia Krakau - Wieczysta Krakau, Ekstraklasa (5. Spieltag)</title>
-  </programme>
   <programme start="20260825011500 +0000" stop="20260825014500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
