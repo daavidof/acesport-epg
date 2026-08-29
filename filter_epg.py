@@ -34,7 +34,7 @@ WANTED = {
     "polsatsportpremium2.pl",
 
     # --- Nieuwe Sport 4 / 5 (Israël) ---
-    "sport4.il",
+    "&#x5e1;&#x5e4;&#x5d5;&#x5e8;&#x5d8;4hd.il",
     "5sport4k.il",
 }
 
