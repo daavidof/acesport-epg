@@ -35,7 +35,7 @@ WANTED = {
 
     # --- Nieuwe Sport 4 / 5 (Israël) ---
     "sport4.il",
-    "sport5.il",
+    "5SPORT4K.il",
 }
 
 SOURCES = [
