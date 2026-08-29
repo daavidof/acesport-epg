@@ -1,6 +1,16 @@
 import gzip
+import re
+import time
 import urllib.request
 from xml.etree import ElementTree as ET
+
+# Installeer dit in je GitHub Action: pip install deep-translator
+try:
+    from deep_translator import GoogleTranslator
+    TRANSLATOR_AVAILABLE = True
+except ImportError:
+    TRANSLATOR_AVAILABLE = False
+    print("WARNING: pip install deep-translator ontbreekt. Hebreeuwse tekst wordt niet vertaald.")
 
 WANTED = {
     # --- Bestaande kanalen ---
@@ -21,7 +31,7 @@ WANTED = {
     "premiersports2.uk",
     "sportdigitalfussball.de",
 
-    # --- Nieuwe DAZN kanalen ---
+    # --- DAZN (Spaans) ---
     "dazn1.es",
     "dazn2.es",
     "dazn3.es",
@@ -29,23 +39,47 @@ WANTED = {
     "daznlaliga.es",
     "daznlaliga2.es",
 
-    # --- Nieuwe Polsat kanalen ---
+    # --- Polsat ---
     "polsatsportpremium1.pl",
     "polsatsportpremium2.pl",
 
-    # --- Nieuwe Sport 4 / 5 (Israël) ---
-    "ספורט4hd.il",
-    "5sport4k.il",
+    # --- Israël (Hebreeuws) ---
+    "ספורט4hd.il",   # Sport 4
+    "5sport4k.il",   # Sport 5
 }
 
 SOURCES = [
     "https://iptv-epg.org/files/epg-nl.xml.gz",
     "https://iptv-epg.org/files/epg-gb.xml.gz",
     "https://iptv-epg.org/files/epg-de.xml.gz",
-    "https://iptv-epg.org/files/epg-es.xml.gz",   # DAZN LaLiga
-    "https://iptv-epg.org/files/epg-pl.xml.gz",   # Polsat
-    "https://iptv-epg.org/files/epg-il.xml.gz",   # Sport 4 / 5
+    "https://iptv-epg.org/files/epg-es.xml.gz",
+    "https://iptv-epg.org/files/epg-pl.xml.gz",
+    "https://iptv-epg.org/files/epg-il.xml.gz",
 ]
+
+# Detecteer Hebreeuwse tekens (Unicode range)
+HEBREW_PATTERN = re.compile(r'[\u0590-\u05FF]')
+translation_cache = {}
+
+
+def translate_text(text: str) -> str:
+    """Vertaal tekst alleen als deze Hebreeuws bevat."""
+    if not text or not TRANSLATOR_AVAILABLE:
+        return text
+    if not HEBREW_PATTERN.search(text):
+        return text
+    if text in translation_cache:
+        return translation_cache[text]
+    try:
+        time.sleep(0.3)  # Rate limiting
+        translated = GoogleTranslator(source='auto', target='nl').translate(text)
+        translation_cache[text] = translated
+        print(f"  [NL] {text[:60]}... -> {translated[:60]}...")
+        return translated
+    except Exception as e:
+        print(f"  [TRANSLATE ERROR] {e}")
+        return text
+
 
 def download(url: str) -> bytes:
     print(f"Downloading {url}...")
@@ -55,6 +89,7 @@ def download(url: str) -> bytes:
     if url.endswith(".gz"):
         data = gzip.decompress(data)
     return data
+
 
 root_out = ET.Element("tv")
 seen_channels = set()
@@ -76,13 +111,25 @@ for url in SOURCES:
     for prog in tree.findall("programme"):
         cid = (prog.get("channel") or "").lower()
         if cid in WANTED:
-            root_out.append(prog)
+            # Clone het programme element zodat we de tekst kunnen aanpassen
+            new_prog = ET.Element("programme", prog.attrib)
+            for child in prog:
+                new_child = ET.SubElement(new_prog, child.tag)
+                new_child.attrib = child.attrib
+                if child.text:
+                    new_child.text = translate_text(child.text)
+                else:
+                    new_child.text = child.text
+            root_out.append(new_prog)
 
 xml_bytes = ET.tostring(root_out, encoding="utf-8", xml_declaration=True)
+
 with open("epg.xml", "wb") as f:
     f.write(xml_bytes)
 with gzip.open("epg.xml.gz", "wb") as f:
     f.write(xml_bytes)
 
-print(f"Done. Channels found: {sorted(seen_channels)}")
+print(f"\nDone. Channels found: {sorted(seen_channels)}")
 print(f"Total programmes: {len(root_out.findall('programme'))}")
+if translation_cache:
+    print(f"Translations made: {len(translation_cache)}")
