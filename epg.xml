@@ -33515,4 +33515,408 @@ Archiwum Ligi Konferencji UEFA.</desc>
     <icon src="https://iptv-epg.org/images/wX-Q-Alo3gtNluSOQz4b8_rFaVV147oadeNqt9rWHb9ywPSIvXp1CE6WpTTr6ivrLC8ttFdKom4i-Uh-5lp9AO0zLkC-oTblQehh" />
     <title lang="pl">Archiwum Ligi Konferencji UEFA</title>
   </programme>
+  <channel id="5SPORT4K.il">
+    <display-name>IL - 5SPORT 4K</display-name>
+    <icon src="https://iptv-epg.org/images/oifhoMGddxpGAzNHtyOX3PpLHvP_fkolnntWDoNQ1FCXs3-VxdzvQSvhqfGbkGGaB88IWvtKLivWTUoYiq9tP45p-ew0J4Ycg9fN7STqNa4a" />
+  </channel>
+  <programme start="20260828163500 +0000" stop="20260828181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260828181000 +0000" stop="20260828210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260828210500 +0000" stop="20260828214500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260828214500 +0000" stop="20260828222500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260828222500 +0000" stop="20260829000500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260829000500 +0000" stop="20260829030000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829055500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260829055500 +0000" stop="20260829064000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260829064000 +0000" stop="20260829093500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260829093500 +0000" stop="20260829102000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260829102000 +0000" stop="20260829115500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260829115500 +0000" stop="20260829145000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260829145000 +0000" stop="20260829163500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260829163500 +0000" stop="20260829181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260829181000 +0000" stop="20260829210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260829210500 +0000" stop="20260829214500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260829214500 +0000" stop="20260829222500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260829222500 +0000" stop="20260830000500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260830000500 +0000" stop="20260830030000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260830030000 +0000" stop="20260830055500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260830055500 +0000" stop="20260830064000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260830064000 +0000" stop="20260830093500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260830093500 +0000" stop="20260830101500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260830101500 +0000" stop="20260830115500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260830115500 +0000" stop="20260830145000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260830145000 +0000" stop="20260830163500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260830163500 +0000" stop="20260830181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260830181000 +0000" stop="20260830210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260830210500 +0000" stop="20260830214500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260830214500 +0000" stop="20260830222500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260830222500 +0000" stop="20260831000500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260831000500 +0000" stop="20260831030000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260831030000 +0000" stop="20260831055500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260831055500 +0000" stop="20260831064000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260831064000 +0000" stop="20260831093500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260831093500 +0000" stop="20260831101500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260831101500 +0000" stop="20260831115500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260831115500 +0000" stop="20260831145000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260831145000 +0000" stop="20260831163500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260831163500 +0000" stop="20260831181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260831181000 +0000" stop="20260831210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260831210500 +0000" stop="20260831214500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260831214500 +0000" stop="20260831222500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260831222500 +0000" stop="20260901000500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260901000500 +0000" stop="20260901030000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901055500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260901055500 +0000" stop="20260901064000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260901064000 +0000" stop="20260901093500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260901093500 +0000" stop="20260901101500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260901101500 +0000" stop="20260901115500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260901115500 +0000" stop="20260901145000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260901145000 +0000" stop="20260901163500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260901163500 +0000" stop="20260901181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260901181000 +0000" stop="20260901210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260901210500 +0000" stop="20260901214500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260901214500 +0000" stop="20260901222500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260901222500 +0000" stop="20260902000500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260902000500 +0000" stop="20260902030000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260902030000 +0000" stop="20260902055500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260902055500 +0000" stop="20260902064000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260902064000 +0000" stop="20260902093500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260902093500 +0000" stop="20260902101500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260902101500 +0000" stop="20260902115500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260902115500 +0000" stop="20260902145000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260902145000 +0000" stop="20260902163500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260902163500 +0000" stop="20260902181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260902181000 +0000" stop="20260902210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260902210500 +0000" stop="20260902214500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260902214500 +0000" stop="20260902222500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260902222500 +0000" stop="20260903000500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260903000500 +0000" stop="20260903030000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260903030000 +0000" stop="20260903055500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260903055500 +0000" stop="20260903064000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260903064000 +0000" stop="20260903093500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260903093500 +0000" stop="20260903101500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260903101500 +0000" stop="20260903115500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260903115500 +0000" stop="20260903145000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260903145000 +0000" stop="20260903163500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. פ''ת - מ. פ''ת</title>
+  </programme>
+  <programme start="20260903163500 +0000" stop="20260903181000 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
+    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
+    <title lang="he">ה. חיפה - ע. טבריה</title>
+  </programme>
+  <programme start="20260903181000 +0000" stop="20260903210500 +0000" channel="5SPORT4K.il">
+    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
+    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
+    <title lang="he">פורמולה 1</title>
+  </programme>
   </tv>
