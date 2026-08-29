@@ -33519,6 +33519,10 @@ Archiwum Ligi Konferencji UEFA.</desc>
     <display-name>IL - 5SPORT 4K</display-name>
     <icon src="https://iptv-epg.org/images/oifhoMGddxpGAzNHtyOX3PpLHvP_fkolnntWDoNQ1FCXs3-VxdzvQSvhqfGbkGGaB88IWvtKLivWTUoYiq9tP45p-ew0J4Ycg9fN7STqNa4a" />
   </channel>
+  <channel id="ספורט4HD.il">
+    <display-name>IL - ספורט 4 HD</display-name>
+    <icon src="" />
+  </channel>
   <programme start="20260828163500 +0000" stop="20260828181000 +0000" channel="5SPORT4K.il">
     <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
     <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
@@ -33918,5 +33922,430 @@ Archiwum Ligi Konferencji UEFA.</desc>
     <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי הולנד 2026: המירוץ.</desc>
     <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
     <title lang="he">פורמולה 1</title>
+  </programme>
+  <programme start="20260828163000 +0000" stop="20260828170000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">כדורגל. לקראת המחזור הראשון בליגה האיטלקית.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">לקראת המחזור בליגה האיטלקית</title>
+  </programme>
+  <programme start="20260828170000 +0000" stop="20260828175000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: פודקאסט הפנטזי של ספורט 1. שחר איוואן, מיכאל זנדברג ועומר אפל עם כל העדכונים החשובים בעולם הפנטזי, החילופים הנכונים וההרכבים המדויקים לקראת עוד חץ ירוק.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מדברים פנטזי</title>
+  </programme>
+  <programme start="20260828175000 +0000" stop="20260828180500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. ברייטון - אסטון וילה, הליגה האנגלית, מחזור 1, עונת 2026/27. אלופת הליגה האירופית, אסטון וילה, פותחת עונה במשחק חוץ קשה אצל ברייטון.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ברייטון - אסטון וילה</title>
+  </programme>
+  <programme start="20260828180500 +0000" stop="20260828184000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי נתניה - בית''ר ירושלים, ליגת ווינר, מחזור 24, עונת 2025/26. שועה ובית''ר מספקים הצגה היסטורית עם שמינייה מהדהדת על חשבון החבורה של רוני לוי.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">העונה שהייתה: מ. נתניה - בית''ר י-ם</title>
+  </programme>
+  <programme start="20260828184000 +0000" stop="20260828185500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי ת''א - לוגאנו, פלייאוף הקונפרנס ליג, עונת 2026/27. הצהובים ודור פרץ במפגש הגומלין מול לוגאנו על הכרטיס לשלב הליגה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מכבי ת''א - לוגאנו</title>
+  </programme>
+  <programme start="20260828185500 +0000" stop="20260828210000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. רקסהאם - ברמינגהאם, צ'מפיונשיפ, מחזור 3, עונת 2026/27. מפגש בין שתי קבוצות שחולמות על עליה לפרמיירליג.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! רקסהאם - ברמינגהאם</title>
+  </programme>
+  <programme start="20260828210000 +0000" stop="20260828230000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. רקסהאם - ברמינגהאם, צ'מפיונשיפ, מחזור 3, עונת 2026/27. מפגש בין שתי קבוצות שחולמות על עליה לפרמיירליג.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">רקסהאם - ברמינגהאם</title>
+  </programme>
+  <programme start="20260828230000 +0000" stop="20260829010000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: חצי גמר סבב ה-WTA 500 לנשים ממונטריי עם בכירות הטניסאיות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! WTA 500: טורניר מונטריי, ח' גמר 1</title>
+  </programme>
+  <programme start="20260829010000 +0000" stop="20260829030000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: חצי גמר סבב ה-WTA 500 לנשים ממונטריי עם בכירות הטניסאיות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! WTA 500: טורניר מונטריי, ח' גמר 2</title>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829033000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. לקראת המחזור השני בליגה האיטלקית.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">לקראת המחזור בליגה האיטלקית</title>
+  </programme>
+  <programme start="20260829033000 +0000" stop="20260829053000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: סבב הטריאתלון העולמי לגברים מוואהי, סין.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! טריאתלון סין (גברים)</title>
+  </programme>
+  <programme start="20260829053000 +0000" stop="20260829055000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. באיירן מינכן - שטוטגרט, הליגה הגרמנית, מחזור 1, עונת 2026/27. משחק הפתיחה של הבונדסליגה. הדאבליסטית, באיירן מינכן, עם הארי קיין, מתחילה במסע לעוד תואר.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ב. מינכן - שטוטגרט</title>
+  </programme>
+  <programme start="20260829055000 +0000" stop="20260829074000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. קריסטל פאלאס - מנצ'סטר סיטי, הליגה האנגלית, מחזור 2, עונת 2026/27. ענאן חלאילי ופאלאס ינסו להפתיע את הסיטיזנס והולאנד.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">קריסטל פאלאס (חלאילי) - מנ. סיטי</title>
+  </programme>
+  <programme start="20260829074000 +0000" stop="20260829081000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. כוכב ארסנל, קאי האברץ, במפגש עם אגדת ילדותו, החלוץ אריק מייר, ושניהם בשיחה על השערים והרגעים הגדולים של הגרמני הבינ''ל.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">הראיון הגדול</title>
+  </programme>
+  <programme start="20260829081000 +0000" stop="20260829084000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מבט מיוחד על המורשת יוצאת הדופן שהותיר פפ גווארדיולה כמאמן מנצ'סטר סיטי, האיש ששינה את הסטנדרטים לפיהם נמדד כל מאמן בפרמיירליג.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">סיפורי הפרמיירליג</title>
+  </programme>
+  <programme start="20260829084000 +0000" stop="20260829090000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. קריסטל פאלאס - מנצ'סטר סיטי, הליגה האנגלית, מחזור 2, עונת 2026/27. ענאן חלאילי ופאלאס ינסו להפתיע את הסיטיזנס והולאנד.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">קריסטל פאלאס (חלאילי) - מנ. סיטי</title>
+  </programme>
+  <programme start="20260829090000 +0000" stop="20260829105000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. באיירן מינכן - שטוטגרט, הליגה הגרמנית, מחזור 1, עונת 2026/27. משחק הפתיחה של הבונדסליגה. הדאבליסטית, באיירן מינכן, עם הארי קיין, מתחילה במסע לעוד תואר.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ב. מינכן - שטוטגרט</title>
+  </programme>
+  <programme start="20260829105000 +0000" stop="20260829130000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. הליגה הגרמנית השנייה, מחזור 3, עונת 2026/27. היורדת, היידנהיים מחפשת ניצחון שני העונה, ועדכונים מהמפגש בין קרלסרוהה לוולפסבורג.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! היידנהיים - דינמו דרזדן משולב</title>
+  </programme>
+  <programme start="20260829130000 +0000" stop="20260829132000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: מתכוננים לעוד שבת גדולה של שידורים ישירים ונזכרים ברגעים הבולטים מהשבוע שהיה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">בין ישירים</title>
+  </programme>
+  <programme start="20260829132000 +0000" stop="20260829153000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. לייפציג - מנשנגלאדבך, הליגה הגרמנית, מחזור 1, עונת 2026/27. לייפציג עם המאמן החדש, מרטין דמיקליס, פותחת עונה מול גלדבאך ועדכונים מהמפגש בין העולה החדשה, אלברסברג, ללברקוזן.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! לייפציג - מנשנגלאדבך משולב</title>
+  </programme>
+  <programme start="20260829153000 +0000" stop="20260829155000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. ליברפול - נוטינגהאם פורסט, הליגה האנגלית, מחזור 2, עונת 2026/27. אחרי שאיבדה נקודות במחזור הפתיחה, ליברפול מחפשת ניצחון בכורה מול החבורה של אוליבר גלסנר שהפסידה במחזור הראשון.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ליברפול - נוטינגהאם פורסט</title>
+  </programme>
+  <programme start="20260829155000 +0000" stop="20260829160500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל ת''א - אטאלנטה, גולמין פלייאוף הקונפרנס ליג, עונת 2026/27. האדומים של ברדה ינסו להדהים במפגש הגומלין מול אטאלנטה וסארי על הכרטיס לשלב הליגה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">הפועל ת''א - אטאלנטה</title>
+  </programme>
+  <programme start="20260829160500 +0000" stop="20260829162000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי ת''א - לוגאנו, פלייאוף הקונפרנס ליג, עונת 2026/27. הצהובים ודור פרץ במפגש הגומלין מול לוגאנו על הכרטיס לשלב הליגה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מכבי ת''א - לוגאנו</title>
+  </programme>
+  <programme start="20260829162000 +0000" stop="20260829165000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי נתניה - בית''ר ירושלים, ליגת ווינר, מחזור 24, עונת 2025/26. שועה ובית''ר מספקים הצגה היסטורית עם שמינייה מהדהדת על חשבון החבורה של רוני לוי.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">העונה שהייתה: מ. נתניה - בית''ר י-ם</title>
+  </programme>
+  <programme start="20260829165000 +0000" stop="20260829172500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. פאנל מיוחד לקראת המשחק בין בית''ר ירושלים למכבי נתניה, ליגת ווינר, מחזור 2, עונת 2026/27.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! לקראת בית''ר י-ם - מ. נתניה</title>
+  </programme>
+  <programme start="20260829172500 +0000" stop="20260829200000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. בית''ר י-ם - מכבי נתניה, ליגת ווינר, מחזור 2, עונת 2026/27. בית''ר ירושלים חולמת על אליפות ותנסה לפתוח עם ניצחון, מכבי נתניה מגיעה אחרי תיקו במחזור הפתיחה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! בית''ר י-ם - מ. נתניה</title>
+  </programme>
+  <programme start="20260829200000 +0000" stop="20260829215000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. בית''ר י-ם - מכבי נתניה, ליגת ווינר, מחזור 2, עונת 2026/27. בית''ר ירושלים חולמת על אליפות ותנסה לפתוח עם ניצחון, מכבי נתניה מגיעה אחרי תיקו במחזור הפתיחה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">בית''ר י-ם - מ. נתניה</title>
+  </programme>
+  <programme start="20260829215000 +0000" stop="20260829234000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל ר''ג - הפועל ב''ש, ליגת ווינר, מחזור 2, עונת 2026/27. האלופה, הפועל ב''ש, מתחילה במסע להגנה על התואר במפגש מול העולה החדשה, הפועל ר''ג של מסאי דגו.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. ר''ג - ה. ב''ש</title>
+  </programme>
+  <programme start="20260829234000 +0000" stop="20260830000000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. ליברפול - נוטינגהאם פורסט, הליגה האנגלית, מחזור 2, עונת 2026/27. אחרי שאיבדה נקודות במחזור הפתיחה, ליברפול מחפשת ניצחון בכורה מול החבורה של אוליבר גלסנר שהפסידה במחזור הראשון.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ליברפול - נוטינגהאם פורסט</title>
+  </programme>
+  <programme start="20260830000000 +0000" stop="20260830015000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. יובנטוס - פארמה, ליגה איטלקית, מחזור 2, עונת 2026/27. יובה תנסה להשיג ניצחון שני ברציפות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">יובנטוס - פארמה</title>
+  </programme>
+  <programme start="20260830015000 +0000" stop="20260830021000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. ליברפול - נוטינגהאם פורסט, הליגה האנגלית, מחזור 2, עונת 2026/27. אחרי שאיבדה נקודות במחזור הפתיחה, ליברפול מחפשת ניצחון בכורה מול החבורה של אוליבר גלסנר שהפסידה במחזור הראשון.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ליברפול - נוטינגהאם פורסט</title>
+  </programme>
+  <programme start="20260830021000 +0000" stop="20260830023000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. טוטנהאם - ניוקאסל, הליגה האנגלית, מחזור 2, עונת 2026/27. טוטנהאם, שהובסה במחזור הפתיחה, תנסה להתאושש מול ניוקאסל שמחפשת ניצחון בכורה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">טוטנהאם - ניוקאסל</title>
+  </programme>
+  <programme start="20260830023000 +0000" stop="20260830024500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל ר''ג - הפועל ב''ש, ליגת ווינר, מחזור 2, עונת 2026/27. האלופה, הפועל ב''ש, מתחילה במסע להגנה על התואר במפגש מול העולה החדשה, הפועל ר''ג של מסאי דגו.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. ר''ג - ה. ב''ש</title>
+  </programme>
+  <programme start="20260830024500 +0000" stop="20260830030000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. בית''ר י-ם - מכבי נתניה, ליגת ווינר, מחזור 2, עונת 2026/27. בית''ר ירושלים חולמת על אליפות ותנסה לפתוח עם ניצחון, מכבי נתניה מגיעה אחרי תיקו במחזור הפתיחה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">בית''ר י-ם - מ. נתניה</title>
+  </programme>
+  <programme start="20260830030000 +0000" stop="20260830044500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. דורטמונד - המבורג, הליגה הגרמנית, מחזור 1, עונת 2026/27. דורטמונד עם ג'וב בלינגהאם תנסה לפתוח עונה עם 3 נקודות במפגש מול המבורג.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">דורטמונד - המבורג</title>
+  </programme>
+  <programme start="20260830044500 +0000" stop="20260830063000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. טוטנהאם - ניוקאסל, הליגה האנגלית, מחזור 2, עונת 2026/27. טוטנהאם, שהובסה במחזור הפתיחה, תנסה להתאושש מול ניוקאסל שמחפשת ניצחון בכורה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">טוטנהאם - ניוקאסל</title>
+  </programme>
+  <programme start="20260830063000 +0000" stop="20260830082000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. ה. פ''ת - ה. י-ם. ליגת ווינר, מחזור 2, עונת 2026/27. שתי הקבוצות מגיעות אחרי הפסד במחזור הפתיחה וינסו להשיג נק' ראשונות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. פ''ת - ה. י-ם</title>
+  </programme>
+  <programme start="20260830082000 +0000" stop="20260830101000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. יובנטוס - פארמה, ליגה איטלקית, מחזור 2, עונת 2026/27. יובה תנסה להשיג ניצחון שני ברציפות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">יובנטוס - פארמה</title>
+  </programme>
+  <programme start="20260830101000 +0000" stop="20260830122500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. אוטרכט - פ.ס.וו איינדהובן, הליגה ההולנדית, מחזור 4, עונת 2026/27. האלופה, פ.ס.וו, תנסה להמשיך במומנטום אחרי החמישייה במחזור הקודם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! אוטרכט - פ.ס.וו</title>
+  </programme>
+  <programme start="20260830122500 +0000" stop="20260830144000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. פיינורד - דן האג, הליגה ההולנדית, מחזור 4, עונת 2026/27. פיינורד של ון ברונקהורסט מחפשת ניצחון 3 העונה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! פיינורד - דן האג</title>
+  </programme>
+  <programme start="20260830144000 +0000" stop="20260830164500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. טלסטאר - איאקס, הליגה ההולנדית, מחזור 4, עונת 2026/27. איאקס ואוסקר גלוך פייבוריטים מול העולה החדשה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! טלסטאר - איאקס (גלוך)</title>
+  </programme>
+  <programme start="20260830164500 +0000" stop="20260830193000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. הפועל חיפה - הפועל ת''א, ליגת ווינר, מחזור 2, עונת 2026/27. האדומים של ברדה פותחים עונה וינסו להשיג ניצחון על החבורה של סילבס.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! ה. חיפה - ה. ת''א</title>
+  </programme>
+  <programme start="20260830193000 +0000" stop="20260830212000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. ה. חיפה - ה. ת''א. ליגת ווינר, מחזור 2, עונת 2026/27. האדומים של ברדה פותחים עונה וינסו להשיג ניצחון על החבורה של סילבס.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. חיפה - ה. ת''א</title>
+  </programme>
+  <programme start="20260830212000 +0000" stop="20260830231000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מנ. יונייטד - איפסוויץ'. הליגה האנגלית, מחזור 2, עונת 2026/27. אחרי ההפסד במחזור הפתיחה, קאריק והשדים האדומים לא יכולים למעוד מול עולה חדשה נוספת.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מנ. יונייטד - איפסוויץ'</title>
+  </programme>
+  <programme start="20260830231000 +0000" stop="20260830233000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. טלסטאר - איאקס, הליגה ההולנדית, מחזור 4, עונת 2026/27. איאקס ואוסקר גלוך פייבוריטים מול העולה החדשה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">טלסטאר - איאקס (גלוך)</title>
+  </programme>
+  <programme start="20260830233000 +0000" stop="20260831011500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אוטרכט - פ.ס.וו איינדהובן, הליגה ההולנדית, מחזור 4, עונת 2026/27. האלופה, פ.ס.וו, תנסה להמשיך במומנטום אחרי החמישייה במחזור הקודם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אוטרכט - פ.ס.וו</title>
+  </programme>
+  <programme start="20260831011500 +0000" stop="20260831030000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. פיינורד - דן האג, הליגה ההולנדית, מחזור 4, עונת 2026/27. פיינורד של ון ברונקהורסט מחפשת ניצחון 3 העונה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">פיינורד - דן האג</title>
+  </programme>
+  <programme start="20260831030000 +0000" stop="20260831045000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. קורינתיאנס - סאנטוס, הברזילראו, מחזור 25, עונת 2026. סאנטוס וניימאר מחפשים 3 נקודות מול קורינתיאנס, שמגיעה אחרי 2 הפסדים.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">קורינתיאנס - סאנטוס (ניימאר)</title>
+  </programme>
+  <programme start="20260831045000 +0000" stop="20260831064000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מיראסול - פלמיירס, הברזילראו, מחזור 25, עונת 2026. המוליכה, פלמיירס, מחפשת ניצחון 2 ברציפות במפגש מול מיראסול שמתחת לקו האדום.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מיראסול - פלמיירס</title>
+  </programme>
+  <programme start="20260831064000 +0000" stop="20260831070000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מנצ'סטר יונייטד - איפסוויץ', הליגה האנגלית, מחזור 2, עונת 2026/27. אחרי ההפסד במחזור הפתיחה, קאריק והשדים האדומים לא יכולים למעוד מול עולה חדשה נוספת.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מנ. יונייטד - איפסוויץ'</title>
+  </programme>
+  <programme start="20260831070000 +0000" stop="20260831085000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. באנפילד - ריבר פלייט, הליגה הארגנטינאית, מחזור 7, עונת 2026/27. עם ניצחון בודד העונה, ריבר חייבת 3 נקודות כדי להתקרב לצמרת.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">באנפילד - ריבר פלייט</title>
+  </programme>
+  <programme start="20260831085000 +0000" stop="20260831103500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. טלסטאר - איאקס, הליגה ההולנדית, מחזור 4, עונת 2026/27. איאקס ואוסקר גלוך פייבוריטים מול העולה החדשה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">טלסטאר - איאקס (גלוך)</title>
+  </programme>
+  <programme start="20260831103500 +0000" stop="20260831104500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: וואלה! תיקתקנו - האירועים והרגעים הבולטים ששודרו ביממה האחרונה בחבילת הערוצים של ספורט 1.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">וואלה! תיקתקנו - מבזק ספורט</title>
+  </programme>
+  <programme start="20260831104500 +0000" stop="20260831110000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. צ'לסי - ברייטון, הליגה האנגלית, מחזור 2, עונת 2026/27. הבלוז של צ'אבי אלונסו רוצים ניצחון שני העונה ופוגשים את ברייטון שהביסה את אסטון וילה במחזור הפתיחה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">צ'לסי - ברייטון</title>
+  </programme>
+  <programme start="20260831110000 +0000" stop="20260831125000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. נאפולי - קומו, ליגה איטלקית, מחזור 2, עונת 2026/27. נאפולי ודה בריינה ינסו להישאר מושלמים במפגש מול קומו של ססק פברגאס.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">נאפולי - קומו</title>
+  </programme>
+  <programme start="20260831125000 +0000" stop="20260831132000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. כוכב ארסנל, קאי האברץ, במפגש עם אגדת ילדותו, החלוץ אריק מייר, ושניהם בשיחה על השערים והרגעים הגדולים של הגרמני הבינ''ל.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">הראיון הגדול</title>
+  </programme>
+  <programme start="20260831132000 +0000" stop="20260831151000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. קליארי - אינטר, ליגה איטלקית, מחזור 2, עונת 2026/27. האלופה, אינטר, שהרשימה במחזור הפתיחה, תנסה להשיג עוד 3 נקודות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">קליארי - אינטר</title>
+  </programme>
+  <programme start="20260831151000 +0000" stop="20260831152000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: וואלה! תיקתקנו - האירועים והרגעים הבולטים ששודרו ביממה האחרונה בחבילת הערוצים של ספורט 1.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">וואלה! תיקתקנו - מבזק ספורט</title>
+  </programme>
+  <programme start="20260831152000 +0000" stop="20260831162400 +0000" channel="ספורט4HD.il">
+    <desc lang="he">חיים רביבו ולירן שכנר מתכוננים לעונה החדשה ומדברים על כל מה שחם בליגת העל, אצלנו ובעולם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">רביבו ושכנר</title>
+  </programme>
+  <programme start="20260831162400 +0000" stop="20260831183900 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. לצ'ה - רומא. ליגה איטלקית, מחזור 2, עונת 2026/27. רומא ודונייל מאלן מגיעים אחרי רביעייה במחזור הפתיחה, לצ'ה וגאנדלמן ינסו להפתיע אותם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! לצ'ה (גאנדלמן) - רומא</title>
+  </programme>
+  <programme start="20260831183900 +0000" stop="20260831204500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. אטאלנטה - בולוניה, ליגה איטלקית, מחזור 2, עונת 2026/27. אחרי המפגש עם הפועל ת''א, אטאלנטה וסארי מחפשים ניצחון 2 ברציפות בפתיחת העונה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! אטאלנטה - בולוניה</title>
+  </programme>
+  <programme start="20260831204500 +0000" stop="20260831223500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. לצ'ה - רומא. ליגה איטלקית, מחזור 2, עונת 2026/27. רומא ודונייל מאלן מגיעים אחרי רביעייה במחזור הפתיחה, לצ'ה וגאנדלמן ינסו להפתיע אותם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">לצ'ה (גאנדלמן) - רומא</title>
+  </programme>
+  <programme start="20260831223500 +0000" stop="20260831233000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. סיכום המחזור הראשון בבונדסליגה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">סיכום המחזור בליגה הגרמנית</title>
+  </programme>
+  <programme start="20260831233000 +0000" stop="20260901011500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אטאלנטה - בולוניה, ליגה איטלקית, מחזור 2, עונת 2026/27. אחרי המפגש עם הפועל ת''א, אטאלנטה וסארי מחפשים ניצחון 2 ברציפות בפתיחת העונה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אטאלנטה - בולוניה</title>
+  </programme>
+  <programme start="20260901011500 +0000" stop="20260901030000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אמדספור - טרבזונספור, הליגה הטורקית, מחזור 3, עונת 2026/27. דיא סבע והעולה החדשה ינסו להפתיע את טרבזונספור ומוחמד סלאח.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אמדספור (סבע) - טרבזונספור (סלאח)</title>
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901044500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. לצ'ה - רומא. ליגה איטלקית, מחזור 2, עונת 2026/27. רומא ודונייל מאלן מגיעים אחרי רביעייה במחזור הפתיחה, לצ'ה וגאנדלמן ינסו להפתיע אותם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">לצ'ה (גאנדלמן) - רומא</title>
+  </programme>
+  <programme start="20260901044500 +0000" stop="20260901063000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אטאלנטה - בולוניה, ליגה איטלקית, מחזור 2, עונת 2026/27. אחרי המפגש עם הפועל ת''א, אטאלנטה וסארי מחפשים ניצחון 2 ברציפות בפתיחת העונה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אטאלנטה - בולוניה</title>
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901082000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אסטון וילה - ארסנל, הליגה האנגלית, מחזור 2, עונת 2026/27. האלופה, ארסנל, תנסה להישאר מושלמת. וילה ואונאי אמרי יתאוששו אחרי התבוסה במחזור הפתיחה?</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אסטון וילה - ארסנל</title>
+  </programme>
+  <programme start="20260901082000 +0000" stop="20260901101000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אמדספור - טרבזונספור, הליגה הטורקית, מחזור 3, עונת 2026/27. דיא סבע והעולה החדשה ינסו להפתיע את טרבזונספור ומוחמד סלאח.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אמדספור (סבע) - טרבזונספור (סלאח)</title>
+  </programme>
+  <programme start="20260901101000 +0000" stop="20260901104500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי ת''ל אביב - מכבי חיפה, ליגת ווינר, מחזור 2, עונת 2026/27. היריבות המושבעות מגיעות אחרי ניצחון. הצהובים ודור פרץ מול הירוקים עם ברוניניו, מי תישאר מושלמת?</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מ. ת''א - מ. חיפה</title>
+  </programme>
+  <programme start="20260901104500 +0000" stop="20260901110000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל פ''ת - הפועל ירושלים, ליגת ווינר, מחזור 2, עונת 2026/27. שתי הקבוצות מגיעות אחרי הפסד במחזור הפתיחה וינסו להשיג נקודות ראשונות.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. פ''ת - ה. י-ם</title>
+  </programme>
+  <programme start="20260901110000 +0000" stop="20260901111500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה - הפועל ת''א, ליגת ווינר, מחזור 2, עונת 2026/27. האדומים של ברדה פותחים עונה וינסו להשיג ניצחון על החבורה של סילבס.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. חיפה - ה. ת''א</title>
+  </programme>
+  <programme start="20260901111500 +0000" stop="20260901113000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. הפועל ר''ג - הפועל ב''ש, ליגת ווינר, מחזור 2, עונת 2026/27. האלופה, הפועל ב''ש, מתחילה במסע להגנה על התואר במפגש מול העולה החדשה, הפועל ר''ג של מסאי דגו.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ה. ר''ג - ה. ב''ש</title>
+  </programme>
+  <programme start="20260901113000 +0000" stop="20260901132000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. בית''ר ירושלים - מכבי נתניה, ליגת ווינר, מחזור 2, עונת 2026/27. בית''ר ירושלים חולמת על אליפות ותנסה לפתוח עם ניצחון, מכבי נתניה מגיעה אחרי תיקו במחזור הפתיחה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">בית''ר י-ם - מ. נתניה</title>
+  </programme>
+  <programme start="20260901132000 +0000" stop="20260901135500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי ת''ל אביב - מכבי חיפה, ליגת ווינר, מחזור 2, עונת 2026/27. היריבות המושבעות מגיעות אחרי ניצחון. הצהובים ודור פרץ מול הירוקים עם ברוניניו, מי תישאר מושלמת?</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מ. ת''א - מ. חיפה</title>
+  </programme>
+  <programme start="20260901135500 +0000" stop="20260901154500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. לצ'ה - רומא. ליגה איטלקית, מחזור 2, עונת 2026/27. רומא ודונייל מאלן מגיעים אחרי רביעייה במחזור הפתיחה, לצ'ה וגאנדלמן ינסו להפתיע אותם.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">לצ'ה (גאנדלמן) - רומא</title>
+  </programme>
+  <programme start="20260901154500 +0000" stop="20260901155500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: וואלה! תיקתקנו - האירועים והרגעים הבולטים ששודרו ביממה האחרונה בחבילת הערוצים של ספורט 1.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">וואלה! תיקתקנו - מבזק ספורט</title>
+  </programme>
+  <programme start="20260901155500 +0000" stop="20260901180000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. קרמונזה - פארמה, הגביע האיטלקי, סיבוב 2, עונת 2026/27. פארמה במאבק על הכרטיס לשמינית מול קרמונזה מליגת המשנה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! קרמונזה - פארמה</title>
+  </programme>
+  <programme start="20260901180000 +0000" stop="20260901182000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אסטון וילה - ארסנל, הליגה האנגלית, מחזור 2, עונת 2026/27. האלופה, ארסנל, תנסה להישאר מושלמת. וילה ואונאי אמרי יתאוששו אחרי התבוסה במחזור הפתיחה?</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אסטון וילה - ארסנל</title>
+  </programme>
+  <programme start="20260901182000 +0000" stop="20260901185500 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מכבי ת''ל אביב - מכבי חיפה, ליגת ווינר, מחזור 2, עונת 2026/27. היריבות המושבעות מגיעות אחרי ניצחון. הצהובים ודור פרץ מול הירוקים עם ברוניניו, מי תישאר מושלמת?</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מ. ת''א - מ. חיפה</title>
+  </programme>
+  <programme start="20260901185500 +0000" stop="20260901210000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור ישיר: כדורגל. טורינו - מונזה, הגביע האיטלקי, סיבוב 2, עונת 2026/27. שתי הקבוצות במאבק על הכרטיס לשמינית, שם מחכה למילאן.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">ישיר! טורינו - מונזה</title>
+  </programme>
+  <programme start="20260901210000 +0000" stop="20260901213000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. סיכום משחקי המחזור הראשון בליגת ווינר.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">סיכום המחזור בליגת ווינר</title>
+  </programme>
+  <programme start="20260901213000 +0000" stop="20260901232000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. אסטון וילה - ארסנל, הליגה האנגלית, מחזור 2, עונת 2026/27. האלופה, ארסנל, תנסה להישאר מושלמת. וילה ואונאי אמרי יתאוששו אחרי התבוסה במחזור הפתיחה?</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">אסטון וילה - ארסנל</title>
+  </programme>
+  <programme start="20260901232000 +0000" stop="20260902011000 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. מנצ'סטר יונייטד - איפסוויץ', הליגה האנגלית, מחזור 2, עונת 2026/27. אחרי ההפסד במחזור הפתיחה, קאריק והשדים האדומים לא יכולים למעוד מול עולה חדשה נוספת.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">מנ. יונייטד - איפסוויץ'</title>
+  </programme>
+  <programme start="20260902011000 +0000" stop="20260902011100 +0000" channel="ספורט4HD.il">
+    <desc lang="he">שידור חוזר: כדורגל. צ'לסי - ברייטון, הליגה האנגלית, מחזור 2, עונת 2026/27. הבלוז של צ'אבי אלונסו רוצים ניצחון שני העונה ופוגשים את ברייטון שהביסה את אסטון וילה במחזור הפתיחה.</desc>
+    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
+    <title lang="he">צ'לסי - ברייטון</title>
   </programme>
   </tv>
