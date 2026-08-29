@@ -17,10 +17,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      # ⬇️ DIT IS NIEUW
-      - name: Install dependencies
-        run: pip install deep-translator
-
       - name: Filter EPG
         run: python filter_epg.py
 
