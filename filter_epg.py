@@ -3,6 +3,7 @@ import urllib.request
 from xml.etree import ElementTree as ET
 
 WANTED = {
+    # --- Bestaande kanalen ---
     "espn.nl",
     "espn2.nl",
     "espn4.nl",
@@ -19,12 +20,31 @@ WANTED = {
     "premiersports1.uk",
     "premiersports2.uk",
     "sportdigitalfussball.de",
+
+    # --- Nieuwe DAZN kanalen ---
+    "dazn1.es",
+    "dazn2.es",
+    "dazn3.es",
+    "dazn4.es",
+    "daznlaliga.es",
+    "daznlaliga2.es",
+
+    # --- Nieuwe Polsat kanalen ---
+    "polsatsportpremium1.pl",
+    "polsatsportpremium2.pl",
+
+    # --- Nieuwe Sport 4 / 5 (Israël) ---
+    "sport4.il",
+    "sport5.il",
 }
 
 SOURCES = [
     "https://iptv-epg.org/files/epg-nl.xml.gz",
     "https://iptv-epg.org/files/epg-gb.xml.gz",
     "https://iptv-epg.org/files/epg-de.xml.gz",
+    "https://iptv-epg.org/files/epg-es.xml.gz",   # DAZN LaLiga
+    "https://iptv-epg.org/files/epg-pl.xml.gz",   # Polsat
+    "https://iptv-epg.org/files/epg-il.xml.gz",   # Sport 4 / 5
 ]
 
 def download(url: str) -> bytes:
