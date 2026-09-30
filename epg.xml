@@ -23,22 +23,6 @@
     <display-name>NL - Ziggo Sport 6</display-name>
     <icon src="https://iptv-epg.org/images/PR_s_DRdQGU2ryeVqnlFbz1mWkY8CHnsA8J5E1McR9hP5moOQp3Dzgl6YkNrrayKiRZR7RykJrrM83dcDh66vg6p_FZzIbnJfW1ovKcXN8uYSbPzwE7FDzw" />
   </channel>
-  <programme start="20260929000000 +0000" stop="20260929001500 +0000" channel="ESPN.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sporttalkshow</category>
-    <category>Sports</category>
-    <credits>
-      <actor>Joe Buck</actor>
-      <actor>Troy Aikman</actor>
-      <actor>Lisa Salters</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="nl">E8 — Aflevering 8
-Voorbeschouwing op een NFL-wedstrijd in het seizoen 2026-2027.</desc>
-    <episode-num>E8</episode-num>
-    <icon src="https://iptv-epg.org/images/BnvencLHmUJE9PAPU2ZgBb9HRG9tuvieTya9Nqe8Hq1aEA0Fhn1OEVGVdI92rGrQe352Ebsxcp_UUjGNpeY3KaJDxp0hA75OUbqJNPNEdZd0J64v6HXrfdjOpA4ClMTF67nehsIFyphbpbP5P37v8ANz4UQNIrnSppvPH9Cx6njewlO8VVRjhKjbZXnxy_HximkE70L2h56IPtLX7FVjzWS-EDuX9K8qiOBgrjEocTg-YjjONC7x-PPukoYUtFeovtaE8y3JQ4nC3Pd9efvuOPBnHt7WwrogefRY6xhcjqAPchQ2Kw" />
-    <title lang="nl">Monday Night Kickoff</title>
-  </programme>
   <programme start="20260929001500 +0000" stop="20260929032300 +0000" channel="ESPN.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">American Football</category>
@@ -8586,16 +8570,6 @@ Voetbaltalkshow waarin Wytse van der Goot met vaste gasten en andere prominenten
     <icon src="https://iptv-epg.org/images/w0FtcEBH-EYsIPJ-0cNugnKSiLgawpbltNPYYmaN2Du73AjzqWKEYXn1QcFE1rkG8XUYzxnuvCMwDZdmJMhjDb-wTT6RXlWHGd6JGaplGYMbtTFxMUdDP3gcEGmLHURA2smSS7IzHqCdW1KUQNxN_bQBGnnw4RwDsZ2PyZw6CVjQNcFcyJ3WZPynP4EP2nBg1U-6N7-f2zEBA8BE3GFUQiPT-NF6eD01pxpeNjykmVdYLf6O_wCo3rHye5KbZcVbwvlQwluOD9bEEqyKeB9yb0E0cZ0hUb9ITAs9m3QXGNjL0F5fMw" />
     <title lang="nl">Rondo</title>
   </programme>
-  <programme start="20260929000500 +0000" stop="20260929015000 +0000" channel="ZiggoSport2.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voetbal</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">België - Frankrijk
-Verslag van de wedstrijd België - Frankrijk, gespeeld in de UEFA Nations League.</desc>
-    <icon src="https://iptv-epg.org/images/Wg0vn_kvRNEIr6VIC3KYV42DRnMLWuUDgXC4BMeWfzuXMs1sVLznWCXs_oSd1VtOMLjLhMAp_Ft1ZUNB1TevfA5JKqxjL_VS9742vzdYMeOVkgejGgPJr_9o4KFNzF4YfYHtlWTqd84NgtftsIIkyy4GuI3dfo7-HCPjEEAfhE1EhE8XoPPgetonm8MyPlGsqNb9GAZXDNUzQ_squ1gpHERR1qQThrl7GGW49aQ9vZlL_Ab_iykgxkszgLdNWCGrxCmFWzHqEdgKB02aihJ_of2rmASdvWnrS7oYMfkr3WYzT6wtEQ" />
-    <title lang="nl">UEFA Nations League</title>
-  </programme>
   <programme start="20260929015000 +0000" stop="20260929033500 +0000" channel="ZiggoSport2.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Voetbal</category>
@@ -12971,26 +12945,6 @@ Coverage of the NHL season 2026/27.</desc>
     <title lang="en">NHL Hockey</title>
     <live />
   </programme>
-  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="PremierSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <credits>
-      <director>Alan Rawlings</director>
-      <actor>John Hogan</actor>
-      <actor>Chris Northover</actor>
-      <actor>Luke Bowler</actor>
-      <actor>Suzy Taylor</actor>
-      <producer>Kevin Andrews</producer>
-      <producer>Chris Abel</producer>
-      <producer>Nick Jones</producer>
-    </credits>
-    <date>2024</date>
-    <desc lang="en">S9 E151 — Episode 151
-Bike World brings you the latest action from the high-octane world of two wheels, on-road, off-road or on track.</desc>
-    <episode-num>S9 E151</episode-num>
-    <icon src="https://iptv-epg.org/images/Q0mNC3b0-Yv4dKQFvEcoabBz7DjayKEvjarA5WA3s3rC0v9X3ZPAnvSzTbmYgUEhu5zzaTHmmocl_4jSc1uygIumgoeGOZzDi7rzoIud-W_U8u9ShX4AbvhsAmodGTasaFPIN4OELB2NKzujWy-mVlF_squY3thEbZjXFpAwh0c1YhyHN6jabW4qT8zJwjWag3Xnc6Ofi07TABn1p906X-28_6lDN17lfqXmCc5Ic7s3qxO2eozEf-gRzgpsWXsP7xTH3ETc-U3EQqMUzn-uYs3h0SyTpKm0leZ83h7WMi8gHAaN8nrjiF-jW_JKYqRWbwBz0S8u" />
-    <title lang="en">Bike World</title>
-  </programme>
   <programme start="20260929003000 +0000" stop="20260929043000 +0000" channel="PremierSports2.uk">
     <category lang="en">Sports</category>
     <category lang="en">Motorsport</category>
@@ -14244,15 +14198,6 @@ Coverage of the NHL season 2026/27.</desc>
     <icon src="https://iptv-epg.org/images/IwR6KI_CB2MB_A9T-BtBAW26CCH68dAYTyAS4gdvhyTZ5M1649ZeafX98IMslUFickCXlPZA6kIQndpMqeWaeNdgcUgAFBdYf3Nduh1JGYWrM8uNvcZYDTfJUwc7i8EfM71-zcYa9E02GLaQ9dCzUAfcB3nhOjdH43LIvL5RP-Q4rIwz1YlWLkQXrSSs2dji4bFXmjOYjxlud_Gy7T5gA3EWRYEFdnZ_KbNQv_sgP9fd566BmIkAYPY9wr2YyjfonzxSk12bvyWYO_PrlbjcRZJIljQ-Io6hmkzXFJPHWB92grARvEOMTAZTVRygjXfT8yeLWay3" />
     <title lang="en">NHL Hockey</title>
     <live />
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929020000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2019</date>
-    <desc lang="en">2006/07: Derby Country v West Browmich Albion
-A look back at some classic Football League play-off finals from years gone by. Here, Derby County take on West Bromwich Albion at Wembley in the Championship play-off final in 2007.</desc>
-    <icon src="https://iptv-epg.org/images/8TQT-54ZE-dSZi1-BYkPoa8VrX9ZS0cN3xMsQPugxZ_BGNt7pFtwMlfwfrCE2P5hHtfHlSHGfU2_ACWfPj84iGlDzi1sYRL-lC5cCYbpmHzcMDO21yGzlhV6cmJYqsyF2n2svrHKczyIQwxxTmaMn0BWxflky7yFDCC40k9s_PIDfWWVJiLA786qQrqIOrmRuC_5Trp38T6kgYiC9GhOM0ExCEER81ZcTk2MloQTX4in_sU-nsEZ00Fwc3SVor3BYP5M1__hJetpjoOE3HTE-Y4u9kd6Nn0KuhpA70Qc7E5YElhqwARkhF4XYhcKim1N8M1L7Hq6" />
-    <title lang="en">EFL Play-Offs</title>
   </programme>
   <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
@@ -17054,16 +16999,6 @@ Exeter City meet Blackpool at Wembley Stadium in the final of the Sky Bet League
     <icon src="https://iptv-epg.org/images/fDNdhbl84VUKMFAkDPGOejOQ4u7V_0l_JwEU3o3Py677Xj-4-DMCiG_7IH9IB1sk7t7-q8gXjFUX-ID_WxEbGUFSloK04lL1cdFsPtqMGzo7fWm4O6nX1clktVmyGye6pKfOEvwjRj9HzZpeV2l4yo2U1nCHNpCAywDVREeVrHxdUBnuXCshX7GDwGwoUVIOnJ6mRxcVGVQM2k2UTyBfyp4292KFLG89tZkYjYMRzB9TtoMFt3Yy_dEwpS9r7rD7F6OudbeWnblz00nsWUJWPmykxkotQz1oqLw8-62mcpYQkRJteEjgEB8OZzhgdyuDTjqyh-jc" />
     <title lang="en">EFL</title>
   </programme>
-  <programme start="20260929000000 +0000" stop="20260929033000 +0000" channel="SkySportsMainEvent.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <date>2026</date>
-    <desc lang="en">Philadelphia Eagles at Chicago Bears
-Nick Sirianni's Philadelphia Eagles go to Chicago targeting a third consecutive win to start the campaign. The hosts were shut down by Minnesota for their first loss of the season.</desc>
-    <icon src="https://iptv-epg.org/images/N4iUsBqyEk7vpkqx6uT0zOgNYZeYvx6dN9qW7Tjq9x8Pj-nux9B7JBmrKUGvL8hXRKiNmk0npkQo6mQtuhCDd8L1_Z401SdvdCAMc5YoE21HXx0bjIG_wpW2B5D-Wv8Ul6YiyhDa6vprI5FUHuQOzmqEDjSRFe-V3ZqrFKAaYBnnNfNWecegSzRLS-gsNYOS0SMMuz6rpaYC8Ep1MMkkcQ2kIYHq8bdiDRewQyjTO-poFcttJhG_C8GQAF2--t3F_Wibc6MhTdQ9g-tgPH2abOMtblrNYo0_2TRF5LI-PveNpsV6ZZ5ZCMD62eo2F14VtFqAglCf" />
-    <title lang="en">NFL Football</title>
-    <live />
-  </programme>
   <programme start="20260929033000 +0000" stop="20260929040000 +0000" channel="SkySportsMainEvent.uk">
     <category lang="en">Sports</category>
     <category lang="en">Sports Talk</category>
@@ -17911,15 +17846,6 @@ Your essential daily guide to the Premier League. With exclusive interviews, top
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://iptv-epg.org/images/hp1krNlAu69RD2bLaBHtobHmQbKshJZ0E4hhwat-MWhjTgQd6GEdr8TKcj_TgF-lY_8a9CPwgK489nNDFzvIELbTLAkIPJ4RccJRU-EwL5fxB8GE2XGoDFklFdErpM6N3FrsZPsNvRw8oDXSypsrUozog8Hpogt0gGr4fODWIUBNNlSSJNqbjqMZp-NL3yOpvmAX3iSGv_IBv-gMWozU8Lb_CPLSAlgjuyFbPk6ESX-UQTJZ_kvWFgdfbQmKzbQKNsSBHAJo8o0u4e-5DWACAFvtCEfjEyqG2tYL9qkjV3J2oWDov6Yp0Zyi1XS5ztZP49ZYXQFvAivFxdpXO_WbQYVh" />
     <title lang="en">Sky Sports News</title>
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2008/09: Manchester United v Liverpool
-Manchester United welcome Liverpool to Old Trafford in this classic Premier League match from the 2008-09 campaign. It would prove to be a memorable afternoon for the visiting side.</desc>
-    <icon src="https://iptv-epg.org/images/y4T0YplbXNk2fOx9QbhRwt-TFzRqiIIqRBweOvPMtF9Nz2PipkYewE466p1ybEp9PwEnrZ-cAy140MHsICUt8fpboT1Vu5A10vjgZXoyMNxmKIAUl0Eez1g683S3dXvWfZcMzGiQwyldRT8eKNihBrvT8Yoy7EaX0eQoTgC3UanL2s0T6lApFQ5SyWEbv_lMzXb7E0Cj8fWj_PPu8ZQwe7Wjnz8975jhnplvAmkkEK_boTDawdGv66JT88_We_9jACZxABRsn9in9LXpq3Zaodz2B4lo5tTyecf2YHp1FnwcosPMQYGtkQbi-J8InGI5zO7brEUZ" />
-    <title lang="en">Prem Classics</title>
   </programme>
   <programme start="20260929020000 +0000" stop="20260929021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
@@ -20247,19 +20173,6 @@ A look at some of the most famous, iconic stars to have graced the Premier Leagu
 Take a look back at all the most memorable moments from the 1995/96 Premier League season, with classic music from the time, major news headlines and more.</desc>
     <icon src="https://iptv-epg.org/images/jbwkt3rwzdlg8BcUbSP-8c5CZTDZVrwU-LH1puQFJhbAZ0YXAgkI8S7dDZC2LqKWIZuPYwEfENCqxhljqn-a95-Ozfx3CgAI1Cm7g0UQfz1pR9sAgt_nvRgqOZyT8g0BUSWGpIAqrn-0_AUvmQpRnVV73mWt5S70kRYdFvWMfJ4r14hPkOIFH4FUaP0kKrDPj7Ym6rgLnmNM90ZmT-JffI8bH5HK3nICHVqC1bEUrpNLl_7OLnPAfgbBfOTzU2NARn812hcjFB8C2SKMQHG_6rYF88pK6HAwJ4Wc0Gm4Xpp0CG5gtYxWPXLBM_hysuslLiVxASYa" />
     <title lang="en">Premier League Years</title>
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="TNTSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <credits>
-      <producer>Adam Darke</producer>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">S2 E41 — The Muddy Roots of Football
-In Ireland, the home captain recounts last night's Christmas party, and a tight and terrible game ends with the captain getting told off by his mother.</desc>
-    <episode-num>S2 E41</episode-num>
-    <icon src="https://iptv-epg.org/images/X1PIkotzgJfyNvmjt1ZbDUqtnUCBNCUdVt9jSP4YxhZUPLBiGNp9zD2k8szTMegVwGIf-VFlaKxoQ3xE9r_vIwYL66qzAVS0GUMrFnA3fNacnA3_5cG5Z7Tiq5wkO5ObMGZLqJ_VlF9pEYcOBaG4Z-Z7RtnyElbhARKYBXcMXeE--h1_OrJw2A41wht9o1p8fBtlTJFpwVxv4uljmahw_aE3snjvuPkRu011kFvPksY52ke0u28HPpJ6zBqOCkZTHFlWbFuyiQDeuqJGonfdrNZ2wf1EGcky7Bf6kKGe8wpTX2u0jB4y3Xa0tOVMkwcF0LD65F47" />
-    <title lang="en">TNT Sports Original</title>
   </programme>
   <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
@@ -24821,25 +24734,6 @@ Action from the UFC.</desc>
     <icon src="https://iptv-epg.org/images/fMyP620yo5MRYJRs9zIeGd7U1PsNvvH1fMLYvXIgGr22BGTAYTbFiVA_4w6sMj8LWGSlgbwnodV4jmRS_cqHVwCJrggaNOfeDs57QhxPG6KHOAyyw8EySUfUSclVIWYFxq4IBbUX1jPEelTfpkyvgz5UfNDDFQmvDBYHC-MTlfU1uaVNTvAIWWthK2Zx_rptd_uTassOIcLKWCwEWvy1XccBQr_ilTgu3MP1_GbiULg8nHQKy6Qsp77PBqVwAllLZRpvzf-JjCCa65aPH4e_lSyPzKC9gCbNdzymqedBdTDF43ALtjCxks8Z_W0BKXo_s3dg2JQg" />
     <title lang="en">The Ultimate Fighting Championship</title>
   </programme>
-  <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <credits>
-      <actor>Jack Nicholls</actor>
-      <actor>Sam Bird</actor>
-      <actor>Lucas Di Grassi</actor>
-      <actor>Sebastien Buemi</actor>
-      <actor>Jean-Eric Vergne</actor>
-      <actor>Daniel Abt</actor>
-      <actor>António Félix da Costa</actor>
-      <actor>Jérôme D'Ambrosio</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">Mexico City ePrix
-Highlights from round two of the ABB FIA Formula E World Championship at Autodromo Hermanos Rodriguez in Mexico City.</desc>
-    <icon src="https://iptv-epg.org/images/l06Ul9v2gn6qb2MYl220ZMn-99m7CamxEz4Ow-iMflieMkpizTQMu167Lujz9baOKZQ6eOnONNaD6UEQi0hB3s-qjdEP2lSLC_gpVfvohJNM1-YXtUvsYYEp1z-wznei3vVb0V_l9mrLfWd9nAxyxh0MSMle7ABrRzC4hiUUZV4rfvDz5-H5zKLdPgtS-b-aeNniogDMSJpdrBuLM7mGqThjCL_lp5qFB1KtYvWMs177-Hve0rHb2gpvVHN7jbZ9iUtTLospMIndccX90iYzJvla7B4LaeeBAvTrNRXMlCuFqL8XWmJ1H7IEQ37nMWbyXTREKi_j" />
-    <title lang="en">FIA Formula E</title>
-  </programme>
   <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">Motorsport</category>
@@ -28202,14 +28096,6 @@ Aus dem Estadio Alberto Jacinto Armando in Buenos Aires, Argentinien.</desc>
     <display-name>ES - DAZN LaLiga</display-name>
     <icon src="https://iptv-epg.org/images/qMQtAIGQoLsWjo5ZU0KtnUnlifl0E0u_qaLs8fhNO8KKha0byvQNw-iVMPFyh5G3cGD2j544pdYxR6qtj9wY5ts3hiW1jghcaejBB75Ri_zkHA" />
   </channel>
-  <programme start="20260928190000 +0000" stop="20260928230000 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20260928230000 +0000" stop="20260929030000 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
   <programme start="20260929030000 +0000" stop="20260929070000 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
@@ -28455,59 +28341,6 @@ Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo do
   <programme start="20261004200000 +0000" stop="20261005000000 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20260928162000 +0000" stop="20260928175000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-El circuito de Sachsenring acoge la séptima prueba del campeonato. La cabeza del campeonato está muy igualada con varios pilotos separados por escasos puntos.</desc>
-    <episode-num>S2026</episode-num>
-    <title lang="es">DTM - Sachsenring : Carrera 2</title>
-  </programme>
-  <programme start="20260928175000 +0000" stop="20260928181500 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2024</date>
-    <desc lang="es">S3 — Juan Mata, el elegido de Old Trafford
-Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
-    <episode-num>S3</episode-num>
-    <icon src="https://iptv-epg.org/images/tomfRKs6VGehq4UOWCZZS7Bcfc_en0n75PZinaOWgD8SWyYz06I2HXiCtDqtC1rJb2dsbhiUznQAbLMh0YwXpP889Ng75lvdpgf6pXf71eQYjVaO" />
-    <title lang="es">Premier League Features</title>
-  </programme>
-  <programme start="20260928181500 +0000" stop="20260928185500 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Con elegancia, reflejos felinos y una mente táctica privilegiada, Edwin van der Sar redefinió el papel del portero moderno. Formado en la escuela del Ajax, conquistó Europa con su serenidad y liderazgo.</desc>
-    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
-    <title lang="es">Edwin van der Sar, el guardián que definió una generación</title>
-  </programme>
-  <programme start="20260928185500 +0000" stop="20260928205500 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
-    <title lang="es">Premier League (T26/27): Fulham - Manchester Utd</title>
-  </programme>
-  <programme start="20260928205500 +0000" stop="20260928220000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2025
-Tras la nulidad del primer combate por descalificación, Lewis Crocker y Paddy Donovan vuelven a verse las caras. En esta ocasión, el Windsor Park de Belfast será testigo de quién se alza con el vacante título mundial IBF del peso wélter.</desc>
-    <episode-num>S2025</episode-num>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">Boxeo: velada Lewis Crocker vs Paddy Donovan II : Lewis Crocker vs Paddy Donovan</title>
-  </programme>
-  <programme start="20260928220000 +0000" stop="20260928230100 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2025
-Pelea de boxeo entre el campeón europeo del peso pluma, Cristobal Lorente, y el retador escocés Nathaniel Collins.</desc>
-    <episode-num>S2025</episode-num>
-    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
-    <title lang="es">Queensberry Promotions: Collins vs Lorente : Nathaniel Collins vs Cristóbal Lorente</title>
-  </programme>
-  <programme start="20260928230100 +0000" stop="20260929030100 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
   <programme start="20260929030100 +0000" stop="20260929071400 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
@@ -28897,14 +28730,6 @@ James Dickens vuelve a encabezar el cartel del gran evento del Día de San Patri
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20260928195000 +0000" stop="20260928235000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20260928235000 +0000" stop="20260929001500 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20260929001500 +0000" stop="20260929034500 +0000" channel="DAZN2.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
@@ -29118,14 +28943,6 @@ El invicto prospecto estadounidense Omari Jones continúa su ascenso en el boxeo
     <title lang="es">NFL (T26/27): Carolina Panthers - Detroit Lions</title>
     <live />
   </programme>
-  <programme start="20260928163000 +0000" stop="20260928203000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20260928203000 +0000" stop="20260929003000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20260929003000 +0000" stop="20260929043000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29286,14 +29103,6 @@ El invicto prospecto estadounidense Omari Jones continúa su ascenso en el boxeo
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20260928200000 +0000" stop="20260929000000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929040000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20260929040000 +0000" stop="20260929080000 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29433,112 +29242,6 @@ El invicto prospecto estadounidense Omari Jones continúa su ascenso en el boxeo
   <programme start="20261004200000 +0000" stop="20261005000000 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20260928163000 +0000" stop="20260928174500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <credits>
-      <director>Iván Fanlo</director>
-    </credits>
-    <desc lang="es">Análisis en profundidad sobre la figura de Xabi Alonso, el entrenador del Real Madrid CF y actualmente en el centro de todas las miradas. El documental contrapone su etapa gloriosa como futbolista con sus éxitos iniciales como entrenador en el Bayer Leverkusen.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">El Arquitecto. Del mito al desafío</title>
-  </programme>
-  <programme start="20260928174500 +0000" stop="20260928181500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 — Mejores momentos mundial 2026
-Un repaso por los mejores momentos del Mundial.</desc>
-    <episode-num>S1</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Mejores momentos del Mundial 2026</title>
-  </programme>
-  <programme start="20260928181500 +0000" stop="20260928184500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Julen Lopetegui se sincera en Revelado, un espacio de DAZN en el que conocemos el lado más personal de los protagonistas.</desc>
-    <icon src="https://iptv-epg.org/images/3BeX17ivUiYSuTdABO9jVSN2rpuE3SNcdj46rQZZkjJ5y327SRNvFQFeOeALSANd0fpkEyBvMRlNLQ4ac2EP1LOIqifAxF4tsBLV61tRXk4dLGrr" />
-    <title lang="es">Revelado - Lopetegui</title>
-  </programme>
-  <programme start="20260928184500 +0000" stop="20260928190000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Burgos CF - CD Eldense</title>
-  </programme>
-  <programme start="20260928190000 +0000" stop="20260928201500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Programa 1
-Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.</desc>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">Trending (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20260928201500 +0000" stop="20260928203000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 — Antony
-Jugadores de primer nivel muestran sus habilidades con el balón.</desc>
-    <episode-num>S1</episode-num>
-    <icon src="https://iptv-epg.org/images/GRKsGSMkATf9uj3dspbcbjbsjutDTaXaxpM2KgpssUxZpGJCVgbCYctNeQ8MOYGK13e2Zw3IhtHN5_O8ziv6bAJ5IRIS8l_gRYibkFofe4hpgIBP" />
-    <title lang="es">Masterclass</title>
-  </programme>
-  <programme start="20260928203000 +0000" stop="20260928210000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">La Selección ha hecho historia en el Mundial. La cita de México, Canadá y Estados Unidos quedará guardada por siempre en la memoria de la afición española. El combinado dirigido por Luis de la Fuente alzó en Nueva York la copa y bordó la segunda estrella en el escudo.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Bordando la segunda estrella</title>
-  </programme>
-  <programme start="20260928210000 +0000" stop="20260928213000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Roberto Martínez se sincera en Revelado, un espacio de DAZN en el que conocemos el lado más personal de los protagonistas.</desc>
-    <icon src="https://iptv-epg.org/images/HdRX8bGm-dSYpLurVMphZRY3hz46JA5CkC5y4O2qiHyVLvBK2f4mp_58EVTU96f3x3tT9BcPhJ3-P7nQe3r98yvoNV0mF1Z0P2eGa6mvwsBxS27H" />
-    <title lang="es">Revelado - Roberto Martínez</title>
-  </programme>
-  <programme start="20260928213000 +0000" stop="20260928220000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 — Nico Williams
-Nico Williams, el talentoso extremo del Athletic Club, es el primer jugador en pasar por nuestro 'Masterclass' y analizarnos sus goles y habilidades con el balón.</desc>
-    <episode-num>S1</episode-num>
-    <icon src="https://iptv-epg.org/images/GRKsGSMkATf9uj3dspbcbjbsjutDTaXaxpM2KgpssUxZpGJCVgbCYctNeQ8MOYGK13e2Zw3IhtHN5_O8ziv6bAJ5IRIS8l_gRYibkFofe4hpgIBP" />
-    <title lang="es">Masterclass</title>
-  </programme>
-  <programme start="20260928220000 +0000" stop="20260928221500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): RCD Mallorca - UD Almería</title>
-  </programme>
-  <programme start="20260928221500 +0000" stop="20260928224500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2021</date>
-    <desc lang="es">S1 — El mago
-José Mourinho fue nombrado entrenador del Real Madrid con una complicada misión: detener al FC Barcelona de Pep Guardiola. En abril de 2012, el equipo blanco viajó al Camp Nou para jugar el Clásico sabiendo que sólo una derrota podía impedirles ganar el título de Liga.</desc>
-    <episode-num>S1</episode-num>
-    <icon src="https://iptv-epg.org/images/tGKxwB0lnyYPtzNbFxwON4zSPeSmpfp8HMkb7ct5n2jQ1dz8ia_BngqTe5dN3dRlH08R2uJfY_X_aBfft1kA2GHzWYCvLMHgdS8XbAw7dioMDZpX" />
-    <title lang="es">The Making of Mourinho : El Mago</title>
-  </programme>
-  <programme start="20260928224500 +0000" stop="20260928230000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): CD Leganés - CD Castellón</title>
-  </programme>
-  <programme start="20260928230000 +0000" stop="20260929030000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
   </programme>
   <programme start="20260929030000 +0000" stop="20260929070000 +0000" channel="DAZNLaLiga.es">
     <desc lang="es">DAZN LaLiga.</desc>
@@ -30616,43 +30319,6 @@ LaLiga FC Futures se ha convertido en el torneo formativo más importante del mu
     <display-name>PL - Polsat Sport Premium 2</display-name>
     <icon src="https://iptv-epg.org/images/6MjJoJG_KiMIImKGEzEgUH_s6kM3xIglJNoD3b5rv6fwhxM7KMA25zf5N6KyhqUT-QDkTt9u-X1l2EROrM1eEz3Tptzu1BhKu7x_UiJ7MgT5Ifx4Jp9cSAVfZqA" />
   </channel>
-  <programme start="20260928183500 +0000" stop="20260928204500 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Reprezentacja Irlandii Północnej rozpoczęła zmagania od zwycięstwa 1:0 na wyjeździe z Gruzją. Pokazała tym samym, że po awansie do Dywizji B nie zamierza być dostarczycielem punktów. Znacznie mniej powodów do zadowolenia mają Węgrzy. Drużyna Dominika Szoboszlaia rozpoczęła rozgrywki od porażki 0:1 z Ukrainą przed własną publicznością.</desc>
-    <icon src="https://iptv-epg.org/images/eJnUh9HTJSgzm1_nTyvnt2S8h_V8bNQdhCQ_7uJM-hT2MOFgwsaMZirhPQVFITiEgej7LneEIQCaVMRgyNfxjqwXA9b-IVnn7fqsNmQUKg" />
-    <title lang="pl">Piłka nożna: Liga Narodów - Irlandia Północna - Węgry</title>
-    <live />
-  </programme>
-  <programme start="20260928204500 +0000" stop="20260928213000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">Sports</category>
-    <category lang="pl">tenis</category>
-    <desc lang="pl">Program poświęcony rozgrywkom z głównego cyklu ATP Tour. Kibice zobaczą w nim m.in. zapowiedzi nadchodzących turniejów. Ponadto otrzymają dużą porcję statystyk i ciekawostek, także zza kulis tenisowego świata.</desc>
-    <icon src="https://iptv-epg.org/images/S38Y4d9yefEsn81fe810Zl1DhCvx2DBPDP-VUTP9fTP5-WPMyLWxMbhHxIwl14blg68GwXIGNDnTVq7-GnyBWQVMwhRkkVgJzV5chNYM4g" />
-    <title lang="pl">ATP World Tour Next Week</title>
-  </programme>
-  <programme start="20260928213000 +0000" stop="20260928220000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Program poświęcony najmłodszym rozgrywkom odbywającym się pod egidą UEFA. Ich pierwsza edycja odbyła się w sezonie 2018/2019, a wygrała ją Portugalia. W drugiej najlepsza była Francja. Polska od początku rywalizuje w dywizji A. Wszystkie dotychczasowe edycje kończyła na fazie grupowej.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Magazyn Ligi Narodów</title>
-    <live />
-  </programme>
-  <programme start="20260928220000 +0000" stop="20260929000000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929013000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Europy UEFA.</desc>
-    <icon src="https://iptv-epg.org/images/Ng_l6CsFv45TrV4S_IAtpRylv8-Vb09G00Q58UN4COX9WCT_Y5zynP-jBds7kmvSerpzWLvNvq6DQGxEAhAZPsUe82-02XYZOExAR1j0sw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA</title>
-  </programme>
   <programme start="20260929013000 +0000" stop="20260929030000 +0000" channel="PolsatSportPremium1.pl">
     <category lang="pl">piłka nożna</category>
     <category lang="pl">Sports</category>
@@ -31107,43 +30773,6 @@ Archiwum Ligi Konferencji UEFA.</desc>
     <desc lang="pl">Brak zaplanowanych transmisji sportowych.</desc>
     <icon src="https://iptv-epg.org/images/1cItoOUhKbzQjOsXcOchEhStiwY_9ooRQXlIw_yHGcUp7PbUK9O1y17WF9BLoe7YhUlkz4UWD43OD31PDLUEcazBHK1K1BmABXrduHhTtQ" />
     <title lang="pl">Brak zaplanowanych transmisji sportowych</title>
-  </programme>
-  <programme start="20260928170000 +0000" stop="20260928183000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Duma Podlasia w pierwszej kolejce fazy ligowej Ligi Europy zmierzy się z Olympiakosem SFP. Jagiellonia Białystok awansowała do rozgrywek po zwycięskim dwumeczu z Iberią 1999 w finale kwalifikacji. W obu spotkaniach podopieczni Adriana Siemieńca okazali się lepsi, wygrywając 4:0 i 2:1. Grecki zespół walczył natomiast o Ligę Mistrzów, jednak na drodze do fazy głównej uległ NEC Nijmegen 1:2 i tym samym trafił do rozgrywek drugiej rangi w europejskich pucharach.</desc>
-    <icon src="https://iptv-epg.org/images/34WcCN1_aAYObylJ6Zlfxp0zLD50lG779x1HmojUtGl6SeuuD6tjQ16plKyrR_lGeixbcOMtzqjEg7pItnEic27jAwn_oPGrnHid4WyBZA" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Olympiakos SFP - Jagiellonia Białystok</title>
-  </programme>
-  <programme start="20260928183000 +0000" stop="20260928200000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Mistrz Polski rywalizację w fazie ligowej Ligi Europy rozpocznie od meczu z Crystal Palace FC. Angielski zespół w poprzednim sezonie potwierdził swoją klasę w europejskich pucharach, wygrywając Ligę Konferencji. Lech Poznań czeka więc wymagające starcie.</desc>
-    <icon src="https://iptv-epg.org/images/v72bAML5xjkDpcflV4ibVqgtrbJrfur62supoEVbU4b0Jd5dCef6lmNSa6P3GCLECzSZbK1KkzKST4xZFG8vMI0qcIuf5jYQQ6W334spKA" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Crystal Palace FC - Lech Poznań</title>
-  </programme>
-  <programme start="20260928200000 +0000" stop="20260928213000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Polscy kibice ostrzą sobie zęby na mecz Ligi Europy z udziałem Biało-Czerwonych. O ile występujący w SK Sturm Graz Filip Rózga i Szymon Włodarczyk nie mają pewnego placu gry, o tyle w Stade Rennais FC powinniśmy zobaczyć Sebastiana Szymańskiego i Przemysława Frankowskiego. Faworytem będzie klub z Francji.</desc>
-    <icon src="https://iptv-epg.org/images/ZOuQDco6OyLSEPtam_dRSXuy8EXEuV3ZARtkqBJItivc8Xk0R6zuFsb_DJ4E_Q0UaLnXMvYpody3Xbox4wOzoyPei_xpT9cV3qtKlZDd7Q" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: SK Sturm Graz - Stade Rennais FC</title>
-  </programme>
-  <programme start="20260928213000 +0000" stop="20260928230000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Odense - Wisła Kraków 01.12.2011 - sezon 2011/2012
-W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramach rozgrywek Ligi Europy UEFA. Od sezonu 2009/2010 roku rozgrywki te zastąpiły dotychczasowy Puchar UEFA. Autorzy szczególną uwagę zwracają na mecze z udziałem polskich klubów. Pierwszą drużyną z Polski, która wywalczyła prawo gry w fazie grupowej LE, był Lech Poznań, później sztuka ta udała się także Wiśle Kraków i Legii Warszawa. Największym sukcesem, jak dotąd był awans do 1/16 finału Lecha w sezonie 2010/2011, Legii i Wisły w sezonie 2011/2012 oraz Legii Warszawa w sezonie 2014/2015.</desc>
-    <icon src="https://iptv-epg.org/images/Ng_l6CsFv45TrV4S_IAtpRylv8-Vb09G00Q58UN4COX9WCT_Y5zynP-jBds7kmvSerpzWLvNvq6DQGxEAhAZPsUe82-02XYZOExAR1j0sw" />
-    <title lang="pl">Archiwum Ligi Europy UEFA</title>
-  </programme>
-  <programme start="20260928230000 +0000" stop="20260929003000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Rapid Bukareszt - Legia Warszawa 20.10.2011 - sezon 2011/2012
-W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramach rozgrywek Ligi Europy UEFA. Od sezonu 2009/2010 roku rozgrywki te zastąpiły dotychczasowy Puchar UEFA. Autorzy szczególną uwagę zwracają na mecze z udziałem polskich klubów. Pierwszą drużyną z Polski, która wywalczyła prawo gry w fazie grupowej LE, był Lech Poznań, później sztuka ta udała się także Wiśle Kraków i Legii Warszawa. Największym sukcesem, jak dotąd był awans do 1/16 finału Lecha w sezonie 2010/2011, Legii i Wisły w sezonie 2011/2012 oraz Legii Warszawa w sezonie 2014/2015.</desc>
-    <icon src="https://iptv-epg.org/images/Ng_l6CsFv45TrV4S_IAtpRylv8-Vb09G00Q58UN4COX9WCT_Y5zynP-jBds7kmvSerpzWLvNvq6DQGxEAhAZPsUe82-02XYZOExAR1j0sw" />
-    <title lang="pl">Archiwum Ligi Europy UEFA</title>
   </programme>
   <programme start="20260929003000 +0000" stop="20260929020000 +0000" channel="PolsatSportPremium2.pl">
     <category lang="pl">piłka nożna</category>
