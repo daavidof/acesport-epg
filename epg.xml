@@ -10652,16 +10652,6 @@ Verslag van de wedstrijd Internazionale - Parma, gespeeld in de Italiaanse Serie
     <icon src="https://iptv-epg.org/images/oDoXUeLzqaYceDCGgaV_KihCn145WZmBHnOnbsLoTxz6IsBOuCz62sCCQnzK_NtlPe-S9ffasX14uxDTscfqHVPWUA9Mj1LMU4PIWGL6XguhCA7uvRFjWZb2rRTywpL5lBlCadrbLs_2nGNVTRsCrPJT78MF5bRqvBOUhae9QTQPg0_r-3OHjqQSvhzzA_K6Mc-T5qrQJxSeji5euOMCqyxgiM4dFerV5vgMFQT_Z73cf-hG7YO7jmEtj63RS8R89FCoHsb3pg6N0DF24DSpLe61n9Vtpzs5yV8nKb6vj65hatIhow" />
     <title lang="nl">Serie A</title>
   </programme>
-  <programme start="20261004000500 +0000" stop="20261004030500 +0000" channel="ZiggoSport6.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Golf</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Alfred Dunhill Links Championship: Dag 3
-Verslag van de derde dag van de Alfred Dunhill Links Championship, gespeeld in Fife, Schotland.</desc>
-    <icon src="https://iptv-epg.org/images/Y9qSiZmi2uCvswf6PaGeskgHlr-IQQYIFu2AwS9ePwe9VIy4P6JEP5XHke7KrZA08uvIDhE5xkGEg1bftB51Gn9YGHCkzQrua01VWmE2Lgf07mfqHfagqGaQbicKkMEGfvCcBsYUiu3MukbRb9KfAF09eCYwzosBAssfxVFl4aiezi3fSGg8BVXx4vdAvUpPzQVXnGbV2oYmjtj_C_1Fb5R0g7j7BT0d2MaCcuvfyMmO4B-CcHmsKW0HOmLq-RA5LKNSQGjOScyOQmPaNFH9VL9KWsmxQ4-7ys4eKPUuX4eT4JbBZg" />
-    <title lang="nl">DP World Tour Golf</title>
-  </programme>
   <programme start="20261004030500 +0000" stop="20261004040000 +0000" channel="ZiggoSport6.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Golf</category>
@@ -14209,15 +14199,6 @@ Coverage of the NHL season 2026/27.</desc>
     <title lang="en">NHL Hockey</title>
     <live />
   </programme>
-  <programme start="20261004000000 +0000" stop="20261004010000 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2017</date>
-    <desc lang="en">2014/15: Preston North End v Swindon Town
-A look back at some classic Football League play-off finals from years gone by. Here, Preston North End face Swindon Town at Wembley in the League One play-off final in 2015.</desc>
-    <icon src="https://iptv-epg.org/images/LBz24g6b1CxV2lFn_I7jAeUnHosoMhhKMgpqZO9YgU3Ftr2ZGXYEAtYUoSlh55bedOsrpRPDey8LFHtU5uOUOFPgYu7NES_wqVKjKEWmEf_nn8OTlz9VYFaBY3w9NS00elP_tvKhHjJEWkEScvKaxuxQhCg_8wZq_cXG7iwLOivPR_fyw67iKsA1wnmx7N8ThFk4xwBE_oo_9sijVfebODVgB0DI5vxEtelooS7bL5fCAHATPZtLDF7Qh5M7pJKklJWjY9TWFfdGVE7I6QiiBVYtCOnJFzA6XcfvqorEmKAtIQ8uD-Vf_-qEmKO6hxi_EyZuGxsj" />
-    <title lang="en">EFL Play-Offs</title>
-  </programme>
   <programme start="20261004010000 +0000" stop="20261004020000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -16957,16 +16938,6 @@ Action from the Sky Bet Championship.</desc>
     <icon src="https://iptv-epg.org/images/vSbC8sarY4I1PQuM9Ai7wCJkPwWzRveto_9o7X6YPvjS1GCDwX2DujZUBnfTx0660Wj_yNk_F25_PEoOOEXrzZYt3B4IE80qVmFWmZj-YERBmrIz9jok8Y9qaOXLgv4xqLSDjCvD31KrYj6Ahv7pW2m5IoopMRAcibwitPrpc_BD1YEHsh0dDNae0OcspkbNSu1EW9tlGGrPjvj2THVJMAJI_SFmIZFfNK5lB9S7UhlpwJTmWnOQkgFsWlA-x-lxlQopRI0cb03REwqHuUSjia0d8wG4oWxxPOBaet9BFsnwfx8lVnFUFI6cyiIIGGcvVGILGb53" />
     <title lang="en">EFL Championship</title>
   </programme>
-  <programme start="20261004000000 +0000" stop="20261004030000 +0000" channel="SkySportsMainEvent.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <date>2026</date>
-    <desc lang="en">Day 3
-The third day of the 2026 LOTTE Championship - an LPGA event previously won by Youmin Hwang, who in victory became the 26th competitor of 2025 to claim a tour win.</desc>
-    <icon src="https://iptv-epg.org/images/hUHAkN0JrbpCJJoQ1XdrlqH--w0inAJiK6WO8Vk9iWfMhNEzeQvT-OTG8edtr1rDjHfmTHEfDGR_VKD_2ZwUYDDgf6IIx5o2Yq6k5LGOtMc9rbaMeLqfEUAUfD-idbJqfZ6I8ml4txdNNgydoreLUrDc2sc8VHal22Sh5pxbJYrR2Wyl_VWsf0pFF7wmJ5gKuCuxQzATjLOA0Nk7wp67cegJzvlAo80ZuoJ8llSs7CFgOMs1lIAPvNXuWTQ5o41I23k29iBB05F8u2sEBPqdCNsfX75VvstSSa5ZneT0JDeWROSU4InZvLb6gBxymyq66DQdUBAL" />
-    <title lang="en">Lotte Championship, LPGA Tour Golf</title>
-    <live />
-  </programme>
   <programme start="20261004030000 +0000" stop="20261004040000 +0000" channel="SkySportsMainEvent.uk">
     <category lang="en">Sports</category>
     <category lang="en">Sports Talk</category>
@@ -17999,15 +17970,6 @@ On Saturday Night Football, Manchester United play host to Tottenham Hotspur at 
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://iptv-epg.org/images/xp51L2L0YuGtIKQgI0O4Q99jwGkuLRFCeb0KFGJWXsRNikVItAOKCBWOMmfdN7PwxxxFSYG3hmQtVEqKl0VRSBLNt5a03aZAGq4pJLP4ljpmIBXx9LsKWTCG5oVepbAOLyAOAJiyE5MOa6nO9m4MedOe08Gt3F9wjhfn2QFCFBlsFVygKA9DCksQuI95f2HpZnQawOo22GLki2k-FD-Ap13iryMltS57hnA43EXNQipUGou2SJMROXIE2bIHlB9c1PvL2Aw5KusChoeqJy8XD2SbDsa8DDBBnOobQZzrjp7wFZZ4L8-jH89fP6Nu-4KiKSCJ6sh2gZekRcZnIx0QFb6w" />
     <title lang="en">Sky Sports News</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2006/07: West Ham United v Tottenham Hotspur
-In this classic encounter from the 2006-07 campaign, West Ham welcome rivals Tottenham Hotspur to Upton Park for a thrilling, end-to-end London derby in the Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/BpznASN6zAq7r4FIZM_AgcyvJFGIlMnBewmGvNKSB7AaGQFiOJITuIsJZFIMzisBr4Kscu7HYsvkC6O_ZRF5BUBRJunROQNUDJ1DuPqtihUtXnn6UkX-3nSTK686MoJBQY5Pu0qQP_XquZyoXpyJ_0DQLiKihfCZdTtxub825_0MbMq6ZQCYWl9wUITEsGsJU6sLRL5z5iha9Kyos24AL1KN2EPB5Vxsog0bxmRyhddTs219bxE3BpklxBxu3dAPV08Rz0-pjgTwS1q36Tp2QDGT3gQs-G4qQZYn6HQOHswWVK_vWk5ykyffCAejVda3lJeoYYvy" />
-    <title lang="en">Prem Classics</title>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
@@ -20256,16 +20218,6 @@ Action from the Premier League.</desc>
     <episode-num>E311</episode-num>
     <icon src="https://iptv-epg.org/images/y7LvEUA5GHR5D1kjYZdtv65sKCxv34lWFcwSkIF4G16vrw0b1aeEReAmmRUeYx40ly5AVnlAQaRgABBdhz2Hb_s13gue6LwguLDt4RL3i4ryjy1hwJYKhW2ILrE7devxDDsBNxhmcA1Vs-1YcGdQ-j0ciYfz8LXHUqOvhZacfGtgw6N0aJycS5p0_SDTdc5bWKz8u0Umso3vxJsbXh-58Q10vY9engIrfce1eF72pC3nbzy415hyWZshFK7BtuqLdH72HfyFaZverRVoqfKcSalgBCD3sfdzdYOvjlTjbmlUY56nSFrr8809RDrRhVhSwRtFDTnc" />
     <title lang="en">Premier League</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004040000 +0000" channel="TNTSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Mixed Martial Arts</category>
-    <date>2026</date>
-    <desc lang="en">332: Natalia Silva v Wang Cong
-Action from UFC 332 at the Delta Center in Salt Lake City, Utah, featuring the women's flyweight battle between Natalia Silva and Wang Cong.</desc>
-    <icon src="https://iptv-epg.org/images/OEmd1OXvxCq7SX2jiMLnTjHWf0BzQQMReGB8beO8_hdwCldEOD-2vRJdmw3dpNV1gY14aHVkhyBqKKBGychR5-QM6WMFYRjnASP56n42983v3DYXkqtSpZr9Udk-DzZa34d_pfgLZpydkzJeYPR61GFLqefKIR0FE5rSI7S-CkZd7OSAzO7dvwpXnAG6DJ7PdGSvniU8U0PwZ7FJSFpvugauUXuYmo8LHVRzfn-ZOBrDFnY2Jk8PGJfd87fo6g68miY2J_7IABlHrm4P4ZX5XPDQGis1NLl1cRaZXVmD54PB7x_WAPA6Ca0AWx8YOV472pApHwHG" />
-    <title lang="en">The Ultimate Fighting Championship</title>
-    <live />
   </programme>
   <programme start="20261004040000 +0000" stop="20261004050000 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
@@ -27170,37 +27122,6 @@ Action from the Gallagher PREM clash between Saracens and Bristol Bears.</desc>
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20261003182000 +0000" stop="20261003204000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">Vereinigte Arabische Emirate - Oman, Gulf Cup (Halbfinale).</desc>
-    <title lang="de">LIVE Vereinigte Arabische Emirate - Oman, Gulf Cup (Halbfinale)</title>
-    <live />
-  </programme>
-  <programme start="20261003204000 +0000" stop="20261003212500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category lang="de">Magazin</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Das Magazin zeigt die Highlights aus der internationalen Fußballwelt kompakt zusammengefasst.</desc>
-    <icon src="https://iptv-epg.org/images/ithOJI9qGv85iloraUP7L6QkapqQxZk1RRbaKa57XLiIG5VweOsY3lx9hTZodYrm4UN9y1BBH1WX3z13_j9Bsxvz0xutYNdiBvWBThz98JF7YNkD3QxgFUW-4dcPphqeKf8xO584ZeGCK8ckpo9HY4E2yMyOSOk-" />
-    <title lang="de">scooore! Das internationale Fußballmagazin, Tore und Ergebnisse international</title>
-  </programme>
-  <programme start="20261003212500 +0000" stop="20261003234500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus der Arena MRV in Belo Horizonte, Mina Gerais, Brazilien.</desc>
-    <icon src="https://iptv-epg.org/images/Bz9d9G65itWsytufohNTG9HU9KAa81zOyebfyPTTLni8jNdA6YJfK-WXEsRTaxyP5WJT1y4bn3ky5Z-FSQ2GPyVUOzVymBlV82g-Pjexoy-Vvd5GCBg-VTCbUH51WqcFhAZyVAA94OyDXvRiqL5_Q7Tyg6ypWss" />
-    <title lang="de">LIVE Atletico Mineiro - RB Bragantino, Campeonato Brasileiro (Nachholspiel, 21. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20261003234500 +0000" stop="20261004014500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">(Wh. v. 03.10.26) Saudi-Arabien - Katar, Gulf Cup (Halbfinale).</desc>
-    <title lang="de">Saudi-Arabien - Katar, Gulf Cup (Halbfinale)</title>
-  </programme>
   <programme start="20261004014500 +0000" stop="20261004035000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
@@ -28042,14 +27963,6 @@ Aus der Doosan Arena in Pilsen, Tschechien.</desc>
     <display-name>ES - DAZN LaLiga</display-name>
     <icon src="https://iptv-epg.org/images/qMQtAIGQoLsWjo5ZU0KtnUnlifl0E0u_qaLs8fhNO8KKha0byvQNw-iVMPFyh5G3cGD2j544pdYxR6qtj9wY5ts3hiW1jghcaejBB75Ri_zkHA" />
   </channel>
-  <programme start="20261003200000 +0000" stop="20261004000000 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004040000 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
   <programme start="20261004040000 +0000" stop="20261004080000 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
@@ -28189,53 +28102,6 @@ Aus der Doosan Arena in Pilsen, Tschechien.</desc>
   <programme start="20261009200000 +0000" stop="20261010000000 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261003160900 +0000" stop="20261003171100 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-El Mundial de MotoGP llega a Motegi con el GP de Japón. Jorge Martín y Marc Márquez trasladan su feroz cara a cara por el liderato a territorio asiático. En un circuito de constantes frenadas y aceleraciones, la gestión de gomas y la lluvia marcarán el destino de la casa nipona.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/xyAAij32XTOhMkHnUamciioz-Wvwfz1mgsDwsImLUOD4ipbgIBdO2_3jzLEnlrqmltt0gSGpsvEFvcYF-q2ADvdUVPVdLZ7Jp6mq0HxqYkqOouPP" />
-    <title lang="es">MotoGP - GP de Japón : Sprint MotoGP</title>
-  </programme>
-  <programme start="20261003171100 +0000" stop="20261003173900 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">En 2025, Marc Márquez apostó todo por el rojo y se pasó al equipo oficial de Ducati. Tras años marcados por las lesiones, los contratiempos y la incertidumbre, se comprometió plenamente con una idea: que podía volver a ser campeón del mundo de MotoGP.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Marc Márquez: ¡Todo al rojo</title>
-  </programme>
-  <programme start="20261003173900 +0000" stop="20261003180000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez, donde el “rey” es Marc Márquez. Cada piloto se convierte en una pieza clave del tablero, aportando su estilo, estrategia y talento para entrar en la lucha por poner en jaque al rey.</desc>
-    <icon src="https://iptv-epg.org/images/0RAMot9XQFAudDooQl8CFuWF-qk0LcgHJYw1fIt9TaiFpYrmkGjrHDXStRr8axxhrXQ8o7PuhlzqsTX05gJBJVx90gF6WdFbakxGgSJjkTRePCzV" />
-    <title lang="es">Jaque Márquez</title>
-  </programme>
-  <programme start="20261003180000 +0000" stop="20261003220000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-El excampeón mundial Robert Whittaker regresa al ring para medirse al ambicioso Luke Wallace en un duelo que enfrenta experiencia y juventud. Whittaker, uno de los nombres más respetados de la división, buscará demostrar que sigue siendo un contendiente de élite.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/ZfpwXDch1ZUjLN37Obk8D2kZi6pXZeH5uJ2zvNcdCkT95rceTnjynd0czLIW4MKByCkwGsPCCdzYtZMggoqhDlkz4Rd-5jilF0PpnKx77MC2ZTX0" />
-    <title lang="es">Boxeo: velada Whittaker vs Wallace : Velada completa</title>
-    <live />
-  </programme>
-  <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-El excampeón mundial Robert Whittaker regresa al ring para medirse al ambicioso Luke Wallace en un duelo que enfrenta experiencia y juventud. Whittaker, uno de los nombres más respetados de la división, buscará demostrar que sigue siendo un contendiente de élite.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/ZfpwXDch1ZUjLN37Obk8D2kZi6pXZeH5uJ2zvNcdCkT95rceTnjynd0czLIW4MKByCkwGsPCCdzYtZMggoqhDlkz4Rd-5jilF0PpnKx77MC2ZTX0" />
-    <title lang="es">Boxeo: velada Whittaker vs Wallace : Velada completa</title>
-    <live />
-  </programme>
-  <programme start="20261003230000 +0000" stop="20261004030000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
   <programme start="20261004030000 +0000" stop="20261004070000 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
@@ -28785,18 +28651,6 @@ El Mundial de MotoGP llega a Motegi con el GP de Japón. Jorge Martín y Marc M�
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261003180700 +0000" stop="20261003200000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261003200000 +0000" stop="20261004000000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004040000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261004040000 +0000" stop="20261004060000 +0000" channel="DAZN2.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29004,14 +28858,6 @@ Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos pa
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261003163000 +0000" stop="20261003203000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261004003000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261004003000 +0000" stop="20261004043000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29168,14 +29014,6 @@ Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos pa
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261003200000 +0000" stop="20261004000000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004040000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261004040000 +0000" stop="20261004080000 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29315,148 +29153,6 @@ Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos pa
   <programme start="20261009200000 +0000" stop="20261010000000 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261003163000 +0000" stop="20261003170000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 — Borja Iglesias
-Borja Iglesias, el carismático delantero del RC Celta, es el cuarto jugador en pasar por nuestro 'Masterclass'. En DAZN analizamos sus mejores goles y habilidades con el balón. ¡No te lo pierdas!</desc>
-    <episode-num>S1</episode-num>
-    <icon src="https://iptv-epg.org/images/GRKsGSMkATf9uj3dspbcbjbsjutDTaXaxpM2KgpssUxZpGJCVgbCYctNeQ8MOYGK13e2Zw3IhtHN5_O8ziv6bAJ5IRIS8l_gRYibkFofe4hpgIBP" />
-    <title lang="es">Masterclass</title>
-  </programme>
-  <programme start="20261003170000 +0000" stop="20261003173000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/FLcbBSGKn3TFqCm1AuhxZ6jQjltlBM7dZ5s0lryw6lTn8RRnKCZ1dLYsS_FkkPQG4l8HiO4oM3TovyITb74LnmJU3g1NjdQ8mwR98ZoUr93ynzGc" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Elche CF - Getafe CF</title>
-    <live />
-  </programme>
-  <programme start="20261003173000 +0000" stop="20261003180000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/l_WS9-4uuKUaDf4bO5Xr54V0f77iNwPX2YeHxZOhkHO2q2KRn9CK8TE7yKlhsvJM3kgD38tnLoddr_9AYLIjzM0VpoNbX6rDJa26MWc-59OQhN9n" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : CA River Plate - SE Palmeiras</title>
-    <live />
-  </programme>
-  <programme start="20261003180000 +0000" stop="20261003183000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/mLpRbrAhcipdnn6HLjMkfO_yMBNnLY87Z_ocjJVUT6IpBqQoPpfM_uGw6cHikzi2mjp8Zbqe-CSWOw1C2l6_u8fNIJ-Mf3NSCAgkV1AsOdQANvpK" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : CR Flamengo - CA Boca Juniors</title>
-    <live />
-  </programme>
-  <programme start="20261003183000 +0000" stop="20261003190000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/GBd8DcIxCu_KukD_hcl3qUKFMaOpDloCFXPVd-SGnnQ0sc3Q7ySvvx3IvWBLM9XEoTtHD2GWuDbF1rHIwsIK4oAutsh3K2F_-Qk9fXZ4RenfJmof" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Sevilla FC - Real Betis</title>
-    <live />
-  </programme>
-  <programme start="20261003190000 +0000" stop="20261003193000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/kQUpCehvmR88N6VOOsezdGBOhzIzyekryCSVH9RD2Cpo5_zDqjuw75rQSSGZi9tGUWUZ2tsCrfn9bIFI0oPqV3e7PN12Jo5RN7ZLTQpsnwUPFL31" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : FC Barcelona - Villarreal CF</title>
-    <live />
-  </programme>
-  <programme start="20261003193000 +0000" stop="20261003200000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/7jAvSncSIlwgIX3nrbSd0Gyo1ZFMaaD4mGx1-l1C30nQEFR3dMcb9JrO8Fl-yZGmJx1JfxaHQbxeHAT9jUTJTGH2piZBHTxZC_kK3AoyW9QEaM0v" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Real Madrid - Atlético de Madrid</title>
-    <live />
-  </programme>
-  <programme start="20261003200000 +0000" stop="20261003203000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/kKbQH2Knj7RnjTc8AxlXHFNm2fig80mxUDB6flaERyPvLbwG984F2zwtBh-4qVDMprAyftZQK9Q8SYIuGUcebGUEGq3Uaz2brISyEAG3cOFayxPkKa-1OGKq9w" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Cuartos de final</title>
-    <live />
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261003210000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/kKbQH2Knj7RnjTc8AxlXHFNm2fig80mxUDB6flaERyPvLbwG984F2zwtBh-4qVDMprAyftZQK9Q8SYIuGUcebGUEGq3Uaz2brISyEAG3cOFayxPkKa-1OGKq9w" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Cuartos de final</title>
-    <live />
-  </programme>
-  <programme start="20261003210000 +0000" stop="20261003213000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/kKbQH2Knj7RnjTc8AxlXHFNm2fig80mxUDB6flaERyPvLbwG984F2zwtBh-4qVDMprAyftZQK9Q8SYIuGUcebGUEGq3Uaz2brISyEAG3cOFayxPkKa-1OGKq9w" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Cuartos de final</title>
-    <live />
-  </programme>
-  <programme start="20261003213000 +0000" stop="20261003220000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre. Participan ocho equipos de LaLiga, dos brasileños, dos estadounidenses y dos argentinos.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/kKbQH2Knj7RnjTc8AxlXHFNm2fig80mxUDB6flaERyPvLbwG984F2zwtBh-4qVDMprAyftZQK9Q8SYIuGUcebGUEGq3Uaz2brISyEAG3cOFayxPkKa-1OGKq9w" />
-    <title lang="es">LaLiga FC Futures Torneo Internacional Orlando : Cuartos de final</title>
-    <live />
-  </programme>
-  <programme start="20261003220000 +0000" stop="20261003221500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Albacete BP - SD Eibar</title>
-  </programme>
-  <programme start="20261003221500 +0000" stop="20261003223000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): UD Almería - Burgos</title>
-  </programme>
-  <programme start="20261003223000 +0000" stop="20261003224500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Cádiz CF - CD Leganés</title>
-  </programme>
-  <programme start="20261003224500 +0000" stop="20261003230000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): CE Sabadell - FC Andorra</title>
-  </programme>
-  <programme start="20261003230000 +0000" stop="20261004030000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
   </programme>
   <programme start="20261004030000 +0000" stop="20261004070000 +0000" channel="DAZNLaLiga.es">
     <desc lang="es">DAZN LaLiga.</desc>
@@ -30448,43 +30144,6 @@ Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo do
     <display-name>PL - Polsat Sport Premium 2</display-name>
     <icon src="https://iptv-epg.org/images/6MjJoJG_KiMIImKGEzEgUH_s6kM3xIglJNoD3b5rv6fwhxM7KMA25zf5N6KyhqUT-QDkTt9u-X1l2EROrM1eEz3Tptzu1BhKu7x_UiJ7MgT5Ifx4Jp9cSAVfZqA" />
   </channel>
-  <programme start="20261003180000 +0000" stop="20261003200000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20261003200000 +0000" stop="20261003213000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20261003213000 +0000" stop="20261003230000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Program poświęcony najmłodszym rozgrywkom odbywającym się pod egidą UEFA. Ich pierwsza edycja odbyła się w sezonie 2018/2019, a wygrała ją Portugalia. W drugiej najlepsza była Francja. Polska od początku rywalizuje w dywizji A. Wszystkie dotychczasowe edycje kończyła na fazie grupowej.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Magazyn Ligi Narodów</title>
-    <live />
-  </programme>
-  <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Program poświęcony najmłodszym rozgrywkom odbywającym się pod egidą UEFA. Ich pierwsza edycja odbyła się w sezonie 2018/2019, a wygrała ją Portugalia. W drugiej najlepsza była Francja. Polska od początku rywalizuje w dywizji A. Wszystkie dotychczasowe edycje kończyła na fazie grupowej.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Magazyn Ligi Narodów</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004030000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">sporty walki</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Stawką walki wieczoru jest wakujący pas w wadze muszej. Obie zawodniczki doskonale czują się w stójce. Silva słynie z doskonałej pracy na nogach, szybkości oraz umiejętności punktowania rywalek z dystansu. Z kolei Wang Cong ma doświadczenie w boksie i kickboxingu. Prawdopodobnie będzie dążyła do otwartych wymian.</desc>
-    <icon src="https://iptv-epg.org/images/C96AS_x0gtau017LL2ZzZDrY_VRb9lIU2raVEnqq67O8o3Ta1_cMW7HyjspzbdJnrl3C-uQ1t09vk1wzIuCLDxSije5H8HukfuehxNCHKg" />
-    <title lang="pl">Sporty walki: UFC 332 - walka: Natalia Silva - Wang Cong</title>
-    <live />
-  </programme>
   <programme start="20261004030000 +0000" stop="20261004050000 +0000" channel="PolsatSportPremium1.pl">
     <category lang="pl">piłka nożna</category>
     <category lang="pl">Sports</category>
@@ -31048,34 +30707,6 @@ Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo do
     <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
     <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
     <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20261003180000 +0000" stop="20261003200000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20261003200000 +0000" stop="20261003220000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Piłka nożna: Liga Narodów.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Piłka nożna: Liga Narodów</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004004000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Program poświęcony najmłodszym rozgrywkom odbywającym się pod egidą UEFA. Ich pierwsza edycja odbyła się w sezonie 2018/2019, a wygrała ją Portugalia. W drugiej najlepsza była Francja. Polska od początku rywalizuje w dywizji A. Wszystkie dotychczasowe edycje kończyła na fazie grupowej.</desc>
-    <icon src="https://iptv-epg.org/images/MtZuxjlXGVV85BRVhLK7oyDyr4KlwLtqvm2TRZ5w51XY8wJ62zyRJ_PtTGVRCTYJgeGFurOGAB7yjIk4IBdbyOraNs4H1sdPE3XeXqH45Q" />
-    <title lang="pl">Magazyn Ligi Narodów</title>
   </programme>
   <programme start="20261004004000 +0000" stop="20261004010000 +0000" channel="PolsatSportPremium2.pl">
     <category lang="pl">wyścigi motocyklowe</category>
@@ -31693,36 +31324,6 @@ W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramac
     <display-name>IL - ספורט 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20261003165000 +0000" stop="20261003173500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. פ''ת - מ. פ''ת</title>
-  </programme>
-  <programme start="20261003173500 +0000" stop="20261003200500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי אזרבייג'אן: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
-  <programme start="20261003200500 +0000" stop="20261003202000 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. חיפה - ע. טבריה</title>
-  </programme>
-  <programme start="20261003202000 +0000" stop="20261003210500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. פ''ת - מ. פ''ת</title>
-  </programme>
-  <programme start="20261003210500 +0000" stop="20261003233500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי אזרבייג'אן: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
-  <programme start="20261003233500 +0000" stop="20261004002000 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. חיפה - ע. טבריה</title>
-  </programme>
   <programme start="20261004002000 +0000" stop="20261004024500 +0000" channel="5SPORT4K.il">
     <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי אזרבייג'אן: המירוץ.</desc>
     <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
@@ -32277,41 +31878,6 @@ W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramac
     <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
     <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
     <title lang="he">ה. פ''ת - מ. פ''ת</title>
-  </programme>
-  <programme start="20261003174500 +0000" stop="20261003181500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. מרחובות סנגל ועד לתפקיד הקפטן של ארסנל. אגדת העבר, פטריק ויירה, סוקר את המסע שעיצב אותו, כולל מבט על עונת ''הבלתי מנוצחים'' של התותחנים.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">הראיון הגדול</title>
-  </programme>
-  <programme start="20261003181500 +0000" stop="20261003183500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. מפגש ענק בין הטריקולור של זידאן לאזורי של מנצ'יני, ליגת האומות, דרג א', בית 1, מחזור 3, עונת 2026/27. שדר: דור הופמן, פרשן: מוטי איוניר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">צרפת - איטליה</title>
-  </programme>
-  <programme start="20261003183500 +0000" stop="20261003204500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור ישיר: כדורגל. צפון מקדוניה - סקוטלנד, ליגת האומות, דרג ב', בית 1, מחזור 3, עונת 2026/27. הסקוטים רוצים להישאר במאבק על העלייה לדרג א'.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">ישיר! צפון מקדוניה - סקוטלנד</title>
-  </programme>
-  <programme start="20261003204500 +0000" stop="20261003210500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. האנגלים והארי קיין יוצאים למפגש מול הקרואטים של מודריץ' וביליץ', ליגת האומות, דרג א', בית 3, מחזור 3, עונת 2026/27.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">קרואטיה - אנגליה</title>
-  </programme>
-  <programme start="20261003210500 +0000" stop="20261003213500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. תוכנית מיוחדת על נסיקתו של כוכב באיירן ונבחרת צרפת, מייקל אוליסה. המעבר מצרפת לפרמיירליג והפיכתו לשחקן טופ עולמי.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">ספיישל גרמני (מייקל אוליסה)</title>
-  </programme>
-  <programme start="20261003213500 +0000" stop="20261003232500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. האנגלים והארי קיין יוצאים למפגש מול הקרואטים של מודריץ' וביליץ', ליגת האומות, דרג א', בית 3, מחזור 3, עונת 2026/27.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">קרואטיה - אנגליה</title>
-  </programme>
-  <programme start="20261003232500 +0000" stop="20261004011500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: חגיגה אירופית (קרואטיה - אנגליה), האנגלים מגיעים לקרואטיה, וכל האירועים במשחקי בליגת האומות, עונת 2026/27.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">חגיגה אירופית</title>
   </programme>
   <programme start="20261004011500 +0000" stop="20261004030000 +0000" channel="ספורט4HD.il">
     <desc lang="he">שידור חוזר: כדורגל. חגיגה אירופית (ספרד - צ'כיה), ליגת האומות, מחזור 3, עונת 2026/27. אלופת העולם מחפשת ניצחון ביתי, וכל האירועים במשחקי הערב. שדר: שלומי דניאלי, פרשנים: דור הופמן, מוטי איוניר.</desc>
