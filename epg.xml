@@ -30596,41 +30596,6 @@ Programa de entrevistas a los futbolistas más destacados de la Premier League. 
     <display-name>PL - Polsat Sport Premium 2</display-name>
     <icon src="https://iptv-epg.org/images/6MjJoJG_KiMIImKGEzEgUH_s6kM3xIglJNoD3b5rv6fwhxM7KMA25zf5N6KyhqUT-QDkTt9u-X1l2EROrM1eEz3Tptzu1BhKu7x_UiJ7MgT5Ifx4Jp9cSAVfZqA" />
   </channel>
-  <programme start="20261019100000 +0000" stop="20261019113000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Kolejorz przekonał się już, jak trudno zdobywa się punkty w Lidze Europy. Czy wyciągnął wnioski z porażki 0:4 z Crystal Palace? Tego dowiemy się podczas jego meczu z czołową drużyną niemieckiej ekstraklasy. Aptekarzy da się pokonać, co w pierwszej kolejce Bundesligi udowodnił beniaminek, SV 07 Elversberg.</desc>
-    <icon src="https://iptv-epg.org/images/RLNAdCwmxZDEGv4biQmA9CcwJmKjZUpCC9ICuDgcKmk-AgEiISyF9CtqPOwk493wqTd5pd0-Zrrms6JBmEhODVrKHj2d5BvlNECV0TyCvg" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Lech Poznań - Bayer 04 Leverkusen</title>
-  </programme>
-  <programme start="20261019113000 +0000" stop="20261019130000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Na starcie fazy ligowej Ligi Europy Białostoczanie ulegli Olympiakosowi w Pireusie 1:2. W spotkaniu z mistrzem Armenii spróbują pójść śladem Sparty Praga, która miesiąc temu pokonała tego przeciwnika 4:1. Nie należy go jednak lekceważyć. Klub regularnie występuje w europejskich pucharach i potrafi sprawiać problemy faworytom.</desc>
-    <icon src="https://iptv-epg.org/images/UzAqWDGCaUkNUariBxJHGKvBr7kuVInMka57ecqbo3tavsTzbFblZsz4NSXlvEbUehyAocr9lYtb98_abg39TYdQFOj5zoEISvVmNsX8Tw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Jagiellonia Białystok - FC Ararat-Armenia</title>
-  </programme>
-  <programme start="20261019130000 +0000" stop="20261019143000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Na stadionie Abanca Balaídos Celta Vigo podejmie Juventus. Hiszpański zespół w poprzednim meczu Ligi Europy przegrał z Omonią Nikozja 1:0. Gospodarzy czeka trudne zadanie. Klub z Turynu prowadzi w tabeli po wysokim zwycięstwie 5:0 nad NEC Nijmegen.</desc>
-    <icon src="https://iptv-epg.org/images/_6zuPYK0Xszts1tiUeu725LqpOjOWJsmQzvepqhShkDkLMtvvTkGqrsFvtGnjvWjPCnRTYVIOlFTD3mP8Xe6wOh6eb7PGkqgfz7Oyiaj5A" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Celta Vigo - Juventus FC</title>
-  </programme>
-  <programme start="20261019143000 +0000" stop="20261019160000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Trzy punkty zdobyte na trudnym terenie w San Sebastian zdecydowanie dodały pewności piłkarzom AFC Bournemouth. Ekipa z Premier League liczy na kolejną wygraną. Tym razem Wisienki zmierzą się z SK Sturmem Graz, który w pierwszej kolejce zatrzymał Stade Rennais.</desc>
-    <icon src="https://iptv-epg.org/images/uCce_kGNr1ErUi6Cj38J5ezjSnW-u5hH-_4zyToqDBcHP7s_0bccaS4uzn2KywkxTS7wRm4Kxuvynywc7ZTkAWtvby0mIEt3A0pN2rEAaA" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: AFC Bournemouth - SK Sturm Graz</title>
-  </programme>
-  <programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Skróty spotkań, a także bramki i ciekawe sytuacje, które miały miejsce w ostatniej kolejce Ligi Europy.</desc>
-    <icon src="https://iptv-epg.org/images/ahUdNCR3kbfFm_1gW3n7ZJZ4iIggX5Av1L7jZaWZVkygcW98XnxF9tLKGS1Qbl360tGHi79R3C5DOw9nMf6hafPWYwXqoZ3RvFo0Eo_Ugw" />
-    <title lang="pl">Magazyn Ligi Europy UEFA</title>
-  </programme>
   <programme start="20261019170000 +0000" stop="20261019183000 +0000" channel="PolsatSportPremium1.pl">
     <category lang="pl">piłka nożna</category>
     <category lang="pl">Sports</category>
@@ -31151,45 +31116,6 @@ Programa de entrevistas a los futbolistas más destacados de la Premier League. 
     <desc lang="pl">Brak zaplanowanych transmisji sportowych.</desc>
     <icon src="https://iptv-epg.org/images/uRTjN1D30xeJ04doWwgiNcOJWpal7zGkXDECTnFAgjIZqo9vgbF52b1e_dAQUAEFFj4la6tTKWLlxj8wpzIWv68261sl9kOMSsDEDTARVg" />
     <title lang="pl">Brak zaplanowanych transmisji sportowych</title>
-  </programme>
-  <programme start="20261019093000 +0000" stop="20261019110000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Odense - Wisła Kraków 01.12.2011 - sezon 2011/2012
-W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramach rozgrywek Ligi Europy UEFA. Od sezonu 2009/2010 roku rozgrywki te zastąpiły dotychczasowy Puchar UEFA. Autorzy szczególną uwagę zwracają na mecze z udziałem polskich klubów. Pierwszą drużyną z Polski, która wywalczyła prawo gry w fazie grupowej LE, był Lech Poznań, później sztuka ta udała się także Wiśle Kraków i Legii Warszawa. Największym sukcesem, jak dotąd był awans do 1/16 finału Lecha w sezonie 2010/2011, Legii i Wisły w sezonie 2011/2012 oraz Legii Warszawa w sezonie 2014/2015.</desc>
-    <icon src="https://iptv-epg.org/images/Ng_l6CsFv45TrV4S_IAtpRylv8-Vb09G00Q58UN4COX9WCT_Y5zynP-jBds7kmvSerpzWLvNvq6DQGxEAhAZPsUe82-02XYZOExAR1j0sw" />
-    <title lang="pl">Archiwum Ligi Europy UEFA</title>
-  </programme>
-  <programme start="20261019110000 +0000" stop="20261019123000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Lech Poznań - Villarreal 03.11.2022 - mecz grupowy - sezon 2022/2023
-Archiwum Ligi Konferencji UEFA.</desc>
-    <icon src="https://iptv-epg.org/images/wSSpJTiV1RyxelhYIqzsiw7LRL0ylkLqZkb7_1e9ndf2_DTpFr-ve1AU5-G1GWiMu-ruQ8_mfbqEvtjI-jCY8FVgGvZccVxI59qSaWW9nQ" />
-    <title lang="pl">Archiwum Ligi Konferencji UEFA</title>
-  </programme>
-  <programme start="20261019123000 +0000" stop="20261019140000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Legia Warszawa - AZ Alkmaar - mecz grupowy - sezon 2023/2024
-Archiwum Ligi Konferencji UEFA.</desc>
-    <icon src="https://iptv-epg.org/images/wSSpJTiV1RyxelhYIqzsiw7LRL0ylkLqZkb7_1e9ndf2_DTpFr-ve1AU5-G1GWiMu-ruQ8_mfbqEvtjI-jCY8FVgGvZccVxI59qSaWW9nQ" />
-    <title lang="pl">Archiwum Ligi Konferencji UEFA</title>
-  </programme>
-  <programme start="20261019140000 +0000" stop="20261019160000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">tenis</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Pora na najważniejszy pojedynek piętnastej odsłony turnieju w Szanghaju. Zawodnik, który z finałowej konfrontacji wyjdzie jako triumfator, w nagrodę otrzyma czek na 1,2 mln dolarów. Rok temu ze zwycięstwa cieszył się Valentin Vacherot. Z tej edycji Monakijczyk odpadł już w trzeciej rundzie.</desc>
-    <icon src="https://iptv-epg.org/images/Nr5GOx58Qt-CWhu8GNG6Yrh1tVTBX1A4LrObY9gkAwZJrV7N9Yopu6bz940U55NFlX4pYd3U6LOp4VzmM1pEAOlttONnPd6kFQTcfS7azQ" />
-    <title lang="pl">Tenis: Turniej ATP w Szanghaju - mecz finałowy gry pojedynczej</title>
-  </programme>
-  <programme start="20261019160000 +0000" stop="20261019173000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Wisła Kraków - Twente 14.12.2011 - sezon 2011/2012
-W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramach rozgrywek Ligi Europy UEFA. Od sezonu 2009/2010 roku rozgrywki te zastąpiły dotychczasowy Puchar UEFA. Autorzy szczególną uwagę zwracają na mecze z udziałem polskich klubów. Pierwszą drużyną z Polski, która wywalczyła prawo gry w fazie grupowej LE, był Lech Poznań, później sztuka ta udała się także Wiśle Kraków i Legii Warszawa. Największym sukcesem, jak dotąd był awans do 1/16 finału Lecha w sezonie 2010/2011, Legii i Wisły w sezonie 2011/2012 oraz Legii Warszawa w sezonie 2014/2015.</desc>
-    <icon src="https://iptv-epg.org/images/Ng_l6CsFv45TrV4S_IAtpRylv8-Vb09G00Q58UN4COX9WCT_Y5zynP-jBds7kmvSerpzWLvNvq6DQGxEAhAZPsUe82-02XYZOExAR1j0sw" />
-    <title lang="pl">Archiwum Ligi Europy UEFA</title>
   </programme>
   <programme start="20261019173000 +0000" stop="20261019190000 +0000" channel="PolsatSportPremium2.pl">
     <category lang="pl">piłka nożna</category>
