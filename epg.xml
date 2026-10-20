@@ -11915,16 +11915,6 @@ Verslag van de vierde en laatste dag van de Genesis Championship, gespeeld in Ch
     <display-name>UK - TNT Sports 4</display-name>
     <icon src="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" />
   </channel>
-  <programme start="20261019000000 +0000" stop="20261019030000 +0000" channel="PremierSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Ice Hockey</category>
-    <date>2026</date>
-    <desc lang="en">Carolina Hurricanes at Calgary Flames
-The Calgary Flames and the Carolina Hurricanes butt heads in this NHL regular season meeting from Scotiabank Saddledome.</desc>
-    <icon src="https://iptv-epg.org/images/A4Ze2M_t2WnLYi2ulvbF54rpDZPmTdCpXNaEu33G8v4gosD80i8RScqI6RP0jYcq8G21laEfK__SdsVD4_c5rOzgfPoQiu4JMnuUlI6lep4xqbjXKDzMWyRf5GdaQPMHFoqD2oHr_MAiXe9QKblAVrgtTDT1ZmWUY1FE4UJkl5UunBB-S2ZOIrRTO3SIycX4JyUFwSXlntDGY0R1My-lZ5jVR1wakfH6kVMyw1JdSU3U3kuWojKPqOo0N4852WR8pdLExwMsfOuc81ElcBY2JuJRrtabW5u4pvpk9FGDvvberiQ5x7y4Td1isqmLLS2mmYqJokVH" />
-    <title lang="en">NHL Hockey</title>
-    <live />
-  </programme>
   <programme start="20261019030000 +0000" stop="20261019033000 +0000" channel="PremierSports1.uk">
     <category lang="en">Sports</category>
     <category lang="en">Documentary</category>
@@ -14692,15 +14682,6 @@ Coverage of the NHL season 2026/27.</desc>
     <icon src="https://iptv-epg.org/images/2DTPTylti6Zj_Dij-XK_AhykguQSqy80hALLHiHCNEegvdYvTbRtzABzEVlLJe7TvKyRhs15jGnP9GnsaHcu0BHjtn0WSUTTFmIj9NNRApBftvLHDFiddXXZBMKA0BxdwcpWEXljJvqj81Bcibc9C1hCk321LhDivzeQe9bgxl8CF0Q3ujHdsWnMPwIFeNTnPaMz3KdHheP45S0OZ5zNkvZXMiHCgbyFBzVI8a0cMf8DHyJE92GUsAcXORS8Pt60ooIHF_5j1G6ImRfH8Z2iuhVW9B5rphZyep71fWtw8pkhfx_FFEf-pkXWgbJhFgqfFNW7LzoH" />
     <title lang="en">NHL Hockey</title>
     <live />
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019001500 +0000" channel="SkySportsFootball.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Celtic v Heart of Midlothian
-Celtic play host to Hearts at Celtic Park in the Scottish Premiership.</desc>
-    <icon src="https://iptv-epg.org/images/qrZXGkKsWD8z9ixMAzIcEcBO13xeTWoGcQMiLL9wHYJ0Lp1GdM5iuJFFvpVKgX_2qWDCAuU49M5mp-syuoXOd4rZdmkPIuQpm2A03SeyuGSiLoPr1Zs77imororKgNczDDgBGUm7EWTqa9h1MH6uX_Q2GIGhynIVcRsF2oJPkvFoA3i9Ro1aBgZxBi_y_fvPISHeq125cFRB50tEXhMOKXYlGoe-KV9goTsxpQsAKmHCfguIVY2fmBtXibBwKz5pPElTLmQTbTV8LwKL25U24_pW_xyU8-LcUFYcpPnVkkUsxjtJR6kVQQequ14TakhUXd-JkYbT" />
-    <title lang="en">Scottish Premiership Football</title>
   </programme>
   <programme start="20261019001500 +0000" stop="20261019003000 +0000" channel="SkySportsFootball.uk">
     <category lang="en">Sports</category>
@@ -18579,16 +18560,6 @@ During week seven of the season, the Football Night in America team preview Kans
     <title lang="en">Football Night in America</title>
     <live />
   </programme>
-  <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">E333 — Leeds United v Manchester United
-Action from the Premier League.</desc>
-    <episode-num>E333</episode-num>
-    <icon src="https://iptv-epg.org/images/ps2gkWYUtBMRbQbLPug_LUc66d8GhZBtI38k0uevW-Y9jdf9bkvGXtsAZD3MOdZdVRb2RiiWDKbKVSwyySZ979566lyOoPZ6j5ynTmbirCqXC97a4ozU00GaRo2_VSo4i0h8J9AW0FPrkxw-pta05cZBTsmHnaZS305HyvP4vQubznksuk2Uf2MYG9uS83jyQ6bCfsk_hK4zzryQyh1Tp4_4pnBLJtYSL8H3C6pg8y7ziZmpjjR2a7kHfxuTbgHyPFjjPz8YGwpHSAAjvqjqtFDnKW4TdzIXq3YTPD4b7dCbxnATatC9HPvQ6U_cd10rD5FZJOaI" />
-    <title lang="en">Premier League</title>
-  </programme>
   <programme start="20261019003000 +0000" stop="20261019010000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -20918,16 +20889,6 @@ On Super Sunday, Manchester United play host to Bournemouth at Old Trafford in t
     <episode-num>E354</episode-num>
     <icon src="https://iptv-epg.org/images/UJEJSln8FQ48vS5XgMf3JWvppzErU864BD_KuzZFlzwKe2d31YhEZaKxYpKSjTlQe-fejd3S_xRFj4jej-odcOt8J9xA-25xz4DHe8-tL4MEKJQ2Ch9qFCMRg3iRqHHqvwLMXmYQWKCXDlTJYRm0mVBmA0HIP2ei7UEv_QQgTBhQkQbtnpBpL0bhg5Ob_JFUS9VV_TYEBIyaplLzi1WtOVWXsKVQ1CuEoDK0JJnV0xrgL_mUUJYwcaPIV9AbA1TdPz3Lf18hb__t6QbrQIJHf465enNcx4o5DB5bWC1jt89pWbMeXeZFT0kmSKHN3JipNt1w3p_5" />
     <title lang="en">Premier League</title>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="TNTSports1.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <date>2026</date>
-    <desc lang="en">2nd T20: India v Zimbabwe
-Women's T20 International Cricket from India.</desc>
-    <icon src="https://iptv-epg.org/images/Qh4oM--xwfMZtKlO7iVZ8B_yMm9YMpABZi-K1KeiWFN_xzBDoEJbm6QBHkyg-BezoH_mSgvM4nOBUrcQh9HPW62j8QW1lE8zfnl2eDjvtRbSIOCCupjDQt5qJOhOVkFvKivpiOv5PW-t2TO56JDd4tUKAYkZJ2C169f-X-9gK19Fm3N52UXM7skUXnpB2Ig3aQ2s4Ufn1V9UJSDUqGbg3sguAvgRW-zP_r8N2QFZsyVuh3eO3ckAkJJgdGn7uKAgIaC88DbxW3lcYhTvqJbtkrtsQ7dFGCYZT0iCjFp-a6kBWDissp3xcIbTEz_SlooZ8MIoUG-R" />
-    <title lang="en">Women's International T20 Cricket</title>
-    <live />
   </programme>
   <programme start="20261019010000 +0000" stop="20261019031500 +0000" channel="TNTSports1.uk">
     <category lang="en">Sports</category>
@@ -28161,22 +28122,6 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <display-name>ES - DAZN LaLiga</display-name>
     <icon src="https://iptv-epg.org/images/qMQtAIGQoLsWjo5ZU0KtnUnlifl0E0u_qaLs8fhNO8KKha0byvQNw-iVMPFyh5G3cGD2j544pdYxR6qtj9wY5ts3hiW1jghcaejBB75Ri_zkHA" />
   </channel>
-  <programme start="20261018084500 +0000" stop="20261018124500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018124500 +0000" stop="20261018164500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018164500 +0000" stop="20261018204500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018204500 +0000" stop="20261019004500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
   <programme start="20261019004500 +0000" stop="20261019044500 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
@@ -28342,98 +28287,6 @@ Edición especial de La Dazoneta.</desc>
   <programme start="20261024235900 +0000" stop="20261025030000 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018095000 +0000" stop="20261018120200 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">La Real Sociedad pone a prueba al vigente campeón en uno de los encuentros más destacados de la jornada frente al FC Barcelona.</desc>
-    <icon src="https://iptv-epg.org/images/xF8jWjW0Tim4er0ECzigB-_5yEJz1kY1WlsyBl2exS5iPKlwxoDXikO8vzxJ5nEQQK7I77zrbZuwte4dZx1tkPXOKg74SBsnmDSk-QPhiYyDuUOu" />
-    <title lang="es">Liga F (T26/27): Real Sociedad - FC Barcelona</title>
-    <live />
-  </programme>
-  <programme start="20261018120200 +0000" stop="20261018120400 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018120400 +0000" stop="20261018122100 +0000" channel="DAZN1.es">
-    <category lang="es">Entretenimiento</category>
-    <date>2026</date>
-    <desc lang="es">Rodri, el arquitecto de oro
-El último Balón de Oro español y gran pilar del Manchester City de Pep Guardiola pasa por el programa en una temporada con el Mundial en el horizonte.</desc>
-    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
-    <title lang="es">Premier Corner by Guiness 0,0</title>
-  </programme>
-  <programme start="20261018122100 +0000" stop="20261018125000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2024</date>
-    <desc lang="es">S3 — Juan Mata, el elegido de Old Trafford
-Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
-    <episode-num>S3</episode-num>
-    <icon src="https://iptv-epg.org/images/tomfRKs6VGehq4UOWCZZS7Bcfc_en0n75PZinaOWgD8SWyYz06I2HXiCtDqtC1rJb2dsbhiUznQAbLMh0YwXpP889Ng75lvdpgf6pXf71eQYjVaO" />
-    <title lang="es">Premier League Features</title>
-  </programme>
-  <programme start="20261018125000 +0000" stop="20261018150800 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
-    <icon src="https://iptv-epg.org/images/dOAyy6M7wwyB4xP5z0kV5Qt9obAqpBudQ-4ZN8yXZT9N3Tw5fTVWoGEzH_siSzUTfcYCaVaujT0hgRCST6jIcZuhFfeEKahEKc6OMhjy-cHyfbGI" />
-    <title lang="es">Premier League (T26/27): Leeds - Manchester Utd</title>
-    <live />
-  </programme>
-  <programme start="20261018150800 +0000" stop="20261018152000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018152000 +0000" stop="20261018173800 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">En The City Ground se ven las caras N.Forest y Arsenal en la séptima jornada de la Premier League. Los de Glasner están descolgados en la tabla con cinco puntos tras caer ante el C.Palace.  Los gunners fueron solventes en UCL y suman quince puntos en Premier a tres del líder.</desc>
-    <icon src="https://iptv-epg.org/images/t9JSjfuNwx1SDGSV-xlF2mMiJxG5iLw7GCC6D9PDJT4G2sT-ooca5AkbRzMD6dBN-ZXznkkBDnkT9umdUw_y8z3fBl1IPOAKHfRaiE6WjcuCF4E6" />
-    <title lang="es">Premier League (T26/27): Nottingham Forest - Arsenal</title>
-    <live />
-  </programme>
-  <programme start="20261018173800 +0000" stop="20261018174100 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018174100 +0000" stop="20261018175400 +0000" channel="DAZN1.es">
-    <category lang="es">Entretenimiento</category>
-    <date>2025</date>
-    <desc lang="es">Martín Zubimendi
-El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.</desc>
-    <icon src="https://iptv-epg.org/images/e8im_fdxW0OVfZNDAbXCtc1nbY9i-Jcejcjff1NcpT7tnitIx9tN9buciWK7yQJCw0gw3wusv1sjfF-ux3SDtG-htyVn9wPFNRJ9y1TGxxngrJE_" />
-    <title lang="es">Premier Corner by Guiness 0,0</title>
-  </programme>
-  <programme start="20261018175400 +0000" stop="20261018201300 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
-    <icon src="https://iptv-epg.org/images/dOAyy6M7wwyB4xP5z0kV5Qt9obAqpBudQ-4ZN8yXZT9N3Tw5fTVWoGEzH_siSzUTfcYCaVaujT0hgRCST6jIcZuhFfeEKahEKc6OMhjy-cHyfbGI" />
-    <title lang="es">Premier League (T26/27): Manchester City - Ipswich</title>
-    <live />
-  </programme>
-  <programme start="20261018201300 +0000" stop="20261018202500 +0000" channel="DAZN1.es">
-    <category lang="es">Entretenimiento</category>
-    <date>2025</date>
-    <desc lang="es">Raya y Merino, combinación ganadora
-Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.</desc>
-    <icon src="https://iptv-epg.org/images/e8im_fdxW0OVfZNDAbXCtc1nbY9i-Jcejcjff1NcpT7tnitIx9tN9buciWK7yQJCw0gw3wusv1sjfF-ux3SDtG-htyVn9wPFNRJ9y1TGxxngrJE_" />
-    <title lang="es">Premier Corner by Guiness 0,0</title>
-  </programme>
-  <programme start="20261018202500 +0000" stop="20261018235500 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defienden título.</desc>
-    <title lang="es">NFL (T26/27): Kansas City Chiefs - Los Angeles Chargers</title>
-  </programme>
-  <programme start="20261018235500 +0000" stop="20261019000000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019040000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
   <programme start="20261019040000 +0000" stop="20261019105500 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
@@ -29034,46 +28887,6 @@ No te pierdas en DAZN la entrevista en exclusiva a Jorge Martín. Nuestra compa�
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261018095000 +0000" stop="20261018121000 +0000" channel="DAZN2.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las siete últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden plantar cara.</desc>
-    <icon src="https://iptv-epg.org/images/DIIEZs27_di4VsfgZWVChE4Oi_mhvMl7BnBPJoLV16QpTKsZMpOl5Slvgo7VU_cPGJvhH2rDgt95kZcS5ocG496XIq35uJxnh_fAggCJfTFVJafg" />
-    <title lang="es">Liga F (T26/27): Deportivo Alavés - Sevilla</title>
-    <live />
-  </programme>
-  <programme start="20261018121000 +0000" stop="20261018125000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018125000 +0000" stop="20261018151000 +0000" channel="DAZN2.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
-    <icon src="https://iptv-epg.org/images/dOAyy6M7wwyB4xP5z0kV5Qt9obAqpBudQ-4ZN8yXZT9N3Tw5fTVWoGEzH_siSzUTfcYCaVaujT0hgRCST6jIcZuhFfeEKahEKc6OMhjy-cHyfbGI" />
-    <title lang="es">Premier League (T26/27): Brighton - Crystal Palace</title>
-    <live />
-  </programme>
-  <programme start="20261018151000 +0000" stop="20261018155000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018155000 +0000" stop="20261018181000 +0000" channel="DAZN2.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las siete últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden plantar cara.</desc>
-    <icon src="https://iptv-epg.org/images/U5pQ-_im7axl-67c01N8_ujZMetCKzeMz7RBSneaKH8G4JO0Cuz1ONd2y1VgObjQm2iQlxTwaYGdOWgaZaYBC5ESe1iQN3krOs__BjmdNifNPe_f" />
-    <title lang="es">Liga F (T26/27): At. Madrid - Madrid CFF</title>
-    <live />
-  </programme>
-  <programme start="20261018181000 +0000" stop="20261018221000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018221000 +0000" stop="20261019002000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261019002000 +0000" stop="20261019034000 +0000" channel="DAZN2.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
@@ -29303,44 +29116,6 @@ Dos de los mejores nombres del peso superpluma se enfrentan en un choque de esti
     <title lang="es">Boxeo: velada completa Navarrete vs Foster : Navarrete vs. Foster</title>
     <live />
   </programme>
-  <programme start="20261018080800 +0000" stop="20261018085500 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018085500 +0000" stop="20261018125500 +0000" channel="DAZN3.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-Vive la carrera de la Superpole de la máxima categoría del campeonato de Superbikes en la última prueba de la temporada que se disputa este fin de semana en el circuito de Jerez - Ángel Nieto.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">Mundial de Superbike - España : Superpole WSBK</title>
-    <live />
-  </programme>
-  <programme start="20261018125500 +0000" stop="20261018143500 +0000" channel="DAZN3.es">
-    <category lang="es">Sin clasificar</category>
-    <desc lang="es">S2026
-Vive la segunda jornada de carreras del campeonato de Superbikes en la última prueba de la temporada que se disputa este fin de semana en el circuito de Jerez - Ángel Nieto.</desc>
-    <episode-num>S2026</episode-num>
-    <title lang="es">Mundial de Superbike - España : Carrera 2</title>
-  </programme>
-  <programme start="20261018143500 +0000" stop="20261018170000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018203000 +0000" channel="DAZN3.es">
-    <category lang="es">Sin clasificar</category>
-    <desc lang="es">La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defienden título.</desc>
-    <title lang="es">NFL (T26/27): Philadelphia Eagles - Carolina Panthers</title>
-  </programme>
-  <programme start="20261018203000 +0000" stop="20261019000000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019040000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261019040000 +0000" stop="20261019080000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29489,40 +29264,6 @@ Vive la segunda jornada de carreras del campeonato de Superbikes en la última p
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261018084500 +0000" stop="20261018120000 +0000" channel="DAZN4.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-Vive la última prueba del campeonato de JuniorGP de donde saldrán los primeros campeones que algún día competirán en la categoría reina.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">FIM JuniorGP : Emilia - Romagna JuniorGP</title>
-    <live />
-  </programme>
-  <programme start="20261018120000 +0000" stop="20261018134500 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018134500 +0000" stop="20261018153000 +0000" channel="DAZN4.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Houston Texans y Jacksonville Jaguars se enfrentan en la Semana 6 de la NFL en un duelo divisional de la AFC Sur que se disputará en el emblemático Wembley Stadium de Londres, dentro de la serie de partidos internacionales de la liga.</desc>
-    <icon src="https://iptv-epg.org/images/BXMYkrEVbbNvzMfHDmdZN9xe8DuPypcJxBGF_Me2VSBACsvWZLHM_1yYYMTmQ932mm6JgfyPE7Hu4ufGORaWAynX9HItmE6_pJU684QxIhVagK1m" />
-    <title lang="es">NFL (T26/27): Jacksonville Jaguars - Houston Texans</title>
-    <live />
-  </programme>
-  <programme start="20261018153000 +0000" stop="20261018205900 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018205900 +0000" stop="20261019000000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019040000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261019040000 +0000" stop="20261019080000 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -29666,201 +29407,6 @@ Vive la última prueba del campeonato de JuniorGP de donde saldrán los primeros
   <programme start="20261025002900 +0000" stop="20261025045900 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261018100000 +0000" stop="20261018101500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Real Sociedad B - UD Almería</title>
-  </programme>
-  <programme start="20261018101500 +0000" stop="20261018103000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): SD Eibar - RCD Mallorca</title>
-  </programme>
-  <programme start="20261018103000 +0000" stop="20261018104500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Real Sporting - Albacete BP</title>
-  </programme>
-  <programme start="20261018104500 +0000" stop="20261018110000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): UD Las Palmas - CD Castellón</title>
-  </programme>
-  <programme start="20261018110000 +0000" stop="20261018111500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Valencia - Athletic</title>
-  </programme>
-  <programme start="20261018111500 +0000" stop="20261018113000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): CD Leganés - Córdoba CF</title>
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Luis de la Fuente entró sin hacer ruido en el banquillo de la Selección, pero ha conseguido impregnar un sello propio al equipo nacional de España. Con él se han logrado Liga de Naciones y Eurocopa y ahora afronta el reto más complicado: el Mundial.</desc>
-    <icon src="https://iptv-epg.org/images/4ecJT6EuwNU4dGKlDmJCP-JZEduwIadR9jk5GyVjs2cfjiIzVmJx7Kdn50RTXWLPKl3XhWZBfzi_rqTSEw2kX6QRTcD6cizxEbXi0L058BMJP_9x" />
-    <title lang="es">Revelado - Luis de la Fuente</title>
-  </programme>
-  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 — Mejores momentos mundial 2026
-Un repaso por los mejores momentos del Mundial.</desc>
-    <episode-num>S1</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Mejores momentos del Mundial 2026</title>
-  </programme>
-  <programme start="20261018123000 +0000" stop="20261018140000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S2 — Programa 9
-Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
-    <episode-num>S2</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">La Dazoneta</title>
-  </programme>
-  <programme start="20261018140000 +0000" stop="20261018141500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Celta - Alavés
-Toda la información previa a los partidos que va a emitir DAZN. Las noticias, las estadísticas, el análisis y los datos necesarios para disfrutar más de los encuentros.</desc>
-    <icon src="https://iptv-epg.org/images/tLit-QKENj1cMi74eWmq8mxPeyTR3Cz8tBA3Y4WqUDHTq-0tFLAKtq9dOwo8JiNXLZvtxjvc3fl9Q4se541f2omie4aGRxazN1M9RR1D-BJLg-hsjeWS7ji0Hg" />
-    <title lang="es">DAZN Previa (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261018141500 +0000" stop="20261018161500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <icon src="https://iptv-epg.org/images/um3jKAwOc7vWtL7uyO0sfPjWr6uw5sF0VTkDRZiIlR4A_JzomZfs_WPmrg4oNCGT-ZRNVuiWNogberKGNXvjTZ44z-rjeDALdgTgquxQK9yb3ZvD" />
-    <title lang="es">LALIGA EA SPORTS (T26/27): RC Celta - Deportivo Alavés</title>
-    <live />
-  </programme>
-  <programme start="20261018161500 +0000" stop="20261018164500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Celta - Alavés
-Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos ofrecidos por DAZN con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
-    <icon src="https://iptv-epg.org/images/2Ci8YQ7y2cuy7tc-cwizFh8qM0fbCU9Uzk-uDa0ZDfNqzNLD2lCsKny3uSqkHZq5IhO4Ni_Obt8M2oJDnynCCKfNG_8zqooDbV-PtLrIE47WFcJwos2WyRMLLA" />
-    <title lang="es">DAZN Post (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261018164500 +0000" stop="20261018181500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Programa 15
-Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.</desc>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">Trending (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261018181500 +0000" stop="20261018183000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Osasuna - Racing</title>
-  </programme>
-  <programme start="20261018183000 +0000" stop="20261018184500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Granada CF - Cádiz CF</title>
-  </programme>
-  <programme start="20261018184500 +0000" stop="20261018194500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Documentales</category>
-    <credits>
-      <director>Adrià Vila Pujals</director>
-      <director>Ivan Fanlo Torrecilla</director>
-      <actor>Mauricio Pochettino</actor>
-      <actor>Andoni Zubizarreta</actor>
-      <actor>Axel Torres Xirau</actor>
-      <actor>Joan Verdú</actor>
-      <actor>Jorge Valdano</actor>
-      <actor>Ricard Torquemada</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="es">El Mundial de 2026 podría ser el último en el que coincidan Cristiano Ronaldo y Lionel Messi. Con este telón de fondo, este documental realiza un viaje al origen de la rivalidad que protagonizó el fútbol moderno y convirtió LaLiga en un fenómeno global.</desc>
-    <icon src="https://iptv-epg.org/images/1RLKJvXlkqTZJwvCXjRTURSPrmVlNI5aw5noqKV_eqSbGbWwubCq-pif12DvYG-TOXSyAC28-x2MDmOM_nI4HJr0MpMoGmGacBxC7n0Wll3fxODFl40PogRPONG8Zf0EPz-9" />
-    <title lang="es">El último duelo</title>
-  </programme>
-  <programme start="20261018194500 +0000" stop="20261018200000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Girona FC - FC Andorra</title>
-  </programme>
-  <programme start="20261018200000 +0000" stop="20261018201500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Málaga - Real Sociedad</title>
-  </programme>
-  <programme start="20261018201500 +0000" stop="20261018203000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Real Valladolid CF - CD Eldense</title>
-  </programme>
-  <programme start="20261018203000 +0000" stop="20261018210000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Entretenimiento</category>
-    <date>2026</date>
-    <desc lang="es">Premier Corner: Pepe Reina
-Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.</desc>
-    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
-    <title lang="es">Premier Corner by Guiness 0,0: Pepe Reina</title>
-  </programme>
-  <programme start="20261018210000 +0000" stop="20261018223000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Programa 6
-La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">El Post de DAZN (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261018223000 +0000" stop="20261018224500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Real Madrid - Sevilla</title>
-  </programme>
-  <programme start="20261018224500 +0000" stop="20261018230000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Burgos - CE Sabadell</title>
-  </programme>
-  <programme start="20261018230000 +0000" stop="20261019030000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
   </programme>
   <programme start="20261019030000 +0000" stop="20261019070000 +0000" channel="DAZNLaLiga.es">
     <desc lang="es">DAZN LaLiga.</desc>
