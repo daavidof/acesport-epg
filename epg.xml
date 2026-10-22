@@ -27412,55 +27412,6 @@ Action from UFC 333 at Etihad Arena in Abu Dhabi, headlined by the featherweight
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20261021002500 +0000" stop="20261021023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">Vasco da Gama (BRA) - Boca Juniors (ARG), CONMEBOL Sudamericana (Halbfinale, Rückspiel).</desc>
-    <title lang="de">LIVE Vasco da Gama (BRA) - Boca Juniors (ARG), CONMEBOL Sudamericana (Halbfinale, Rückspiel)</title>
-    <live />
-  </programme>
-  <programme start="20261021023000 +0000" stop="20261021024500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Rohdiamanten im Sport sind Sportler, die noch nicht ihr volles Potenzial entfaltet haben.</desc>
-    <icon src="https://iptv-epg.org/images/U3OBx-mUYJwkDc8t2yePnqbkT2uLFhLVbpBWRSqIHvuOgYu7DYEOGoiJas5WXAzFcYHMjBRyMYBli9GIR3rFVVdXMm1RW5gyS0T1ioE5Z86ay1_n3ozZvG3a0RmX_R1FapUVmVvM2JNUSC727JpBt-VIYHZqNM4" />
-    <title lang="de">Deutschlands goldene Zukunft? Mika Baur, Artem Stepanov &amp; Lisa Baum</title>
-    <title lang="de">Rohdiamanten</title>
-    <title lang="de">Folge 6, Rohdiamanten Folge 6</title>
-  </programme>
-  <programme start="20261021024500 +0000" stop="20261021044500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Celtic Park in Glasgow, Schottland.</desc>
-    <icon src="https://iptv-epg.org/images/AyLTIszAW4nxKOaX0OPFtYOmv6RVDoWPCil91tNW63yzYd9wG22FnifV1xjZk8McLNqlrZGZG2fO-p9tvHsTjkmxcUg3x2ypTl1YDkUsbohFVmbpHJITPM2lEj9m8_0Y3iPRuGb-4RvfFKMS9Ht7vG9zE2gkTMA" />
-    <title lang="de">Celtic Glasgow - Heart of Midlothian, Scottish Premiership (9. Spieltag)</title>
-  </programme>
-  <programme start="20261021044500 +0000" stop="20261021051500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.</desc>
-    <icon src="https://iptv-epg.org/images/LNzNJWaxj6A1OdwJMzhspBqvr3BTo-YxevcSfu1MayZIUyyjoQHWkBh5hNiFcY7xEMHcoz7pyWu2RD6p7wEnbSPbR7fo4xSjbNgTX_pFazZ_FRxMlUXNRWTSzjfm3oSKmzbWarxXnbLaFIfHuRF3YcUcKU_ijnsq" />
-    <title lang="de">scooore Polen! Alle Tore, Highlights Ekstraklasa (11. Spieltag)</title>
-  </programme>
-  <programme start="20261021051500 +0000" stop="20261021073000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Diese Sendung berichtet über alles Wichtige zu allen Spielen von Manchester City.</desc>
-    <icon src="https://iptv-epg.org/images/UVWVeOPVNLXuLZIW5HVD0D-8WKkjHYWSThqJ0IukHaJeEGjELoS039eYAHNOkKIRgDFQh-5WhN2tpBYw-kMCQpEKHhL4jk9CeiQzRST7KaYVU9Piud1LHJCVW03oW410GjOzEGUUgKJmmP3UcLAvL2tR9r53P_U" />
-    <title lang="de">Manchester City TV - 7. Spieltag, Manchester City - Ipswich Town</title>
-  </programme>
-  <programme start="20261021073000 +0000" stop="20261021093500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2009</date>
-    <desc lang="de">Die Übertragung der höchsten Spielklasse des Vereinsfußballs im saudischen Ligasystem.</desc>
-    <icon src="https://iptv-epg.org/images/LZMSKg5c0hcpXZtG0wlRPp5tbE6S4cUR3xsDoIax-Z4IauzYguH56LyjCv5a5L52y0AlvLhSpQyfGqTDjuGHfLfU84_w3Jr5FdHHhK5kAZu3UNjs6fgzRqgDzVqvfRS7v3ok0r78QpkxE9C0EkhIZ-1CBD2_0g" />
-    <title lang="de">Al-Nassr - Neom SC, Saudi Pro League (10. Spieltag)</title>
-  </programme>
   <programme start="20261021093500 +0000" stop="20261021114000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
@@ -27929,7 +27880,7 @@ From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.</desc>
     <icon src="https://iptv-epg.org/images/HrGNsN-tgXPwTT_QFO2JkhXc3RXbQHJO29OeM_WuNfr3_2qdGyh2DJ8tdP5s589le_vqXrk9YWDAXebKZ5IgMHAN-ZQImozXFYZCmh2Vx-i7QQQcmrG27IMVe62Fa92qbuQNhIHpZr0ry0aukkiQk-pcNhhiCLk" />
     <title lang="de">Melbourne Victory - Melbourne City, A-League (2. Spieltag)</title>
   </programme>
-  <programme start="20261025003500 +0000" stop="20261025024000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025003500 +0000" stop="20261025034000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27938,7 +27889,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/X2VFFSOIQiq1IiyCdHp9d9guaT12i1CCg8xJLkxvd5MbtUA0uZoKczk3EcBZNaM1Pg98RbCq22qUMryvpppVZ2kwWFzRbbyWU1smwdc_EgZ5Wbp4hm0kwk3Zbu8-Ie3q972xmxd2GPewPJoJt88-E0TbgMePkx0" />
     <title lang="de">Slavia Prag - Mlada Boleslav, Chance Liga (12. Spieltag)</title>
   </programme>
-  <programme start="20261025024000 +0000" stop="20261025044000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025034000 +0000" stop="20261025054000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27947,7 +27898,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
     <title lang="de">FCSB Bukarest - Rapid Bukarest, SuperLiga Romaniei (13. Spieltag)</title>
   </programme>
-  <programme start="20261025044000 +0000" stop="20261025064000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025054000 +0000" stop="20261025074000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27955,7 +27906,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/UZWc2KyagJ4H3BDwrwjGkq5D3VYGDmmfgOQWQABmVe0Jq_GYTSTnokDUw2wLY70CLGnnfEIG9eDvV0rkccuEm6wk5v_lYX4GN-FzU6trVpeq06LitSavIZDWpLujk3QDMeAm9kLKW3wGUNwL4UnKFgAVobIql_g" />
     <title lang="de">FC Gil Vicente - FC Porto, Primeira Liga (9. Spieltag)</title>
   </programme>
-  <programme start="20261025064000 +0000" stop="20261025084000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025074000 +0000" stop="20261025094000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27964,7 +27915,7 @@ From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.</desc>
     <icon src="https://iptv-epg.org/images/IUV6IwmJjICYnHsc44ILCfa_eKrb3R9UE1_sYFwotWdB0m8EYsGfIXzQ20eK7fpuezGLft9w57-8pjVAOVu97dwlfz0unk-_RQv17zdeij9fmJmzHvbX5W3IhFjHol9a0NTcWclkIh6Fj0v9HH03cczRYbj2Ews" />
     <title lang="de">Palmeiras - RB Bragantino, Campeonato Brasileiro (32. Spieltag)</title>
   </programme>
-  <programme start="20261025084000 +0000" stop="20261025104500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025094000 +0000" stop="20261025114500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27972,7 +27923,7 @@ From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.</desc>
     <icon src="https://iptv-epg.org/images/HrGNsN-tgXPwTT_QFO2JkhXc3RXbQHJO29OeM_WuNfr3_2qdGyh2DJ8tdP5s589le_vqXrk9YWDAXebKZ5IgMHAN-ZQImozXFYZCmh2Vx-i7QQQcmrG27IMVe62Fa92qbuQNhIHpZr0ry0aukkiQk-pcNhhiCLk" />
     <title lang="de">Melbourne Victory - Melbourne City, A-League (2. Spieltag)</title>
   </programme>
-  <programme start="20261025104500 +0000" stop="20261025114500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025114500 +0000" stop="20261025124500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27981,7 +27932,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/X2VFFSOIQiq1IiyCdHp9d9guaT12i1CCg8xJLkxvd5MbtUA0uZoKczk3EcBZNaM1Pg98RbCq22qUMryvpppVZ2kwWFzRbbyWU1smwdc_EgZ5Wbp4hm0kwk3Zbu8-Ie3q972xmxd2GPewPJoJt88-E0TbgMePkx0" />
     <title lang="de">Slavia Prag - Mlada Boleslav, Chance Liga (12. Spieltag)</title>
   </programme>
-  <programme start="20261025114500 +0000" stop="20261025121500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025124500 +0000" stop="20261025131500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27989,7 +27940,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
     <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (11. Spieltag)</title>
   </programme>
-  <programme start="20261025121500 +0000" stop="20261025144000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025131500 +0000" stop="20261025154000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -27998,7 +27949,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <title lang="de">LIVE PSV Eindhoven - Feyenoord Rotterdam, Eredivisie (10. Spieltag)</title>
     <live />
   </programme>
-  <programme start="20261025144000 +0000" stop="20261025165500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025154000 +0000" stop="20261025175500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28007,7 +27958,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <title lang="de">LIVE Sparta Rotterdam - Ajax Amsterdam, Eredivisie (10. Spieltag)</title>
     <live />
   </programme>
-  <programme start="20261025165500 +0000" stop="20261025185500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025175500 +0000" stop="20261025195500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28017,7 +27968,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <title lang="de">LIVE CD Nacional Funchal - Sporting Braga, Primeira Liga (9. Spieltag)</title>
     <live />
   </programme>
-  <programme start="20261025185500 +0000" stop="20261025211000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025195500 +0000" stop="20261025221000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28026,7 +27977,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <title lang="de">LIVE CA Independiente - Boca Juniors, Liga Profesional Clausura (14. Spieltag)</title>
     <live />
   </programme>
-  <programme start="20261025211000 +0000" stop="20261025232500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261025221000 +0000" stop="20261026002500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28035,7 +27986,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <title lang="de">LIVE CA River Plate - Racing Club, Liga Profesional Clausura (14. Spieltag)</title>
     <live />
   </programme>
-  <programme start="20261025232500 +0000" stop="20261026013000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026002500 +0000" stop="20261026023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28043,7 +27994,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/5rrsxdYLVoq2uXVmT3jigg4oqP5U-CEq0uI8APD_7QwBwijFDhMUnSlAL0_9dC8Sm9p_t5YNT6q5axvc-3XRyGVb9p37SLhUPffLtm8XCj6oRGnqIm2bjywlyMKNrJq2QAMTIPF752fCePouZO7hTD-8oaAaQM8" />
     <title lang="de">PSV Eindhoven - Feyenoord Rotterdam, Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261026013000 +0000" stop="20261026033500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026023000 +0000" stop="20261026043500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28051,7 +28002,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/2Kw9WvN_KhXHhiXTPyRwgXGjyWE0h0EunNVMzgPzZ5PplOFQ9vobSouKj6o6uEhs8CgyqFAPIYL4gtWLaXSWmszl12urTWWOgQ7Xh-SippQ44IETx1CcvDmdgzfo9Jwrueqgj7yUecKEpCPojV9Q0eK9-MOWN4A" />
     <title lang="de">Sparta Rotterdam - Ajax Amsterdam, Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261026033500 +0000" stop="20261026053500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026043500 +0000" stop="20261026063500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28060,7 +28011,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/lLW_Iwk0-tpSUPYZ-T7eHXT8uoCxHkcOXsRuJdZ7BLkXkQXIVXJRTZ_tYk4zWRQlRcV78J4MhrD0vFvUIq4I9nXp7a-YMw4Q1Ayp4Fwhi2w-MTWC5WN_2oGnFi1o4l6PsBs-L0YHyVS-kn1WnZO-J5tcGPMm9JM" />
     <title lang="de">CD Nacional Funchal - Sporting Braga, Primeira Liga (9. Spieltag)</title>
   </programme>
-  <programme start="20261026053500 +0000" stop="20261026074000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026063500 +0000" stop="20261026084000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28068,7 +28019,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/e_pQ_YwFEPouCcSPW_WTLBUL0DUPRf7WaHIshZDiFJM8HhoP2ee1xCs5k0zn_QUehWok20rSIZb7n8nKtLCJ7qIvvv5bISMQ9Bpgh8X3sEZCq11BsuQ8DHoBVXd8QwVW4U-sUp5sULqGyxoSxxniK1L-n40Id-Y" />
     <title lang="de">CA Independiente - Boca Juniors, Liga Profesional Clausura (14. Spieltag)</title>
   </programme>
-  <programme start="20261026074000 +0000" stop="20261026094000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026084000 +0000" stop="20261026104000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28076,7 +28027,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/fBcgjw-rKMmK0PLB-F3UFQX8wvHrAkcj7VK3lFGU8_sXid2r0D2bhmpKlTpbktF53KGNQpyswMNY1LjZpy9jthwm7UN4UQ8Zkgc65mbYnRX4E-uuSM4pBo2Svua_DF8aJ-XQ0RPs_PpSFVe8kWInYb7NqO2dCyw" />
     <title lang="de">CA River Plate - Racing Club, Liga Profesional Clausura (14. Spieltag)</title>
   </programme>
-  <programme start="20261026094000 +0000" stop="20261026114500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026104000 +0000" stop="20261026124500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28084,7 +28035,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/5rrsxdYLVoq2uXVmT3jigg4oqP5U-CEq0uI8APD_7QwBwijFDhMUnSlAL0_9dC8Sm9p_t5YNT6q5axvc-3XRyGVb9p37SLhUPffLtm8XCj6oRGnqIm2bjywlyMKNrJq2QAMTIPF752fCePouZO7hTD-8oaAaQM8" />
     <title lang="de">PSV Eindhoven - Feyenoord Rotterdam, Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261026114500 +0000" stop="20261026120000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026124500 +0000" stop="20261026130000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28094,7 +28045,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <title lang="de">Rohdiamanten</title>
     <title lang="de">Folge 6, Rohdiamanten Folge 6</title>
   </programme>
-  <programme start="20261026120000 +0000" stop="20261026140000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026130000 +0000" stop="20261026150000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28102,7 +28053,7 @@ Aus dem Estádio da Madeira in Funchal, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/HrGNsN-tgXPwTT_QFO2JkhXc3RXbQHJO29OeM_WuNfr3_2qdGyh2DJ8tdP5s589le_vqXrk9YWDAXebKZ5IgMHAN-ZQImozXFYZCmh2Vx-i7QQQcmrG27IMVe62Fa92qbuQNhIHpZr0ry0aukkiQk-pcNhhiCLk" />
     <title lang="de">Melbourne Victory - Melbourne City, A-League (2. Spieltag)</title>
   </programme>
-  <programme start="20261026140000 +0000" stop="20261026160000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026150000 +0000" stop="20261026170000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28111,7 +28062,7 @@ Aus dem Estádio José Alvalade in Lissabon, Portugal.</desc>
     <icon src="https://iptv-epg.org/images/AR-Peqs74gu8w4S9TlJnzsgNFPyWje7oNBRHVkaj0mvzBMvM9Hi7SJtzHv_JzjP3XcEcZtztcqs6zewY6aia3dxw_sX7jZ4EI09-sGcTIx1ROsOQNldSG9EMAMpLBWnMKCH7UIHNWDdYVgea9pqcLBo0nx-WRdo" />
     <title lang="de">Sporting Lissabon - Academico Viseu, Primeira Liga (9. Spieltag)</title>
   </programme>
-  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28120,7 +28071,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
     <title lang="de">90in30: FCSB Bukarest - Rapid Bukarest, SuperLiga Romaniei (13. Spieltag)</title>
   </programme>
-  <programme start="20261026163000 +0000" stop="20261026170000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28128,7 +28079,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
     <title lang="de">scooore Schottland! Alle Tore, Highlights Scottish Premiership (10. Spieltag)</title>
   </programme>
-  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28136,7 +28087,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
     <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261026173000 +0000" stop="20261026200000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026183000 +0000" stop="20261026210000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28145,40 +28096,40 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <title lang="de">LIVE CD Santa Clara - Benfica Lissabon, Primeira Liga (9. Spieltag)</title>
     <live />
   </programme>
-  <programme start="20261026200000 +0000" stop="20261026231500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261026210000 +0000" stop="20261027001500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
     <desc lang="de">Diese Sendung berichtet über alles Wichtige zu allen Spielen von Manchester City.</desc>
     <icon src="https://iptv-epg.org/images/UVWVeOPVNLXuLZIW5HVD0D-8WKkjHYWSThqJ0IukHaJeEGjELoS039eYAHNOkKIRgDFQh-5WhN2tpBYw-kMCQpEKHhL4jk9CeiQzRST7KaYVU9Piud1LHJCVW03oW410GjOzEGUUgKJmmP3UcLAvL2tR9r53P_U" />
     <title lang="de">Manchester City TV - 8. Spieltag, Aston Villa - Manchester City</title>
-  </programme>
-  <programme start="20261026231500 +0000" stop="20261026234500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">FCSB vs. Rapid Bucuresti
-Aus der National Arena in Bukarest, Rumänien.</desc>
-    <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
-    <title lang="de">90in30: FCSB Bukarest - Rapid Bukarest, SuperLiga Romaniei (13. Spieltag)</title>
-  </programme>
-  <programme start="20261026234500 +0000" stop="20261027001500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Präsentiert werden die Fußball-Highlights der schottischen Spielklasse Scottish Premiership.</desc>
-    <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
-    <title lang="de">scooore Schottland! Alle Tore, Highlights Scottish Premiership (10. Spieltag)</title>
   </programme>
   <programme start="20261027001500 +0000" stop="20261027004500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
+    <desc lang="de">FCSB vs. Rapid Bucuresti
+Aus der National Arena in Bukarest, Rumänien.</desc>
+    <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
+    <title lang="de">90in30: FCSB Bukarest - Rapid Bukarest, SuperLiga Romaniei (13. Spieltag)</title>
+  </programme>
+  <programme start="20261027004500 +0000" stop="20261027011500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der schottischen Spielklasse Scottish Premiership.</desc>
+    <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
+    <title lang="de">scooore Schottland! Alle Tore, Highlights Scottish Premiership (10. Spieltag)</title>
+  </programme>
+  <programme start="20261027011500 +0000" stop="20261027014500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
     <desc lang="de">Präsentiert werden die Fußball-Highlights der niederländische Spielklasse Eredivisie.</desc>
     <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
     <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261027004500 +0000" stop="20261027024500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027014500 +0000" stop="20261027034500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28186,7 +28137,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/X1I7DStMoa3YKABXZzO76rXSQVZxAzLe-zXI9Oajiok679DD8zEvKUiPXfO5p4Oe-VTkU6MLpNEvr8njvaw1WsRhtsxMzltgJO_s4BnV0PUa6qpl0EtW6kgPqefE527dUg6xZqEpeo3UwZ8Cet7G9rxExe9ZpwY" />
     <title lang="de">CD Santa Clara - Benfica Lissabon, Primeira Liga (9. Spieltag)</title>
   </programme>
-  <programme start="20261027024500 +0000" stop="20261027050000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027034500 +0000" stop="20261027060000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28194,7 +28145,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/UVWVeOPVNLXuLZIW5HVD0D-8WKkjHYWSThqJ0IukHaJeEGjELoS039eYAHNOkKIRgDFQh-5WhN2tpBYw-kMCQpEKHhL4jk9CeiQzRST7KaYVU9Piud1LHJCVW03oW410GjOzEGUUgKJmmP3UcLAvL2tR9r53P_U" />
     <title lang="de">Manchester City TV - 8. Spieltag, Aston Villa - Manchester City</title>
   </programme>
-  <programme start="20261027050000 +0000" stop="20261027053000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28203,7 +28154,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
     <title lang="de">90in30: FCSB Bukarest - Rapid Bukarest, SuperLiga Romaniei (13. Spieltag)</title>
   </programme>
-  <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027063000 +0000" stop="20261027070000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28211,7 +28162,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
     <title lang="de">scooore Schottland! Alle Tore, Highlights Scottish Premiership (10. Spieltag)</title>
   </programme>
-  <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027070000 +0000" stop="20261027073000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28219,7 +28170,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
     <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261027063000 +0000" stop="20261027083000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027073000 +0000" stop="20261027093000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28227,7 +28178,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/X1I7DStMoa3YKABXZzO76rXSQVZxAzLe-zXI9Oajiok679DD8zEvKUiPXfO5p4Oe-VTkU6MLpNEvr8njvaw1WsRhtsxMzltgJO_s4BnV0PUa6qpl0EtW6kgPqefE527dUg6xZqEpeo3UwZ8Cet7G9rxExe9ZpwY" />
     <title lang="de">CD Santa Clara - Benfica Lissabon, Primeira Liga (9. Spieltag)</title>
   </programme>
-  <programme start="20261027083000 +0000" stop="20261027104500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027093000 +0000" stop="20261027114500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28235,7 +28186,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/UVWVeOPVNLXuLZIW5HVD0D-8WKkjHYWSThqJ0IukHaJeEGjELoS039eYAHNOkKIRgDFQh-5WhN2tpBYw-kMCQpEKHhL4jk9CeiQzRST7KaYVU9Piud1LHJCVW03oW410GjOzEGUUgKJmmP3UcLAvL2tR9r53P_U" />
     <title lang="de">Manchester City TV - 8. Spieltag, Aston Villa - Manchester City</title>
   </programme>
-  <programme start="20261027104500 +0000" stop="20261027110000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027114500 +0000" stop="20261027120000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category lang="de">Unterhaltung</category>
     <category>Sports</category>
@@ -28244,7 +28195,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/A0WsGitDBBjvPou792wlZc5u-_kavyelV7bfLmMcT1JiQ2rxebGW25u4XizKb32M-2I4nZCGMxxVrqF8ANIKD52gY2VIappZwbPr8Gh4xLy6w2Gl7p2fDJhW2i5Eou7PXfCO0Cqc5vc8-VWcjsiNkvic8DaYudjU" />
     <title lang="de">Clubland, Boca Juniors</title>
   </programme>
-  <programme start="20261027110000 +0000" stop="20261027130000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28253,7 +28204,7 @@ Aus der National Arena in Bukarest, Rumänien.</desc>
     <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
     <title lang="de">FCSB Bukarest - Rapid Bukarest, SuperLiga Romaniei (13. Spieltag)</title>
   </programme>
-  <programme start="20261027130000 +0000" stop="20261027150000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027140000 +0000" stop="20261027160000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28262,7 +28213,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/X2VFFSOIQiq1IiyCdHp9d9guaT12i1CCg8xJLkxvd5MbtUA0uZoKczk3EcBZNaM1Pg98RbCq22qUMryvpppVZ2kwWFzRbbyWU1smwdc_EgZ5Wbp4hm0kwk3Zbu8-Ie3q972xmxd2GPewPJoJt88-E0TbgMePkx0" />
     <title lang="de">Slavia Prag - Mlada Boleslav, Chance Liga (12. Spieltag)</title>
   </programme>
-  <programme start="20261027150000 +0000" stop="20261027170000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027160000 +0000" stop="20261027180000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28270,7 +28221,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/5rrsxdYLVoq2uXVmT3jigg4oqP5U-CEq0uI8APD_7QwBwijFDhMUnSlAL0_9dC8Sm9p_t5YNT6q5axvc-3XRyGVb9p37SLhUPffLtm8XCj6oRGnqIm2bjywlyMKNrJq2QAMTIPF752fCePouZO7hTD-8oaAaQM8" />
     <title lang="de">PSV Eindhoven - Feyenoord Rotterdam, Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261027170000 +0000" stop="20261027173000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027180000 +0000" stop="20261027183000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28278,7 +28229,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/LNzNJWaxj6A1OdwJMzhspBqvr3BTo-YxevcSfu1MayZIUyyjoQHWkBh5hNiFcY7xEMHcoz7pyWu2RD6p7wEnbSPbR7fo4xSjbNgTX_pFazZ_FRxMlUXNRWTSzjfm3oSKmzbWarxXnbLaFIfHuRF3YcUcKU_ijnsq" />
     <title lang="de">scooore Polen! Alle Tore, Highlights Ekstraklasa (12. Spieltag)</title>
   </programme>
-  <programme start="20261027173000 +0000" stop="20261027180000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027183000 +0000" stop="20261027190000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28286,7 +28237,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/-sOrnIDdB85fA7FzK2RDMNbOajwDBSMYbpZNxHgObn07W_uVNX5c8g8-zaZAlOfRAj-dGfE352-S0EiSaqiJcPGSG-iUT3NLhhy8rEVI_KwEOPiQX58OmGUIpqioEwNlAuzXh_zAHEKk1i-tDfK-3ILU1t1POJIZ" />
     <title lang="de">scooore Portugal! Alle Tore, Highlights Primeira Liga (9. Spieltag)</title>
   </programme>
-  <programme start="20261027180000 +0000" stop="20261027210000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027190000 +0000" stop="20261027220000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28294,7 +28245,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/Nnx5eDUVy34Pm4oW-4YON5nLLD3CLMiV2VJLZo0dE7mSC5edW73xUyRJgM8A6lp8GhkF4ow_hxl5RFSXvxk7X_8Ua1q8U3K_Rxa_fdu9RngooOgbM7sFCHq6xdXF5O84RRuXRw__hKISom0CZwKm3Z83nS2hFplA" />
     <title lang="de">LFC TV - 8. Spieltag, Liverpool FC - Brighton &amp; Hove</title>
   </programme>
-  <programme start="20261027210000 +0000" stop="20261027213000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28302,7 +28253,7 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
     <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (10. Spieltag)</title>
   </programme>
-  <programme start="20261027213000 +0000" stop="20261027233000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+  <programme start="20261027223000 +0000" stop="20261028003000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
     <date>2026</date>
@@ -28310,6 +28261,173 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
 Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <icon src="https://iptv-epg.org/images/X2VFFSOIQiq1IiyCdHp9d9guaT12i1CCg8xJLkxvd5MbtUA0uZoKczk3EcBZNaM1Pg98RbCq22qUMryvpppVZ2kwWFzRbbyWU1smwdc_EgZ5Wbp4hm0kwk3Zbu8-Ie3q972xmxd2GPewPJoJt88-E0TbgMePkx0" />
     <title lang="de">Slavia Prag - Mlada Boleslav, Chance Liga (12. Spieltag)</title>
+  </programme>
+  <programme start="20261028003000 +0000" stop="20261028023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Aus dem Philips-Stadion in Eindhoven, Niederlande.</desc>
+    <icon src="https://iptv-epg.org/images/5rrsxdYLVoq2uXVmT3jigg4oqP5U-CEq0uI8APD_7QwBwijFDhMUnSlAL0_9dC8Sm9p_t5YNT6q5axvc-3XRyGVb9p37SLhUPffLtm8XCj6oRGnqIm2bjywlyMKNrJq2QAMTIPF752fCePouZO7hTD-8oaAaQM8" />
+    <title lang="de">PSV Eindhoven - Feyenoord Rotterdam, Eredivisie (10. Spieltag)</title>
+  </programme>
+  <programme start="20261028023000 +0000" stop="20261028030000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.</desc>
+    <icon src="https://iptv-epg.org/images/LNzNJWaxj6A1OdwJMzhspBqvr3BTo-YxevcSfu1MayZIUyyjoQHWkBh5hNiFcY7xEMHcoz7pyWu2RD6p7wEnbSPbR7fo4xSjbNgTX_pFazZ_FRxMlUXNRWTSzjfm3oSKmzbWarxXnbLaFIfHuRF3YcUcKU_ijnsq" />
+    <title lang="de">scooore Polen! Alle Tore, Highlights Ekstraklasa (12. Spieltag)</title>
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028033000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten portugiesischen Spielklasse Primeira Liga.</desc>
+    <icon src="https://iptv-epg.org/images/-sOrnIDdB85fA7FzK2RDMNbOajwDBSMYbpZNxHgObn07W_uVNX5c8g8-zaZAlOfRAj-dGfE352-S0EiSaqiJcPGSG-iUT3NLhhy8rEVI_KwEOPiQX58OmGUIpqioEwNlAuzXh_zAHEKk1i-tDfK-3ILU1t1POJIZ" />
+    <title lang="de">scooore Portugal! Alle Tore, Highlights Primeira Liga (9. Spieltag)</title>
+  </programme>
+  <programme start="20261028033000 +0000" stop="20261028053000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Stars und Verantwortlichen bieten faszinierende Einblicke hinter die Kulissen. Begleiten Sie die Reds beim Training und lernen Sie das Herz von Anfield kennen.</desc>
+    <icon src="https://iptv-epg.org/images/Nnx5eDUVy34Pm4oW-4YON5nLLD3CLMiV2VJLZo0dE7mSC5edW73xUyRJgM8A6lp8GhkF4ow_hxl5RFSXvxk7X_8Ua1q8U3K_Rxa_fdu9RngooOgbM7sFCHq6xdXF5O84RRuXRw__hKISom0CZwKm3Z83nS2hFplA" />
+    <title lang="de">LFC TV - 8. Spieltag, Liverpool FC - Brighton &amp; Hove</title>
+  </programme>
+  <programme start="20261028053000 +0000" stop="20261028060000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der niederländische Spielklasse Eredivisie.</desc>
+    <icon src="https://iptv-epg.org/images/3yWk8ndppFdaHlCyk9M9g7DXYcsWCN6yzv2Euc63jQ1Iz170zVrOnZtb__JarvMBaNPFL1pU1GXBHlYj9eCtyLX94fpwcCeuz65UuJdOmLqq2L9jFNnVUQ0szwFRMA97pYSAPWv75gMutc_882psmSPlI9nrK2Q" />
+    <title lang="de">scooore Niederlande! Alle Tore, Highlights Eredivisie (10. Spieltag)</title>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028080000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Slavia Prag - FK Mladá Boleslav
+Aus dem Fortuna Arena in Prag, Tschechien.</desc>
+    <icon src="https://iptv-epg.org/images/X2VFFSOIQiq1IiyCdHp9d9guaT12i1CCg8xJLkxvd5MbtUA0uZoKczk3EcBZNaM1Pg98RbCq22qUMryvpppVZ2kwWFzRbbyWU1smwdc_EgZ5Wbp4hm0kwk3Zbu8-Ie3q972xmxd2GPewPJoJt88-E0TbgMePkx0" />
+    <title lang="de">Slavia Prag - Mlada Boleslav, Chance Liga (12. Spieltag)</title>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028100000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Aus dem Philips-Stadion in Eindhoven, Niederlande.</desc>
+    <icon src="https://iptv-epg.org/images/5rrsxdYLVoq2uXVmT3jigg4oqP5U-CEq0uI8APD_7QwBwijFDhMUnSlAL0_9dC8Sm9p_t5YNT6q5axvc-3XRyGVb9p37SLhUPffLtm8XCj6oRGnqIm2bjywlyMKNrJq2QAMTIPF752fCePouZO7hTD-8oaAaQM8" />
+    <title lang="de">PSV Eindhoven - Feyenoord Rotterdam, Eredivisie (10. Spieltag)</title>
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028103000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.</desc>
+    <icon src="https://iptv-epg.org/images/LNzNJWaxj6A1OdwJMzhspBqvr3BTo-YxevcSfu1MayZIUyyjoQHWkBh5hNiFcY7xEMHcoz7pyWu2RD6p7wEnbSPbR7fo4xSjbNgTX_pFazZ_FRxMlUXNRWTSzjfm3oSKmzbWarxXnbLaFIfHuRF3YcUcKU_ijnsq" />
+    <title lang="de">scooore Polen! Alle Tore, Highlights Ekstraklasa (12. Spieltag)</title>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028110000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der höchsten portugiesischen Spielklasse Primeira Liga.</desc>
+    <icon src="https://iptv-epg.org/images/-sOrnIDdB85fA7FzK2RDMNbOajwDBSMYbpZNxHgObn07W_uVNX5c8g8-zaZAlOfRAj-dGfE352-S0EiSaqiJcPGSG-iUT3NLhhy8rEVI_KwEOPiQX58OmGUIpqioEwNlAuzXh_zAHEKk1i-tDfK-3ILU1t1POJIZ" />
+    <title lang="de">scooore Portugal! Alle Tore, Highlights Primeira Liga (9. Spieltag)</title>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028130000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Stars und Verantwortlichen bieten faszinierende Einblicke hinter die Kulissen. Begleiten Sie die Reds beim Training und lernen Sie das Herz von Anfield kennen.</desc>
+    <icon src="https://iptv-epg.org/images/Nnx5eDUVy34Pm4oW-4YON5nLLD3CLMiV2VJLZo0dE7mSC5edW73xUyRJgM8A6lp8GhkF4ow_hxl5RFSXvxk7X_8Ua1q8U3K_Rxa_fdu9RngooOgbM7sFCHq6xdXF5O84RRuXRw__hKISom0CZwKm3Z83nS2hFplA" />
+    <title lang="de">LFC TV - 8. Spieltag, Liverpool FC - Brighton &amp; Hove</title>
+  </programme>
+  <programme start="20261028130000 +0000" stop="20261028150000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Aus dem Sparta-Stadion Het Kasteel in Rotterdam, Niederlande.</desc>
+    <icon src="https://iptv-epg.org/images/2Kw9WvN_KhXHhiXTPyRwgXGjyWE0h0EunNVMzgPzZ5PplOFQ9vobSouKj6o6uEhs8CgyqFAPIYL4gtWLaXSWmszl12urTWWOgQ7Xh-SippQ44IETx1CcvDmdgzfo9Jwrueqgj7yUecKEpCPojV9Q0eK9-MOWN4A" />
+    <title lang="de">Sparta Rotterdam - Ajax Amsterdam, Eredivisie (10. Spieltag)</title>
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028170000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Aus dem Cidade de Barcelos Stadium in Barcelos, Portugal.</desc>
+    <icon src="https://iptv-epg.org/images/UZWc2KyagJ4H3BDwrwjGkq5D3VYGDmmfgOQWQABmVe0Jq_GYTSTnokDUw2wLY70CLGnnfEIG9eDvV0rkccuEm6wk5v_lYX4GN-FzU6trVpeq06LitSavIZDWpLujk3QDMeAm9kLKW3wGUNwL4UnKFgAVobIql_g" />
+    <title lang="de">FC Gil Vicente - FC Porto, Primeira Liga (9. Spieltag)</title>
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028174500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category lang="de">Magazin</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Das Magazin zeigt die Highlights aus der internationalen Fußballwelt kompakt zusammengefasst.</desc>
+    <icon src="https://iptv-epg.org/images/ithOJI9qGv85iloraUP7L6QkapqQxZk1RRbaKa57XLiIG5VweOsY3lx9hTZodYrm4UN9y1BBH1WX3z13_j9Bsxvz0xutYNdiBvWBThz98JF7YNkD3QxgFUW-4dcPphqeKf8xO584ZeGCK8ckpo9HY4E2yMyOSOk-" />
+    <title lang="de">scooore! Das internationale Fußballmagazin, Tore und Ergebnisse international</title>
+  </programme>
+  <programme start="20261028174500 +0000" stop="20261028181500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Alle Tore und Highlights der A-League.</desc>
+    <icon src="https://iptv-epg.org/images/rhYAxRJWgjzAAmplRwM5Xl2NEQN5YxVNDlfB0r19P031Vm-w8JtjPHoz0-SzfqEKjlEbtIS--gYQ3B8Y8nDcDugXv9PNGW6tyLnuzUFg07Ugqsebmza3DZyhKGei-htf0jSCzTbk_4hhaZjt0NVkAxyqTWnkFKDF" />
+    <title lang="de">scooore Australien! Alle Tore, Highlights A-League (2. Spieltag)</title>
+  </programme>
+  <programme start="20261028181500 +0000" stop="20261028184500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">9. Spieltag
+Alle Tore, alle Highlights des aktuellen Spieltags der Saudi Pro League.</desc>
+    <icon src="https://iptv-epg.org/images/ZtD9dd9GmQ6mYlRD6EeKhXnX_0-OzdBMYKsTAqcT5iwLsxsGaHShxrB4FkFmh8QH52gKpJ8meOLAaQ1cXYtYAfNsbnqxcT0Hc7Wwd-LiWGQp1xThoEVW8kbtwYFJlpZbdEim5mRYy20-M6k1HuCteTZ27edSSuZ8" />
+    <title lang="de">scooore Saudi-Arabien! Alle Tore, Highlights Saudi Pro League (11. Spieltag)</title>
+  </programme>
+  <programme start="20261028184500 +0000" stop="20261028192000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Alle Tore und Highlights der Campeonato Brasileiro.</desc>
+    <icon src="https://iptv-epg.org/images/rHt-_-B7_ji0pEzyLv7bOwj1I-S_Ck5IriYbXf3r0qifi1hsNuw0Hvhbp6jItvPJm3GlmggBI0RMNlFcDXyRh82i_Fl8yngt2kEEfWRV0ksw2T8cvOIBt5F9dupuH-nuAe0BfB3U7hbMZSdMx9CBTjZQ7lcV8-He" />
+    <title lang="de">scooore Brasilien! Alle Tore, Highlights Campeonato Brasileiro (32. Spieltag)</title>
+  </programme>
+  <programme start="20261028192000 +0000" stop="20261028195000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">Präsentiert werden die Fußball-Highlights der schottischen Spielklasse Scottish Premiership.</desc>
+    <icon src="https://iptv-epg.org/images/Uwm-ngKrdn2CU8zFbw6FC1FaxTP5qeQAOPi-C30wMEPum03suFZgTQMbxwWYF1JwMXMkuhZCMa7rFLgyU-f7A4Kru9QQZNu4DtKHZlrm-lM9WVCsfUVE-L-fQUrtzEJq" />
+    <title lang="de">scooore Schottland! Alle Tore, Highlights Scottish Premiership (10. Spieltag)</title>
+  </programme>
+  <programme start="20261028195000 +0000" stop="20261028221000 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">From Tynecastle Park in Edinburgh, Scotland, United Kingdom.</desc>
+    <icon src="https://iptv-epg.org/images/PboRuf7rKdsovqk9-GsUVLhB8xPm4HgtAMfLSBvs09yE_g1BXI_pUwqYZKbqQhKIaK7OQuSrs4zGpFC8v-Fa3KYq6N9O2ZnDhV8gjLZhGIKZ0WvU0qduCL8Z1nCw9yShL2EITA2jhpVrhNcOPDbN_-yqITj8XzE" />
+    <title lang="de">LIVE Heart of Midlothian - Glasgow Rangers, Scottish Premiership (11. Spieltag)</title>
+    <live />
+  </programme>
+  <programme start="20261028221000 +0000" stop="20261028222500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category lang="de">Unterhaltung</category>
+    <category>Sports</category>
+    <date>2016</date>
+    <desc lang="de">Die Sendung schaut auf den FC Barcelona und seine Jugendakademie, die La Masia, anhand derer sich der Klub ein beeindruckendes Fundament geschaffen hat. Der Blick richtet sich weiter auf Bastian Schweinsteiger und seinen großen Einfluss.</desc>
+    <icon src="https://iptv-epg.org/images/n_Wv6eyft2_sLqWziF2OdOL4-hJINvNPiSIeQIBFRzuUr-oVORF0DP_4vEvq-_cRGTrlIw-e6oyO02kRI-THOHWJZDxxC1wBbsR9UbeS0J6A0168pikQlq2SwPfUVYaVspvzVR_FfeCNByj2Y_tE2FC7L9vrApRL" />
+    <title lang="de">Clubland, FC Barcelona</title>
+  </programme>
+  <programme start="20261028222500 +0000" stop="20261029004500 +0000" channel="SPORTDIGITALFUSSBALL.de">
+    <category lang="de">Sport</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="de">FC Santos - Palmeiras Sao Paulo
+From Estádio da Vila Belmiro in Santos, São Paulo, Brazil.</desc>
+    <icon src="https://iptv-epg.org/images/qnxHaPWSiZYitAGgkHFcJjjJ2rxP8nHWB-gEGQBpWGnwlF9dY9CInP6eNFwo5g6BpyfT_OccPo2kxb65olQLMSCrRok4pkXf_ihXXV1tc_ypuR8TOC_ARgbB3CFzxB9Qzpe1zctKQChgvjDUOyaV4ZyN9i6j6Zk" />
+    <title lang="de">LIVE Santos FC - Palmeiras, Campeonato Brasileiro (33. Spieltag)</title>
+    <live />
   </programme>
   <channel id="DAZNLaLiga2.es">
     <display-name>ES - DAZN LaLiga 2</display-name>
@@ -28335,22 +28453,6 @@ Aus dem Fortuna Arena in Prag, Tschechien.</desc>
     <display-name>ES - DAZN LaLiga</display-name>
     <icon src="https://iptv-epg.org/images/qMQtAIGQoLsWjo5ZU0KtnUnlifl0E0u_qaLs8fhNO8KKha0byvQNw-iVMPFyh5G3cGD2j544pdYxR6qtj9wY5ts3hiW1jghcaejBB75Ri_zkHA" />
   </channel>
-  <programme start="20261020164500 +0000" stop="20261020204500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020204500 +0000" stop="20261021004500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261021004500 +0000" stop="20261021044500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261021044500 +0000" stop="20261021084500 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
   <programme start="20261021084500 +0000" stop="20261021124500 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
@@ -28551,85 +28653,37 @@ Analiza los mejores momentos del partido y escucha a los protagonistas.</desc>
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020162500 +0000" stop="20261020172000 +0000" channel="DAZN1.es">
-    <category lang="es">Documentales</category>
-    <date>2026</date>
-    <desc lang="es">A través de su círculo más íntimo, "Mandarinas" repasa los hitos más importantes de la carrera de Sergio Llull y revela historias inéditas sobre las decisiones que han marcado su vida y su juego. Un documental producido por acb que narra la historia de una de las leyendas del baloncesto español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Mandarinas, la historia de Sergio Llull</title>
+  <programme start="20261027014500 +0000" stop="20261027054500 +0000" channel="DAZNLaLiga2.es">
+    <desc lang="es">DAZN LaLiga 2.</desc>
+    <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020172000 +0000" stop="20261020175200 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S2026 — Indonesia
-Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/PkQjaPNWrykV54pbauvMkbkNG5zNio63Piwuz9fuiO7xEAMiwce3On1VUQhX88ZcKKmX6jjHu9UIANL9JH40lKOPzDqbbYWrpqkJeau5T16HebVM" />
-    <title lang="es">Código MotoGP</title>
+  <programme start="20261027054500 +0000" stop="20261027094500 +0000" channel="DAZNLaLiga2.es">
+    <desc lang="es">DAZN LaLiga 2.</desc>
+    <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020175200 +0000" stop="20261020181800 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Claude Makélélé reflexiona sobre su carrera profesional.</desc>
-    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
-    <title lang="es">Claude Makélélé, una posición irremplazable</title>
+  <programme start="20261027094500 +0000" stop="20261027134500 +0000" channel="DAZNLaLiga2.es">
+    <desc lang="es">DAZN LaLiga 2.</desc>
+    <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020181800 +0000" stop="20261020190200 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 E3
-Revive lo mejor de cada fin de semana en ''The Post'', el programa con el mejor análisis y resúmenes de la jornada de fútbol internacional con Jaume Naveira, Nacho González y David Fer a los mandos.</desc>
-    <episode-num>S1 E3</episode-num>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">The Post</title>
+  <programme start="20261027134500 +0000" stop="20261027174500 +0000" channel="DAZNLaLiga2.es">
+    <desc lang="es">DAZN LaLiga 2.</desc>
+    <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020190200 +0000" stop="20261020210800 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
-    <title lang="es">Premier League (T26/27): Everton - Chelsea</title>
+  <programme start="20261027174500 +0000" stop="20261027214500 +0000" channel="DAZNLaLiga2.es">
+    <desc lang="es">DAZN LaLiga 2.</desc>
+    <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020210800 +0000" stop="20261020221600 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2025
-Jesse Rodriguez vs Phumelela Cafu en el Matchroom Boxing de The Ford Center at the Star.</desc>
-    <episode-num>S2025</episode-num>
-    <icon src="https://iptv-epg.org/images/x2oa7DS8VWTR_ejFCNX3A8GT2BhohKyd-m_358xYD_spzkXpLvuT7zwmWNfuhS7vQCVzKuR60MA0Pkb2FAa1niITKsto-8nqk2wQ4MTDnLHVhMY8" />
-    <title lang="es">Boxeo: velada Rodriguez vs Cafu : Jesse Rodriguez vs Phumelele Cafu</title>
+  <programme start="20261027214500 +0000" stop="20261028014500 +0000" channel="DAZNLaLiga2.es">
+    <desc lang="es">DAZN LaLiga 2.</desc>
+    <title lang="es">DAZN LaLiga 2</title>
   </programme>
-  <programme start="20261020221600 +0000" stop="20261020230000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2025
-Londres acoge un fantástico combate nacional en el peso medio, con el regreso de Kieron Conway (23-3-1) para enfrentarse al invicto George Liddard (12-0).</desc>
-    <episode-num>S2025</episode-num>
-    <icon src="https://iptv-epg.org/images/ZWiGKe-jYenLTc3xH5sx2fUqJRhzQ1mWrhM1AOB2YwvX1jYp2B4_sS-O-tIcO6Whvc3Lz7vjQ9P7PpF6wxwQrwjDauw7q8CJCxSSzI9BTrgiN9V1" />
-    <title lang="es">Boxeo: velada Conway vs Liddard : Kieron Conway vs George Liddard</title>
-  </programme>
-  <programme start="20261020230000 +0000" stop="20261021000000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261021000000 +0000" stop="20261021040000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261021040000 +0000" stop="20261021110000 +0000" channel="DAZN1.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021131000 +0000" channel="DAZN1.es">
+  <programme start="20261021110100 +0000" stop="20261021130200 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">El Real Madrid busca prolongar su buena dinámica en casa frente a un Espanyol que intentará sumar ante uno de los grandes aspirantes al título.</desc>
-    <icon src="https://iptv-epg.org/images/J8xsQVlOy3EyV-6AJCkxTPbTWVuyehnsXA00tNkJjoNlWkD7Eh4QDGN-paKGCns5mjXBZBjKiYWdTc0KCcMZhxswQ1-hf9AJrpRxhf2PaQZpWSwq" />
     <title lang="es">Liga F (T26/27): Real Madrid - Espanyol</title>
-    <live />
   </programme>
-  <programme start="20261021131000 +0000" stop="20261021141500 +0000" channel="DAZN1.es">
+  <programme start="20261021130200 +0000" stop="20261021141000 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
@@ -28637,43 +28691,39 @@ El Mundial de MotoGP ruge en el Misano World Circuit con el GP de San Marino 202
     <episode-num>S2026</episode-num>
     <title lang="es">MotoGP - GP de San Marino : Carrera MotoGP</title>
   </programme>
-  <programme start="20261021141500 +0000" stop="20261021150500 +0000" channel="DAZN1.es">
+  <programme start="20261021141000 +0000" stop="20261021150000 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
 La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.</desc>
     <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/P09JNMETNfQRG959e8YjyX3VROBXRTQUsBQUDk5WmzP8Xd0LhVY9fEis0r3KhVH_znCfpAgemhc6ABg6IhnSXMpzIWHxW8CuViHXrKLLmrLXIRcvTkDQgAy10A8" />
     <title lang="es">Red Bull Rookies Cup : Le Mans - Carrera 1</title>
   </programme>
-  <programme start="20261021150500 +0000" stop="20261021160000 +0000" channel="DAZN1.es">
+  <programme start="20261021150000 +0000" stop="20261021155500 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
 Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
     <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">Moto4 Asia Cup : Tailandia - Carrera 1</title>
   </programme>
-  <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="DAZN1.es">
+  <programme start="20261021155500 +0000" stop="20261021170100 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
 Un campeonato de motociclismo juvenil de primer nivel, diseñado para descubrir y formar a la próxima generación de estrellas con vistas a su llegada a MotoGP.</desc>
     <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">Moto4 Asia Cup : Indonesia - Carrera 1</title>
   </programme>
-  <programme start="20261021170000 +0000" stop="20261021175000 +0000" channel="DAZN1.es">
+  <programme start="20261021170100 +0000" stop="20261021175200 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
 Un campeonato de motociclismo juvenil de primer nivel, diseñado para descubrir y formar a la próxima generación de estrellas con vistas a su llegada a MotoGP.</desc>
     <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">Moto4 Asia Cup : Indonesia - Carrera 2</title>
   </programme>
-  <programme start="20261021175000 +0000" stop="20261021184500 +0000" channel="DAZN1.es">
+  <programme start="20261021175200 +0000" stop="20261021185400 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
@@ -28682,7 +28732,7 @@ El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Sen
     <icon src="https://iptv-epg.org/images/5tHYBZCupA-UhAt0_XvB2KTsVYQSQ_3mhitXSiA-wrG1rxXBBiujA1EDO2eAD2lrWboe4ltfaroWaAdR64RKNJvG__so67ZnjLUX9RgAU-NVWCeY" />
     <title lang="es">MotoGP - GP de Brasil : Carrera MotoGP</title>
   </programme>
-  <programme start="20261021184500 +0000" stop="20261021190000 +0000" channel="DAZN1.es">
+  <programme start="20261021185400 +0000" stop="20261021190900 +0000" channel="DAZN1.es">
     <category lang="es">Entretenimiento</category>
     <date>2026</date>
     <desc lang="es">Rodri, el arquitecto de oro
@@ -28690,15 +28740,13 @@ El último Balón de Oro español y gran pilar del Manchester City de Pep Guardi
     <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
     <title lang="es">Premier Corner by Guiness 0,0</title>
   </programme>
-  <programme start="20261021190000 +0000" stop="20261021211000 +0000" channel="DAZN1.es">
+  <programme start="20261021190900 +0000" stop="20261021211000 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
-    <icon src="https://iptv-epg.org/images/dOAyy6M7wwyB4xP5z0kV5Qt9obAqpBudQ-4ZN8yXZT9N3Tw5fTVWoGEzH_siSzUTfcYCaVaujT0hgRCST6jIcZuhFfeEKahEKc6OMhjy-cHyfbGI" />
     <title lang="es">Premier League (T26/27): Manchester City - Ipswich</title>
-    <live />
   </programme>
-  <programme start="20261021211000 +0000" stop="20261021221000 +0000" channel="DAZN1.es">
+  <programme start="20261021211000 +0000" stop="20261021221100 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2025
@@ -28707,7 +28755,7 @@ Dave Allen afrontará un enorme desafío el próximo 11 de octubre cuando se enf
     <icon src="https://iptv-epg.org/images/vgiWh-aycaghkNkmwUaiy3d2QW-cxij-8aU7lT_ukFmc6Hqi560HX_CAcHX60irq3XIl1Q_Devb4RKW6bbqH7uvhYBoysDlMt02FNTk-UMhC2TUg" />
     <title lang="es">Boxeo: velada Allen vs Makhmudov : Dave Allen vs Arslanbek Makhmudov</title>
   </programme>
-  <programme start="20261021221000 +0000" stop="20261021230000 +0000" channel="DAZN1.es">
+  <programme start="20261021221100 +0000" stop="20261021230100 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2025
@@ -28716,7 +28764,7 @@ Joshua Buatsi se enfrenta a Zach Parker en un duelo crucial del peso semipesado.
     <icon src="https://iptv-epg.org/images/LoGCFjz48asQLrjYE5NgRa_bjUFawnyT4D18c03jwRkR0erDoi3gM7qcEWznin-VvH4Fx3C8EWCO7RzOWQdY0cStJF9EL0YYETrC3oJ40GvwC322" />
     <title lang="es">Boxeo: velada Ennis vs Lima : Joshua Buatsi vs. Zach Parker</title>
   </programme>
-  <programme start="20261021230000 +0000" stop="20261022000000 +0000" channel="DAZN1.es">
+  <programme start="20261021230100 +0000" stop="20261022000000 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -28724,7 +28772,11 @@ Joshua Buatsi se enfrenta a Zach Parker en un duelo crucial del peso semipesado.
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261022040000 +0000" stop="20261022110000 +0000" channel="DAZN1.es">
+  <programme start="20261022040000 +0000" stop="20261022080000 +0000" channel="DAZN1.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
+  </programme>
+  <programme start="20261022080000 +0000" stop="20261022110000 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -29071,7 +29123,7 @@ El resurgir de los Black Cats, la vuelta a la élite del fútbol inglés de uno 
     <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
     <title lang="es">Premier League Stories (T25/26)</title>
   </programme>
-  <programme start="20261025190500 +0000" stop="20261025202500 +0000" channel="DAZN1.es">
+  <programme start="20261025190500 +0000" stop="20261025201600 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">S2026
@@ -29081,14 +29133,15 @@ Del 23 al 25 de octubre se celebra el Gran Premio de Australia, 18ª prueba del 
     <title lang="es">MotoGP - GP de Australia : Carrera MotoGP</title>
     <live />
   </programme>
-  <programme start="20261025202500 +0000" stop="20261025235500 +0000" channel="DAZN1.es">
+  <programme start="20261025201600 +0000" stop="20261025234600 +0000" channel="DAZN1.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
-    <desc lang="es">Retransmisión de los partidos más interesantes de la Liga profesional de fútbol americano, la NFL.</desc>
+    <desc lang="es">La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defienden título.</desc>
     <icon src="https://iptv-epg.org/images/BXMYkrEVbbNvzMfHDmdZN9xe8DuPypcJxBGF_Me2VSBACsvWZLHM_1yYYMTmQ932mm6JgfyPE7Hu4ufGORaWAynX9HItmE6_pJU684QxIhVagK1m" />
-    <title lang="es">NFL</title>
+    <title lang="es">NFL (T26/27): Detroit Lions - Green Bay Packers</title>
+    <live />
   </programme>
-  <programme start="20261025235500 +0000" stop="20261026035500 +0000" channel="DAZN1.es">
+  <programme start="20261025234600 +0000" stop="20261026035500 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -29204,23 +29257,100 @@ La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida 
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020193500 +0000" stop="20261020233500 +0000" channel="DAZN2.es">
+  <programme start="20261027040400 +0000" stop="20261027080400 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020233500 +0000" stop="20261021000000 +0000" channel="DAZN2.es">
+  <programme start="20261027080400 +0000" stop="20261027120000 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021040000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
+  <programme start="20261027120000 +0000" stop="20261027153000 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los Eagles reciben a los Cowboys para cerrar la séptima semana de la temporada regular de la NFL en el MNF.</desc>
+    <icon src="https://iptv-epg.org/images/BXMYkrEVbbNvzMfHDmdZN9xe8DuPypcJxBGF_Me2VSBACsvWZLHM_1yYYMTmQ932mm6JgfyPE7Hu4ufGORaWAynX9HItmE6_pJU684QxIhVagK1m" />
+    <title lang="es">NFL (T26/27): Philadelphia Eagles - Dallas Cowboys</title>
   </programme>
-  <programme start="20261021040000 +0000" stop="20261021080000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
+  <programme start="20261027153000 +0000" stop="20261027155000 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Pol Espargaró entrevista personalidades del mundo del motor. El programa relata las mejores historias del motociclismo.</desc>
+    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
+    <title lang="es">MotoGP Features</title>
   </programme>
-  <programme start="20261021080000 +0000" stop="20261021120000 +0000" channel="DAZN2.es">
+  <programme start="20261027155000 +0000" stop="20261027165000 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+Del 23 al 25 de octubre se celebra el Gran Premio de Australia, 18ª prueba del Mundial.</desc>
+    <episode-num>S2026</episode-num>
+    <icon src="https://iptv-epg.org/images/A8Recy33hF-5va2AWU8k9R4Ztn2E2lb2f0Q8P5SPyIQsYfPNG_3_Q8l2l5WoYliEL7-odo0tcECWBTYlFylhxOPrWkkV4VolRIZXPiIXg4AwMMfD" />
+    <title lang="es">MotoGP - GP de Australia : Carrera Moto3</title>
+    <live />
+  </programme>
+  <programme start="20261027165000 +0000" stop="20261027175000 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+Del 23 al 25 de octubre se celebra el Gran Premio de Australia, 18ª prueba del Mundial.</desc>
+    <episode-num>S2026</episode-num>
+    <icon src="https://iptv-epg.org/images/xBAF2UvANZv0aDePucMFInSnLR1-yZa9ar0FQJwwbrrJv0r9PYSjdsOE3-eCn724Nl38nrT4asYhGqMrejhbZP5NIu77Go3fjUgLguEtobszg_KF" />
+    <title lang="es">MotoGP - GP de Australia : Carrera Moto2</title>
+    <live />
+  </programme>
+  <programme start="20261027175000 +0000" stop="20261027190000 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+Del 23 al 25 de octubre se celebra el Gran Premio de Australia, 18ª prueba del Mundial.</desc>
+    <episode-num>S2026</episode-num>
+    <icon src="https://iptv-epg.org/images/uI2KSuCa5VstoMRE6t6axc-XrNTCMSI2GjCf2TOXbQ6S4zYo-jovN_y5clHgHaVJyAUlr7lSnzcSlZAmeHnIZgO2So2RsovxZGfN7wo_kV8_LwtE" />
+    <title lang="es">MotoGP - GP de Australia : Carrera MotoGP</title>
+    <live />
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027192500 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.</desc>
+    <icon src="https://iptv-epg.org/images/PkQjaPNWrykV54pbauvMkbkNG5zNio63Piwuz9fuiO7xEAMiwce3On1VUQhX88ZcKKmX6jjHu9UIANL9JH40lKOPzDqbbYWrpqkJeau5T16HebVM" />
+    <title lang="es">Código MotoGP</title>
+  </programme>
+  <programme start="20261027192500 +0000" stop="20261027200500 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <date>2026</date>
+    <desc lang="es">S1 E4
+Revive lo mejor de cada fin de semana en ''The Post'', el programa con el mejor análisis y resúmenes de la jornada de fútbol internacional con Jaume Naveira, Nacho González y David Fer a los mandos.</desc>
+    <episode-num>S1 E4</episode-num>
+    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
+    <title lang="es">The Post</title>
+  </programme>
+  <programme start="20261027200500 +0000" stop="20261027220500 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
+    <icon src="https://iptv-epg.org/images/OPerj9CpeN4zYLkqmkxrq1ddLnTjmYaaf84OIViq9N4khD9yKljANvBf2eQWX5YioSiyOXp8vFuxVlC6w-o7YGw5GDZWTwB0TOaa_lHbaqsCIj4E" />
+    <title lang="es">Premier League (T26/27): Aston Villa - Manchester City</title>
+    <live />
+  </programme>
+  <programme start="20261027220500 +0000" stop="20261027222500 +0000" channel="DAZN1.es">
+    <category lang="es">Entretenimiento</category>
+    <date>2026</date>
+    <desc lang="es">Pepe Reina
+Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.</desc>
+    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
+    <title lang="es">Premier Corner by Guiness 0,0</title>
+  </programme>
+  <programme start="20261027222500 +0000" stop="20261027235200 +0000" channel="DAZN1.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+Sigue la competición E1 Series en su quinta prueba de la temporada en Luanda, Angola.</desc>
+    <episode-num>S2026</episode-num>
+    <title lang="es">E1 Series : Luanda - Finales</title>
+  </programme>
+  <programme start="20261027235200 +0000" stop="20261028035200 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -29445,19 +29575,30 @@ Dos de los mejores nombres del peso superpluma se enfrentan en un choque de esti
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020200000 +0000" stop="20261021000000 +0000" channel="DAZN3.es">
+  <programme start="20261026230500 +0000" stop="20261027040000 +0000" channel="DAZN2.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los Eagles reciben a los Cowboys para cerrar la séptima semana de la temporada regular de la NFL en el MNF.</desc>
+    <icon src="https://iptv-epg.org/images/BXMYkrEVbbNvzMfHDmdZN9xe8DuPypcJxBGF_Me2VSBACsvWZLHM_1yYYMTmQ932mm6JgfyPE7Hu4ufGORaWAynX9HItmE6_pJU684QxIhVagK1m" />
+    <title lang="es">NFL (T26/27): Philadelphia Eagles - Dallas Cowboys</title>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027080000 +0000" channel="DAZN2.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021040000 +0000" channel="DAZN3.es">
+  <programme start="20261027080000 +0000" stop="20261027120000 +0000" channel="DAZN2.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021040000 +0000" stop="20261021080000 +0000" channel="DAZN3.es">
+  <programme start="20261027120000 +0000" stop="20261027160000 +0000" channel="DAZN2.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021080000 +0000" stop="20261021120000 +0000" channel="DAZN3.es">
+  <programme start="20261027160000 +0000" stop="20261027200000 +0000" channel="DAZN2.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
+  </programme>
+  <programme start="20261027200000 +0000" stop="20261028000000 +0000" channel="DAZN2.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -29597,19 +29738,27 @@ Dos de los mejores nombres del peso superpluma se enfrentan en un choque de esti
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020200000 +0000" stop="20261021000000 +0000" channel="DAZN4.es">
+  <programme start="20261027000000 +0000" stop="20261027040000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021040000 +0000" channel="DAZN4.es">
+  <programme start="20261027040000 +0000" stop="20261027080000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021040000 +0000" stop="20261021080000 +0000" channel="DAZN4.es">
+  <programme start="20261027080000 +0000" stop="20261027120000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021080000 +0000" stop="20261021120000 +0000" channel="DAZN4.es">
+  <programme start="20261027120000 +0000" stop="20261027160000 +0000" channel="DAZN3.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027200000 +0000" channel="DAZN3.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
+  </programme>
+  <programme start="20261027200000 +0000" stop="20261028000000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -29753,58 +29902,31 @@ Dos de los mejores nombres del peso superpluma se enfrentan en un choque de esti
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020170000 +0000" stop="20261020190000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <icon src="https://iptv-epg.org/images/ZbtAbJ6PK6sKDeY4YlgOw-Zjg_Rn6hai-tNKzzaN0cqauafS3TEJ_8xsdYhOiZecdcwHJnDcjd1hIbuZp-ute5iq5EtcgRZG0SxeOTrPg8gJRT1E" />
-    <title lang="es">LALIGA EA SPORTS (T26/27): Real Betis - FC Barcelona</title>
-    <live />
+  <programme start="20261027010000 +0000" stop="20261027050000 +0000" channel="DAZN4.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020190000 +0000" stop="20261020203000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Programa 17
-Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.</desc>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">Trending (T26/27)</title>
-    <live />
+  <programme start="20261027050000 +0000" stop="20261027090000 +0000" channel="DAZN4.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020203000 +0000" stop="20261020223000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">¡Llega ElClásico! Por primera vez en la historia, el FC Barcelona se enfrenta al Real Madrid en el Estadi Olímpic Lluís Companys. Los azulgranas y los merengues luchan por hacerse con el liderato de LALIGA EA SPORTS.</desc>
-    <icon src="https://iptv-epg.org/images/8bxaXzKhGRGz6QUmZWbYDUakyAASykZQu_ZFqkYbNbTrf840ZGp1XLAvssFMpvU-lDu5wPAEQ_btyShlFiAR-K47jTSY_xtBxWQrqauqwtLCGTUO" />
-    <title lang="es">LALIGA EA SPORTS (T23/24): Barcelona - Real Madrid</title>
+  <programme start="20261027090000 +0000" stop="20261027130000 +0000" channel="DAZN4.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020223000 +0000" stop="20261020224500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): SD Eibar - RCD Mallorca</title>
+  <programme start="20261027130000 +0000" stop="20261027170000 +0000" channel="DAZN4.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020224500 +0000" stop="20261020230000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Real Sporting - Albacete BP</title>
+  <programme start="20261027170000 +0000" stop="20261027210000 +0000" channel="DAZN4.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261020230000 +0000" stop="20261021030000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
+  <programme start="20261027210000 +0000" stop="20261028010000 +0000" channel="DAZN4.es">
+    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
+    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261021030000 +0000" stop="20261021070000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20261021070000 +0000" stop="20261021100000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021113000 +0000" channel="DAZNLaLiga.es">
+  <programme start="20261021094500 +0000" stop="20261021113000 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <date>2026</date>
@@ -29812,7 +29934,6 @@ Espacio diario para el repaso de lo más actual del fútbol internacional. De lu
 La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
     <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">El Post de DAZN (T26/27)</title>
-    <live />
   </programme>
   <programme start="20261021113000 +0000" stop="20261021130000 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
@@ -30141,21 +30262,14 @@ Espacio diario para el repaso de lo más actual del fútbol internacional. De lu
     <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Granada CF - Real Valladolid CF</title>
   </programme>
-  <programme start="20261024101500 +0000" stop="20261024103000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Levante - Athletic</title>
-  </programme>
-  <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="DAZNLaLiga.es">
+  <programme start="20261024101500 +0000" stop="20261024104500 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <desc lang="es">La Selección ha hecho historia en el Mundial. La cita de México, Canadá y Estados Unidos quedará guardada por siempre en la memoria de la afición española. El combinado dirigido por Luis de la Fuente alzó en Nueva York la copa y bordó la segunda estrella en el escudo.</desc>
     <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">Bordando la segunda estrella</title>
   </programme>
-  <programme start="20261024110000 +0000" stop="20261024123000 +0000" channel="DAZNLaLiga.es">
+  <programme start="20261024104500 +0000" stop="20261024123000 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
     <date>2026</date>
@@ -30163,7 +30277,6 @@ Espacio diario para el repaso de lo más actual del fútbol internacional. De lu
 La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
     <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
     <title lang="es">El Post de DAZN (T26/27)</title>
-    <live />
   </programme>
   <programme start="20261024123000 +0000" stop="20261024140000 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
@@ -30373,37 +30486,15 @@ J10 Athletic Club - Getafe CF.</desc>
     <title lang="es">DAZN Post (T26/27)</title>
     <live />
   </programme>
-  <programme start="20261025143000 +0000" stop="20261025144500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Entretenimiento</category>
-    <date>2026</date>
-    <desc lang="es">Álvaro Arbeloa, de formar talento en Valdebebas a competir en la Premier
-Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.</desc>
-    <icon src="https://iptv-epg.org/images/vlbfHTMJNO_Mh1_UwwDOhV91y_kJsk5T_nM4_OhUyiNnqoluLc7Ax0G77BLK3LQ8jKBrwI0_rd5685ppClEnNhMl5YcPJht2LLm_MZE7VLvKkjvI" />
-    <title lang="es">Premier Corner by Guiness 0,0</title>
-  </programme>
-  <programme start="20261025144500 +0000" stop="20261025150000 +0000" channel="DAZNLaLiga.es">
+  <programme start="20261025143000 +0000" stop="20261025160000 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
     <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/j1te0eLDRHvO9DKC3G5oVLFyyfgvzlWTFXTXtqb_7Lq8jF9jqoAogxERc3FQN8cVcYRQ0_BNfL0PxFXr11OTgb0rJzVqkZOlC5Oes7QbbQzjrlJ2" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T25/26): Barcelona - Real Madrid</title>
-  </programme>
-  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Documentales</category>
-    <credits>
-      <director>Adrià Vila Pujals</director>
-      <director>Ivan Fanlo Torrecilla</director>
-      <actor>Mauricio Pochettino</actor>
-      <actor>Andoni Zubizarreta</actor>
-      <actor>Axel Torres Xirau</actor>
-      <actor>Joan Verdú</actor>
-      <actor>Jorge Valdano</actor>
-      <actor>Ricard Torquemada</actor>
-    </credits>
     <date>2026</date>
-    <desc lang="es">El Mundial de 2026 podría ser el último en el que coincidan Cristiano Ronaldo y Lionel Messi. Con este telón de fondo, este documental realiza un viaje al origen de la rivalidad que protagonizó el fútbol moderno y convirtió LaLiga en un fenómeno global.</desc>
-    <icon src="https://iptv-epg.org/images/1RLKJvXlkqTZJwvCXjRTURSPrmVlNI5aw5noqKV_eqSbGbWwubCq-pif12DvYG-TOXSyAC28-x2MDmOM_nI4HJr0MpMoGmGacBxC7n0Wll3fxODFl40PogRPONG8Zf0EPz-9" />
-    <title lang="es">El último duelo</title>
+    <desc lang="es">Programa 20
+Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.</desc>
+    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
+    <title lang="es">Trending (T26/27)</title>
+    <live />
   </programme>
   <programme start="20261025160000 +0000" stop="20261025190000 +0000" channel="DAZNLaLiga.es">
     <category lang="es">Deportes</category>
@@ -30571,6 +30662,142 @@ Edición especial de La Dazoneta.</desc>
     <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): FC Andorra - Burgos</title>
   </programme>
   <programme start="20261026230000 +0000" stop="20261027030000 +0000" channel="DAZNLaLiga.es">
+    <desc lang="es">DAZN LaLiga.</desc>
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027070000 +0000" channel="DAZNLaLiga.es">
+    <desc lang="es">DAZN LaLiga.</desc>
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20261027070000 +0000" stop="20261027100000 +0000" channel="DAZNLaLiga.es">
+    <desc lang="es">DAZN LaLiga.</desc>
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20261027100000 +0000" stop="20261027120000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <icon src="https://iptv-epg.org/images/xd_ruTK-e4YO35k5eVhRMH2WoZI2jQubshBU_MY4aH8siGURb6MznByuH4a5KvsGV9Gne3-pk8Ojt-07H3nJHjNp6rXtQ-hswlyvrp0KVZWXCyrY" />
+    <title lang="es">LALIGA EA SPORTS (T26/27): R. Racing Club - RCD Espanyol de Barcelona</title>
+    <live />
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027121500 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): CE Sabadell - CD Tenerife</title>
+  </programme>
+  <programme start="20261027121500 +0000" stop="20261027123000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Albacete BP - CD Eldense</title>
+  </programme>
+  <programme start="20261027123000 +0000" stop="20261027124500 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Cádiz CF - Ceuta FC</title>
+  </programme>
+  <programme start="20261027124500 +0000" stop="20261027130000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): CD Castellón - Real Sporting</title>
+  </programme>
+  <programme start="20261027130000 +0000" stop="20261027143000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <date>2026</date>
+    <desc lang="es">Programa 22
+Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.</desc>
+    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
+    <title lang="es">Trending (T26/27)</title>
+    <live />
+  </programme>
+  <programme start="20261027143000 +0000" stop="20261027144500 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Valencia - Villarreal</title>
+  </programme>
+  <programme start="20261027144500 +0000" stop="20261027150000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Atlético de Madrid - Deportivo</title>
+  </programme>
+  <programme start="20261027150000 +0000" stop="20261027151500 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Real Sociedad - Levante UD</title>
+  </programme>
+  <programme start="20261027151500 +0000" stop="20261027153000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Sevilla - Osasuna</title>
+  </programme>
+  <programme start="20261027153000 +0000" stop="20261027170000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <date>2026</date>
+    <desc lang="es">Programa 7
+La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">El Post de DAZN (T26/27)</title>
+    <live />
+  </programme>
+  <programme start="20261027170000 +0000" stop="20261027190000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <icon src="https://iptv-epg.org/images/zqUheMVPt6DeTVFkCLjxRqp49AGo8zaXWZBJnvIkDudEz_t1-SLghzPp7JuEf1bcGnUohRqOHjstSpSKC-IDV8Rp5HCGQDHuab3SrrfVA1U8BByp" />
+    <title lang="es">LALIGA EA SPORTS (T26/27): FC Barcelona - Real Madrid</title>
+    <live />
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027203000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <date>2026</date>
+    <desc lang="es">Programa 22
+Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.</desc>
+    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
+    <title lang="es">Trending (T26/27)</title>
+    <live />
+  </programme>
+  <programme start="20261027203000 +0000" stop="20261027223000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <icon src="https://iptv-epg.org/images/pXEauBopZH9ChSNjSVRRasX4YcY7zpY26mKlWUcMQWbA3Qt3zPOYlzIyNgwPLNolI6nLTiq0Y7714vYC9BOaJL2ICbGICnHeNfJe8584Mib5DtkF" />
+    <title lang="es">LALIGA EA SPORTS (T26/27): RC Celta - Real Betis</title>
+    <live />
+  </programme>
+  <programme start="20261027223000 +0000" stop="20261027224500 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Córdoba CF - SD Eibar</title>
+  </programme>
+  <programme start="20261027224500 +0000" stop="20261027230000 +0000" channel="DAZNLaLiga.es">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): CD Leganés - RCD Mallorca</title>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261028030000 +0000" channel="DAZNLaLiga.es">
     <desc lang="es">DAZN LaLiga.</desc>
     <title lang="es">DAZN LaLiga</title>
   </programme>
