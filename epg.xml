@@ -4772,16 +4772,6 @@ Samenvatting van de wedstrijd Excelsior '31 - ADO Den Haag uit de 1e ronde van d
     <icon src="https://iptv-epg.org/images/qj__uwyxb9s_idPhUWRrHocm3g32E-kuAOA9WcmfqUa5a_LXGH3JGAkl_UsChPHI8fIOigSboDQY4bkX2IujfwUn_Y3rMY64sP03b_kTC0DV6nskaQPea4KKJdyjyDSp6T86ZXhWIie8b6tsJF1nMieIYs2jrBy672IoCL8o85jyZdkaGRO17FFXpKY_mZuZHU3kLPhNF89XYVs-rBRi0rSB9VF9BIQLXU-4O_6y4DyrVmSqUi2NCg1MAN0cNyx0sLm8UtvZspWAXJWjvz-N8UhI3JPVnLJshUGMtXJLcWJuLPSY0A" />
     <title lang="nl">KNVB Cup</title>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021023000 +0000" channel="ESPN4.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Ijshockey</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Dallas Stars - Boston Bruins
-Verslag van de wedstrijd Dallas Stars - Boston Bruins, gespeeld in de NHL.</desc>
-    <icon src="https://iptv-epg.org/images/sfeG6hIgbXZ-eHH1KW_UuRE0qD_teQZokyP0w6-hDT2mgf4Dw-BjknPAvH6UNN5dBn8d-Yr_xNRtz4r_DNZefiYZPBnJMtxqCUxiH4L3pc_BIMn2rYdDzXOeBxgwPm5UQYIV0GwkiyH4xlvpLbefrIN3rL2uAQM84uJacwcT7KD2ptx0FvPumWvJFFhyWf63SQweE3AlSKQExjRrL_0LThsA-oouDzphtQ87L3wPDfzuIO87OefatCRaHA5mFDzJabPmnEY-iveQCJfN7CC6xovSNJ2vDbxQEr8SVeq5fZHN7cIRUw" />
-    <title lang="nl">NHL</title>
-  </programme>
   <programme start="20261021023000 +0000" stop="20261021050000 +0000" channel="ESPN4.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Ijshockey</category>
@@ -13512,16 +13502,6 @@ LALIGA match highlights.</desc>
     <title lang="en">LaLiga Highlights</title>
     <live />
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021030000 +0000" channel="PremierSports2.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Ice Hockey</category>
-    <date>2026</date>
-    <desc lang="en">Boston Bruins at Dallas Stars
-The Dallas Stars and the Boston Bruins collide in this NHL regular season matchup from American Airlines Center.</desc>
-    <icon src="https://iptv-epg.org/images/VAEdEB2lCS5kyqCjw9znREAplM5TFoUMstCaokHfg6Zv8AFyx5jX8ezqrE9jrS5P1F2KJJ32YxjOZeffZ-ruZITDDSZa2_hxmpKjx1G8t_hOhuh-idxCaDQZ55QoKXQnBWL2vekFMx9Qk13mcTNnhpH9fI-xUJQDmldYh08KtdNqxGIfkCrDlkd_LXJ7aUnh9FlMTiujKI9VFCyRmJIw8bCrV85uP6Hrlvwy_L0sf6SUVwFYB0gRlvfsbpelbv31RxcRNiVagv_hnjmsvqa4PvMN5E9RMuOYGUYJxfwRv7ue_kRxMDDoyo3-axkF5WK7c5GpFEIk" />
-    <title lang="en">NHL Hockey</title>
-    <live />
-  </programme>
   <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="PremierSports2.uk">
     <category lang="en">Sports</category>
     <category lang="en">Documentary</category>
@@ -18581,15 +18561,6 @@ The New York Knicks compete with the Detroit Pistons in the NBA.</desc>
     <icon src="https://iptv-epg.org/images/rCL9s4uyzTJnDxOKOB1Yy7DsbbsBEHaSAQ3bgx_mpy5Y3fjjacFAvDbqm_dMPAvA3RdCErtFg59LqyPjGZKco874KHYL8coZrx-S3m7EeuIKkZtaIjc8JhW4uPk89arDXAR1iRu2uOWdk4g4w2ENT_8fDSC4q824nDbJvXz3jqjBJ8WxlTdvmy6sSlGQ77JUb2F5-V5g_nskLsngMhVcRzeS07PnRm2b4h-KLOMheqwnGe1pUcsVY6U8o_pI0scEm7-HV3F2OfiDnz-9gOI3trsXYtxK62Tu8PdFegljyxmbTa2m_r0pGEEiOvgHooSCJmBlb-vt" />
     <title lang="en">NBA Basketball</title>
     <live />
-  </programme>
-  <programme start="20261021000000 +0000" stop="20261021020000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2020</date>
-    <desc lang="en">2005/06: Arsenal v Manchester United
-A chance to relive a classic Premier League clash between Manchester United and Arsenal from start to finish. Here, the sides meet in a six-goal thriller at Highbury back in 2005.</desc>
-    <icon src="https://iptv-epg.org/images/UXGn1mJEXvh0Uq4Np55nThrl8Fw2MicAMGm044Yl0fxyLY_TFJtSSJlk08iquzcx37S2vgnFkByZ3CF0LZQXTZ8dROYD1Q1FKQgTEFURKhs9TSbtn4nFoaedFQTZgDyNxcK6ZnOx3iTucFV0ETFdE0he2xoN5xAk2fSqkrZCT9xRbySjqOpTTReo8g1AfrB1vVP8biiWkEKJZCVoHCdOG6HqPVCq0_-2XTmAsZoeTDid1LcthC1BSo30t1D11aRjhbbyqGgmyMTRkPl8Waycz2b9fOIoRA1J4P2FSYFHvVo25uulFee6NM6BZNA7OcAAlAyok9g_" />
-    <title lang="en">Prem Classics</title>
   </programme>
   <programme start="20261021020000 +0000" stop="20261021021500 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
@@ -24175,16 +24146,6 @@ Action from the National Women's Soccer League, the top tier of women's football
     <icon src="https://iptv-epg.org/images/Uy8AG8wItKk377IzmQcniTvE0cWXQbq79JCd0oH4Xh-DnVXvSb5Q91PUHuiq-pmswk2iP-bjpl8pujO_QP4U9VlDnxMIOsxJeT6pftU8OcBMvHZ7tFEFq19L-bzQDvfBUzy11OT7dnzO0FFAtP0i6v57tr2NY9luhhp1XbrR3sSJm5bJwQouNyH6cga15k-Hhvk_LoWt0V2itieKNM3avTeupCyADGnB0G3tpKimia-64Xd567LPxj4qbpZNKliVMhrIVpQgDvrX5aLNNAXLsGZKBWxHYuXKWH4hBNQh4KuQiX9IwLT_2umjJJs6Ed8ldhqsk1Tn" />
     <title lang="en">NWSL</title>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021003000 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Manchester City v AEK
-Action from the UEFA Champions League.</desc>
-    <icon src="https://iptv-epg.org/images/r2y1rcAWGCe0UOF6FyMqZmKxiIU5tKjtgmyOWG-M8czSUX0EH2telUXMQOm3olxUjO4OMsWlyGqMXfqpWg2tBufFQ5uRdguTleq5FLnsBwWoG-uS9ymiYkHAx2VW5A8KH4WCFq06pGhZy2VD8rnsrj66nXZ02P7duCGL0V9DtXYC0A3FnfrCSjCMQr6kadYd7KML0IuQE25zMgL4QSWPq5uz67B60AvfiRnoaIqXJ8DcaPLI7CWxKYM8yUNsE5kW76A-uvX4NnU5EQsPZHZClai7Nj4emFhr-zCGgaoK83cKZtv_Bmw8D5IDTJJbalZ3iyYTUOvd" />
-    <title lang="en">UEFA Champions League Football</title>
-    <live />
-  </programme>
   <programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -26183,15 +26144,6 @@ Highlights from the final of the BetVictor Northern Ireland Open 2026.</desc>
     <icon src="https://iptv-epg.org/images/u4TaGF_-lSEnJIe-va3pPfMU5tKJCKQG7Zg4mLTiMVNKhCMAV5zeCaSiLq4W1cOcYJcHqAdCYXtjwNP-0Mu8VDU5u9qLPcMqWv9LUQyLdocjmGhd9tLtEeAULBlCZrr9u7SsygV6fvOGW1G5PRZeY4Oc5nJSgRQRSbx3KkznxXRh6nl6sIODrAMQmAyvwJh2ArNdChLJqpzC53Swf1o6NCNmbGZMJZQ49S0M3QCUd1wbWY6fk-Avdh_pCtHgaRLpHw5Yvc7-SBKG38Wmaml-5G4XrReDWzN4v_5BD0WpTuYaNxwnZT9FbN0tWX4hMXoZDLMdxRfc" />
     <title lang="en">Northern Ireland Open Snooker</title>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021010000 +0000" channel="TNTSports4.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Equestrian</category>
-    <date>2026</date>
-    <desc lang="en">Oslo
-Action from the Longines FEI Jumping World Cup Western European League 2026/2027 season opener, taking place at X Meeting Point in Oslo, Norway.</desc>
-    <icon src="https://iptv-epg.org/images/z3w43dOtm4OkY21-j7zqNoi79Kh0KOFFd-kBZwnHX0R3bOXokWzibXIQ0RoZqRXNTityc-cebLf2HMGdZTsfIzBZeE_AYitEha0ph5eyDerS94HpBipQI23IIEHezTy9scLBxgpn16cB6zQBdK1YcXH5BzeD_a6AlTJrBzLfXThfm2zQtehLhiWCFy6T8oC0JHus5IUZ3El1vAjzW24WPgoCjcdgSPs7h1WYuKXXbEBFPoRe1DE4qvIqMsZuU136wKLmsaZIsqFhkBqcXhFurDiyZtqgmJB5fOVIeKkAjNJewUuoQUHwQXATYt2T1y2Rw-k6zACt" />
-    <title lang="en">FEI World Cup Jumping</title>
-  </programme>
   <programme start="20261021010000 +0000" stop="20261021030000 +0000" channel="TNTSports4.uk">
     <category lang="en">Sports</category>
     <category lang="en">Motoring</category>
@@ -27460,30 +27412,6 @@ Action from UFC 333 at Etihad Arena in Abu Dhabi, headlined by the featherweight
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20261020175500 +0000" stop="20261020201500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Al-Nassr FC - Neom SC
-Aus dem King Saud University Stadium, in Saudi Arabien.</desc>
-    <icon src="https://iptv-epg.org/images/BzIhQKnbpQIymiD9GyyTYAGtBxaLt5YlfHhSnowBxVpHh4SMZOpvqUs12Td2H5lnddPNPZm04lPGl2LFE3yWvVCae8q9-5pKGJLh5VU9KAVYHl1Ek1tc7h5_YbjE2BGWcU4VVSO3xs8V4NYaJQG_L_64a_yEQZ8" />
-    <title lang="de">LIVE Al-Nassr - Neom SC, Saudi Pro League (10. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20261020201500 +0000" stop="20261020222000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2012</date>
-    <desc lang="de">Übertragung der Spiele der brasilianischen Serie A.</desc>
-    <icon src="https://iptv-epg.org/images/RYBbcCZPvFICI5REQ6P9opeYDp8aDRxuEXirEoLacEiPWwZ5OeWL2qFLCokxhee3gEMJrNdai1yP_0Y2S5TO83f7yh6WY83jTJc9rM9qqTZoZ22ZuSU4Rbq3WXNTnHE-Ra4_SnyYrBKb0bOUqkK7NDsZUqObNyM" />
-    <title lang="de">Atletico Mineiro - Coritiba FC, Campeonato Brasileiro (31. Spieltag)</title>
-  </programme>
-  <programme start="20261020222000 +0000" stop="20261021002500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <desc lang="de">(Wh. v. 14.10.26) Boca Juniors (ARG) - Vasco da Gama (BRA), CONMEBOL Sudamericana (Halbfinale, Hinspiel).</desc>
-    <title lang="de">Boca Juniors (ARG) - Vasco da Gama (BRA), CONMEBOL Sudamericana (Halbfinale, Hinspiel)</title>
-  </programme>
   <programme start="20261021002500 +0000" stop="20261021023000 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
@@ -30654,41 +30582,6 @@ Edición especial de La Dazoneta.</desc>
     <display-name>PL - Polsat Sport Premium 2</display-name>
     <icon src="https://iptv-epg.org/images/6MjJoJG_KiMIImKGEzEgUH_s6kM3xIglJNoD3b5rv6fwhxM7KMA25zf5N6KyhqUT-QDkTt9u-X1l2EROrM1eEz3Tptzu1BhKu7x_UiJ7MgT5Ifx4Jp9cSAVfZqA" />
   </channel>
-  <programme start="20261020170000 +0000" stop="20261020183000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Stade Rennais w składzie z Sebastianem Szymańskim w pierwszym meczu fazy ligowej zremisowało bezbramkowo ze Sturm. Natomiast OFI Kreta po ponad dwudziestu latach wróciło do europejskich rozgrywek i sprawiło ogromną sensację, pokonując Hoffenheim 2:0.</desc>
-    <icon src="https://iptv-epg.org/images/Ng_l6CsFv45TrV4S_IAtpRylv8-Vb09G00Q58UN4COX9WCT_Y5zynP-jBds7kmvSerpzWLvNvq6DQGxEAhAZPsUe82-02XYZOExAR1j0sw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Stade Rennais FC - OFI Kreta FC</title>
-  </programme>
-  <programme start="20261020183000 +0000" stop="20261020200000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Na stadionie Abanca Balaídos Celta Vigo podejmie Juventus. Hiszpański zespół w poprzednim meczu Ligi Europy przegrał z Omonią Nikozja 1:0. Gospodarzy czeka trudne zadanie. Klub z Turynu prowadzi w tabeli po wysokim zwycięstwie 5:0 nad NEC Nijmegen.</desc>
-    <icon src="https://iptv-epg.org/images/_6zuPYK0Xszts1tiUeu725LqpOjOWJsmQzvepqhShkDkLMtvvTkGqrsFvtGnjvWjPCnRTYVIOlFTD3mP8Xe6wOh6eb7PGkqgfz7Oyiaj5A" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Celta Vigo - Juventus FC</title>
-  </programme>
-  <programme start="20261020200000 +0000" stop="20261020213000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Na starcie fazy ligowej Ligi Europy Białostoczanie ulegli Olympiakosowi w Pireusie 1:2. W spotkaniu z mistrzem Armenii spróbują pójść śladem Sparty Praga, która miesiąc temu pokonała tego przeciwnika 4:1. Nie należy go jednak lekceważyć. Klub regularnie występuje w europejskich pucharach i potrafi sprawiać problemy faworytom.</desc>
-    <icon src="https://iptv-epg.org/images/UzAqWDGCaUkNUariBxJHGKvBr7kuVInMka57ecqbo3tavsTzbFblZsz4NSXlvEbUehyAocr9lYtb98_abg39TYdQFOj5zoEISvVmNsX8Tw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Jagiellonia Białystok - FC Ararat-Armenia</title>
-  </programme>
-  <programme start="20261020213000 +0000" stop="20261020230000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Mistrz Polski rywalizację w fazie ligowej Ligi Europy rozpocznie od meczu z Crystal Palace FC. Angielski zespół w poprzednim sezonie potwierdził swoją klasę w europejskich pucharach, wygrywając Ligę Konferencji. Lech Poznań czeka więc wymagające starcie.</desc>
-    <icon src="https://iptv-epg.org/images/RLNAdCwmxZDEGv4biQmA9CcwJmKjZUpCC9ICuDgcKmk-AgEiISyF9CtqPOwk493wqTd5pd0-Zrrms6JBmEhODVrKHj2d5BvlNECV0TyCvg" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Crystal Palace FC - Lech Poznań</title>
-  </programme>
-  <programme start="20261020230000 +0000" stop="20261021010000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">tenis</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Pora na najważniejszy pojedynek piętnastej odsłony turnieju w Szanghaju. Zawodnik, który z finałowej konfrontacji wyjdzie jako triumfator, w nagrodę otrzyma czek na 1,2 mln dolarów. Rok temu ze zwycięstwa cieszył się Valentin Vacherot. Z tej edycji Monakijczyk odpadł już w trzeciej rundzie.</desc>
-    <icon src="https://iptv-epg.org/images/Nr5GOx58Qt-CWhu8GNG6Yrh1tVTBX1A4LrObY9gkAwZJrV7N9Yopu6bz940U55NFlX4pYd3U6LOp4VzmM1pEAOlttONnPd6kFQTcfS7azQ" />
-    <title lang="pl">Tenis: Turniej ATP w Szanghaju - mecz finałowy gry pojedynczej</title>
-  </programme>
   <programme start="20261021010000 +0000" stop="20261021023000 +0000" channel="PolsatSportPremium1.pl">
     <category lang="pl">piłka nożna</category>
     <category lang="pl">Sports</category>
@@ -31237,45 +31130,6 @@ Edición especial de La Dazoneta.</desc>
     <icon src="https://iptv-epg.org/images/uRTjN1D30xeJ04doWwgiNcOJWpal7zGkXDECTnFAgjIZqo9vgbF52b1e_dAQUAEFFj4la6tTKWLlxj8wpzIWv68261sl9kOMSsDEDTARVg" />
     <title lang="pl">Brak zaplanowanych transmisji sportowych</title>
   </programme>
-  <programme start="20261020173000 +0000" stop="20261020190000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Molde FK - Legia Warszawa - 15.02.2024 - 1/16 finału - sezon 2023/2024 - 1. mecz
-Archiwum Ligi Konferencji UEFA.</desc>
-    <icon src="https://iptv-epg.org/images/RQF54N-UKcZQADVmMtmfs1Q9vno_QsD9aseVu1l1cgKyelichKuhesGIw49b6m4AOMCErSFKl3YxwyeA_yjBBFRfRf27LhiFcEBP2Lyyww" />
-    <title lang="pl">Archiwum Ligi Konferencji UEFA</title>
-  </programme>
-  <programme start="20261020190000 +0000" stop="20261020203000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Finał odbędzie się na stadionie Besiktasu w Stambule. Wystąpią w nim drużyny, które dotąd nigdy nie sięgnęły po żaden z europejskich pucharów. Aston Villa była tego bliska, ale w sezonie 1981/82 uległa w finale Pucharu Europy Bayernowi Monachium. Teraz zmierzy się z innym przedstawicielem Bundesligi, SC Freiburgiem, i będzie zdecydowanym faworytem tego pojedynku.</desc>
-    <icon src="https://iptv-epg.org/images/Y5iap4COfBgX5SiGORq8kEkfKqZAHrz8kNgW16tU15KflKnUvgSF9ivhSJY2ni1_DbO-ZbOEPoX-o9zl_8xHKjj8r_pvytZPK7Aaou8tkQ" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz finałowy: SC Freiburg - Aston Villa FC</title>
-  </programme>
-  <programme start="20261020203000 +0000" stop="20261020220000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Legia Warszawa - Molde FK - 22.02.2024 - 1/16 finału - sezon 2023/2024 - 2. mecz
-Archiwum Ligi Konferencji UEFA.</desc>
-    <icon src="https://iptv-epg.org/images/MtZuxjlXGVV85BRVhLK7oyDyr4KlwLtqvm2TRZ5w51XY8wJ62zyRJ_PtTGVRCTYJgeGFurOGAB7yjIk4IBdbyOraNs4H1sdPE3XeXqH45Q" />
-    <title lang="pl">Archiwum Ligi Konferencji UEFA</title>
-  </programme>
-  <programme start="20261020220000 +0000" stop="20261020233000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Liga Europy UEFA
-Duma Podlasia w pierwszej kolejce fazy ligowej Ligi Europy zmierzy się z Olympiakosem SFP. Jagiellonia Białystok awansowała do rozgrywek po zwycięskim dwumeczu z Iberią 1999 w finale kwalifikacji. W obu spotkaniach podopieczni Adriana Siemieńca okazali się lepsi, wygrywając 4:0 i 2:1. Grecki zespół walczył natomiast o Ligę Mistrzów, jednak na drodze do fazy głównej uległ NEC Nijmegen 1:2 i tym samym trafił do rozgrywek drugiej rangi w europejskich pucharach.</desc>
-    <icon src="https://iptv-epg.org/images/UzAqWDGCaUkNUariBxJHGKvBr7kuVInMka57ecqbo3tavsTzbFblZsz4NSXlvEbUehyAocr9lYtb98_abg39TYdQFOj5zoEISvVmNsX8Tw" />
-    <title lang="pl">Piłka nożna - mecz: Olympiakos SFP - Jagiellonia Białystok</title>
-  </programme>
-  <programme start="20261020233000 +0000" stop="20261021010000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Liga Europy UEFA
-Mistrz Polski rywalizację w fazie ligowej Ligi Europy rozpocznie od meczu z Crystal Palace FC. Angielski zespół w poprzednim sezonie potwierdził swoją klasę w europejskich pucharach, wygrywając Ligę Konferencji. Lech Poznań czeka więc wymagające starcie.</desc>
-    <icon src="https://iptv-epg.org/images/RLNAdCwmxZDEGv4biQmA9CcwJmKjZUpCC9ICuDgcKmk-AgEiISyF9CtqPOwk493wqTd5pd0-Zrrms6JBmEhODVrKHj2d5BvlNECV0TyCvg" />
-    <title lang="pl">Piłka nożna - mecz: Crystal Palace FC - Lech Poznań</title>
-  </programme>
   <programme start="20261021010000 +0000" stop="20261021023000 +0000" channel="PolsatSportPremium2.pl">
     <category lang="pl">piłka nożna</category>
     <category lang="pl">Sports</category>
@@ -31760,36 +31614,6 @@ W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramac
     <display-name>IL - ספורט 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20261020171000 +0000" stop="20261020175000 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. חיפה - ע. טבריה</title>
-  </programme>
-  <programme start="20261020175000 +0000" stop="20261020201500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי סינגפור 2026: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
-  <programme start="20261020201500 +0000" stop="20261020203500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. פ''ת - מ. פ''ת</title>
-  </programme>
-  <programme start="20261020203500 +0000" stop="20261020225500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי סינגפור 2026: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
-  <programme start="20261020225500 +0000" stop="20261020234000 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. חיפה - ע. טבריה</title>
-  </programme>
-  <programme start="20261020234000 +0000" stop="20261021020500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי סינגפור 2026: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
   <programme start="20261021020500 +0000" stop="20261021024500 +0000" channel="5SPORT4K.il">
     <desc lang="he">שידור חוזר: כדורגל. הפועל פתח תקווה נגד מכבי פתח תקווה, גביע הטוטו, מחזור 1.</desc>
     <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
@@ -32139,56 +31963,6 @@ W programie widzowie zobaczą fragmenty pamiętnych spotkań rozegranych w ramac
     <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
     <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
     <title lang="he">ה. חיפה - ע. טבריה</title>
-  </programme>
-  <programme start="20261020162500 +0000" stop="20261020181500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל ב''ש - הפועל ירושלים, ליגת ווינר, מחזור 7, עונת 2026/27. האלופה רוצה ניצחון נוסף בצמרת, האורחת מנסה להתאושש מהתבוסה במחזור הקודם. שדר: דור הופמן, פרשן: אורי אוזן.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">ה. ב''ש - ה. י-ם</title>
-  </programme>
-  <programme start="20261020181500 +0000" stop="20261020192000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: לירן שכנר, אלי דריקס ומיכאל זנדברג מדברים על כל מה שחם בליגת העל, אצלנו ובעולם.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">רביבו ושכנר</title>
-  </programme>
-  <programme start="20261020192000 +0000" stop="20261020193500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. טוטנהאם - קובנטרי, הליגה האנגלית, מחזור 7, עונת 2026/27. טוטנהאם תנסה להשיג ניצחון בכורה במפגש מול קובנטרי ולמפארד שמגיעים אחרי ניצחון גדול במחזור הקודם. שדר: רמי ויץ, פרשן: דן איינבינדר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">טוטנהאם - קובנטרי</title>
-  </programme>
-  <programme start="20261020193500 +0000" stop="20261020195000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. אברטון - צ'לסי, הליגה האנגלית, מחזור 8, עונת 2026/27. הבלוז של צ'אבי רוצים להמשיך במומנטום ופוגשים את אברטון לקרב כחול גדול. שדר: יורם ארבל, פרשן: אבי נמני.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">אברטון - צ'לסי</title>
-  </programme>
-  <programme start="20261020195000 +0000" stop="20261020202000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. סיכום המחזור השביעי בליגת ווינר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">סיכום המחזור בליגת ווינר</title>
-  </programme>
-  <programme start="20261020202000 +0000" stop="20261020221000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל ב''ש - הפועל ירושלים, ליגת ווינר, מחזור 7, עונת 2026/27. האלופה רוצה ניצחון נוסף בצמרת, האורחת מנסה להתאושש מהתבוסה במחזור הקודם. שדר: דור הופמן, פרשן: אורי אוזן.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">ה. ב''ש - ה. י-ם</title>
-  </programme>
-  <programme start="20261020221000 +0000" stop="20261020222500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. מכבי פ''ת - מכבי חיפה, ליגת ווינר, מחזור 7, עונת 2026/27. הירוקים ובכר מחפשים עוד 3 נקודות, זיו אריה והמארחת אחרי 4 הפסדים רצופים. שדר: לירן שכנר, פרשן: גילי ורמוט.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">מ. פ''ת - מ. חיפה</title>
-  </programme>
-  <programme start="20261020222500 +0000" stop="20261020230000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. סיכום המחזור ה-11 בצ'מפיונשיפ.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">סיכום המחזור בצ'מפיונשיפ</title>
-  </programme>
-  <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. סיכום המחזור השביעי בליגת ווינר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">סיכום המחזור בליגת ווינר</title>
-  </programme>
-  <programme start="20261020233000 +0000" stop="20261021020000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורסל. אריס סלוניקי של ספאנוליס פייבוריטית מול רוסטוק ועדכונים מהמפגש בין מנרסה לרומא, היורוקאפ, מחזור 4, עונת 2026/27. שדר: שחר איוואן פרשן: מאיר טפירו.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">מנרסה - רומא משולב</title>
   </programme>
   <programme start="20261021020000 +0000" stop="20261021030000 +0000" channel="ספורט4HD.il">
     <desc lang="he">שידור חוזר: כדורגל. סיכום משחקי המחזור השביעי בליגה האנגלית.</desc>
