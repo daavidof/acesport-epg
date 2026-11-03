@@ -7577,16 +7577,6 @@ In Sunday NFL Countdown komt alles aan bod over de NFL.</desc>
     <icon src="https://iptv-epg.org/images/cS-lsOvBfO8-EgbutXtjlZ0JzYiyvdCIklu7naJpmIVo6KdZB5PD6PDrjmLAF5VxsqwdwEiW2jtHORH4YzuMV1da64ObiV1oeTaCZqA9JcZCc9lLl6ccR9Kkcd-33byIVzbPsgd7TVy0V-U6_5ei0bybovuU8ZWbr0K-welq3wwrN7lIXbSBsZhfU51--Obqkvcw4fdEcrz0d0L5MmbmtYcIg1cPETlyBuLPJJOcIKGeeZoE2pkIIdqAbbIfnPNfpwbZCct1UtFgC1WID2jlAznr66KTMkTI9PBbYjL1ygmb23_25g" />
     <title lang="nl">Sunday NFL Countdown</title>
   </programme>
-  <programme start="20261102000500 +0000" stop="20261102010000 +0000" channel="ZiggoSport.nl">
-    <category lang="nl">Sport</category>
-    <category lang="nl">Motorsport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="nl">Xfinity 500
-Hoogtepunten van de Xfinity 500, gereden op de Martinsville Speedway in Martinsville, Virginia.</desc>
-    <icon src="https://iptv-epg.org/images/oIg86Kr9FhRgjimnAqHfGCVxnqPczWSAopFkDqAn7A-MP0tzsbY-fzsSSLTIUxq3xNjOBDRwDHVRp1f63zxS1WCqU91Cmk36LakBNm-SjCGI3VZVtXWauSK45xBVhwjYSTQAobIA3ukFIsJh9i0kuZuuE_euefRmZp51pmNvpcdWGWpXC-_K0PoOmzs99Xcr7J6wge8lqaO0CUDfu7jFZV_4UT90r53rTWv_kFwFEZwal_wbafzBFvqc0Osy5I8VwdiglrZcotSmdKYctNNyQaFKICBCJOAWPSZOkUoFF2TXOPVdew" />
-    <title lang="nl">NASCAR Cup Series Hoogtepunten</title>
-  </programme>
   <programme start="20261102010000 +0000" stop="20261102022500 +0000" channel="ZiggoSport.nl">
     <category lang="nl">Sport</category>
     <category lang="nl">Tennis</category>
@@ -18909,15 +18899,6 @@ A match-up during week nine of the 2026 NFL season.</desc>
     <title lang="en">NFL Football</title>
     <live />
   </programme>
-  <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="SkySportsPremierLeague.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <date>2026</date>
-    <desc lang="en">Tottenham Hotspur v Crystal Palace
-Sky Sports broadcasting of live football from the Premier League.</desc>
-    <icon src="https://iptv-epg.org/images/oNOCs9Hs0mH-Di3j7-jNfIT_mwDell-xQWSOL2f3uqkE9CeamXNZr9b4VbuqWdJ6JiM-R0Tk1VKgqOs39cPY4jv7oiAVhLchV7fH_qM_iZX0WScvEH-nVUe0sujzoxqzT6brxAMVbMqUlNT3neSrQ5S5Jbb7ZnOqJz-py21KElQsdPHiwA2gPdXFCISS8i_-ltwmP3x7E5V00AVwob3zyjhOnzEsDePTIyY0wVMP-YTqWv2-VkWPic_S0pCpsapdPIyS_0uap6yWD_pEqks0gMII_9eCUOlk_hMtY1tEZUYCLqMIxa67P1sMCiIpaJ7XkEu-0Mi5" />
-    <title lang="en">Saturday Night Football</title>
-  </programme>
   <programme start="20261102003000 +0000" stop="20261102010000 +0000" channel="SkySportsPremierLeague.uk">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -24310,16 +24291,6 @@ Action from the PREM Rugby Cup.</desc>
     <icon src="https://iptv-epg.org/images/ranImzn_zzvnKt_tOEoli0CMJqDrmVNwuAHPgXCl0Zc8uqz_kHg6HSIv0QGMdY-CY6C0h9rupZs3Mj2ItqQccBq74svfIHKoRrn2AcvMnAVERA-5rAgG6ZHqs06mjxi6XSGW217p76HscvFVqk8v00jQo6a79ojBcxGiIvxkZ0rDcSdHCksly5_3K4XZc9RF6IAcKY_qTBXbsE-pQ_cNhkwAX9PoxN3pMTFFvGjfRJTncKfEjnE0upK5JIQVFxGcy0Ul4mxcQAqVEFo5hgrQMDBy3z0XW2GKgOYejJCryFmN_fTgR36QAiq1oUJcArPTCuIZaL0y" />
     <title lang="en">PREM Rugby Cup</title>
   </programme>
-  <programme start="20261102000000 +0000" stop="20261102001500 +0000" channel="TNTSports3.uk">
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <date>2025</date>
-    <desc lang="en">S25 E211 — New Zealand v India: 1st T20
-A look back at the first T20 between New Zealand and India.</desc>
-    <episode-num>S25 E211</episode-num>
-    <icon src="https://iptv-epg.org/images/QKtpCqtM_lCJSTMCdYomeRQ0PNGrOK3SvF34QeajqVoS_I8Zvel7DTQx5OlGhc1hW8Fy1Zs0nQLlM_3OCUdkjVlOGQ1S_Jxva0WhgxhIC3o-jqScNaUZTpApA5zwaOcHrypcA0xaROGzh3rexp0WCO2z5BYnSrYgJMT0ZdWqEdprAQcKATy1MMAfcv4IV_C7jM7svKrTscFaJ-F_yZZSaqQbRYTxmeE3khCrG1SH3ZOSV8Nq6A54E1Pi1qThcwJTotubYfvlqQMk95GNX0V92HC2FS1jW7mXohSOpL6FrN6KnpWPKeDv7SIBqdPFHE-1kpjECJ8K" />
-    <title lang="en">TNT Sports Cricket Reload</title>
-  </programme>
   <programme start="20261102001500 +0000" stop="20261102003000 +0000" channel="TNTSports3.uk">
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
@@ -27510,42 +27481,6 @@ Highlights from the 2026 WHOOP UCI Mountain Bike World Series Cross-Country Olym
     <display-name>DE - SPORTDIGITAL FUSSBALL</display-name>
     <icon src="https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg" />
   </channel>
-  <programme start="20261101171500 +0000" stop="20261101174500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Es werden die Highlights aus der Liga Profesional präsentiert: leidenschaftliche Fans, rassige Duelle und toller Fußball. All das bietet Argentinien. Um den Titel kämpfen meist River Plate, die Boca Juniors oder Racing Club.</desc>
-    <icon src="https://iptv-epg.org/images/CxruUTc13jXvRem5nJrUv6CpMnlppH6anNrWYjMdEZEdY71ahga3l1tbVr_N3qskDzDcwJHSWhv7uBKPVmDad4a7b4MUnlDyH1QVPzaGAdRkCtv5_DWQXb-3QNg9ByqAEk_uMegiKoBtMo80mI4zNWD-PYgaf7Fv" />
-    <title lang="de">scooore Argentinien! Alle Tore, Highlights Liga Profesional Clausura (14. Spieltag)</title>
-  </programme>
-  <programme start="20261101174500 +0000" stop="20261101202500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Boca Juniors - River Plate
-Aus dem Estadio Alberto Jacinto Armando in Buenos Aires, Argentinien.</desc>
-    <icon src="https://iptv-epg.org/images/Vnd7Il-jEqeLLzcxJzRZDeT32C2-6cUqWJaxlVPwMeKWHl3zC7Vv38cZwtJiZuO7fiCjhM5LRt-m-yPcesS4Gu9-S_f4mkKLpIQe5hW2EsZ7C_kjtAAxhSdVAkW9FDtzSetk3DP7uovQ98axI7WF0Bvo1_OuR7Q" />
-    <title lang="de">LIVE Boca Juniors - CA River Plate, Liga Profesional Clausura (15. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20261101202500 +0000" stop="20261101224500 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">Aus dem Estádio Municipal de Braga in Braga, Portugal.</desc>
-    <icon src="https://iptv-epg.org/images/hhiHCB5WcpRYiSzyCx2rQbWGET18vYub-vWhNEtz9w38m5zxG0t1KA-76MnuL_6AEZJOTX4QZ6rb_tOlJQJiSVsLwpJ46YXrgwZ4gQ9YdojluPTnX-OLTP1y44dM0WvA1IUP5_mJTb66TmtEcvqkRSHlQiqu4V0" />
-    <title lang="de">LIVE Sporting Braga - FC Famalicao, Primeira Liga (10. Spieltag)</title>
-    <live />
-  </programme>
-  <programme start="20261101224500 +0000" stop="20261102005000 +0000" channel="SPORTDIGITALFUSSBALL.de">
-    <category lang="de">Sport</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="de">FC Falkirk - Celtic Glasgow
-Aus dem Falkirk-Stadion in Falkirk, Schottland.</desc>
-    <icon src="https://iptv-epg.org/images/V-p2nzqlUNBSgqMeiUmBRrqD1xHF6kfvlm1Ccs-nLSn3tN_9Tvswh7K3CYE5cvUb0fCGdGLbZFjGh2I9JRHV6EnrqWsnakx3tUeJnmoj0AXZOgy8shOgoT6eT7_AKypbQqmzffyjjWZxTcbD_ztQn2bBztteSxM" />
-    <title lang="de">Falkirk FC - Celtic Glasgow, Scottish Premiership (12. Spieltag)</title>
-  </programme>
   <programme start="20261102005000 +0000" stop="20261102025500 +0000" channel="SPORTDIGITALFUSSBALL.de">
     <category lang="de">Sport</category>
     <category>Sports</category>
@@ -27683,52 +27618,6 @@ Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Star
     <display-name>ES - DAZN LaLiga 2</display-name>
     <icon src="https://iptv-epg.org/images/Vpap7904DHfmz-ZCaUD7d-fSdCAKpgrUgcTlKUo3itCq_0d14wBKbrkpWdM85PHDfHv5x9C8oHklfW-SL-kMvNO2_QaZQAwA67RFHnckhr24ryo" />
   </channel>
-  <programme start="20261101162000 +0000" stop="20261101184000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Segundo contra cuarto de la Premier League. El Liverpool en clara progresión con Iraola y el Arsenal lanzado a por el liderato con Arteta. Duelo de técnicos vascos en Anfield tras competir ante Chelsea y Fleetwood respetivamente entre semana en Copa de la Liga. Reds y gunners sólo han perdido un partido oficial esta temporada.</desc>
-    <icon src="https://iptv-epg.org/images/a-vZ4uxeMIkEpvpHW5zxFQtDEjWy_dxTbpQagMuc2dRVojQuRqFct9dlMZvM4I5PAsirk--p34vNIw_STdsJ_CcoQR6Wd93wCrWKmPzVCbuAKnfY" />
-    <title lang="es">Premier League (T26/27): Liverpool - Arsenal</title>
-    <live />
-  </programme>
-  <programme start="20261101184000 +0000" stop="20261101193100 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S1 E2
-Revive lo mejor de cada fin de semana en ''The Post'', el programa con el mejor análisis y resúmenes de la jornada de fútbol internacional con Jaume Naveira, Nacho González y David Fer a los mandos.</desc>
-    <episode-num>S1 E2</episode-num>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">The Post</title>
-  </programme>
-  <programme start="20261101193100 +0000" stop="20261101195800 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">S2026 — Japón
-Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/PkQjaPNWrykV54pbauvMkbkNG5zNio63Piwuz9fuiO7xEAMiwce3On1VUQhX88ZcKKmX6jjHu9UIANL9JH40lKOPzDqbbYWrpqkJeau5T16HebVM" />
-    <title lang="es">Código MotoGP</title>
-  </programme>
-  <programme start="20261101195800 +0000" stop="20261101210500 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">S2026
-El GP de Malasia es una de las citas más exigentes del mundial. El circuito de Sepang destaca por su clima tropical, lluvias monzónicas y altas temperaturas. Es una pista ancha que combina largas rectas y frenadas fuertes ideales para adelantar.</desc>
-    <episode-num>S2026</episode-num>
-    <icon src="https://iptv-epg.org/images/PPVI1HVBPjRqCytEehqeYHEr0ekgv5gdEgViV_3XVMYHpFbgls8b381nvbW8nZO56zYJPN9L1Sgsg82ek5S0LDzF9wwHVoXgHOYQmoP6LXss1HnM" />
-    <title lang="es">MotoGP - GP de Malasia : Carrera MotoGP</title>
-    <live />
-  </programme>
-  <programme start="20261101210500 +0000" stop="20261102004000 +0000" channel="DAZN1.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Los Rams reciben a los Chargers en el derbi de Los Ángeles de la octava semana de la temporada regular de la NFL.</desc>
-    <icon src="https://iptv-epg.org/images/BXMYkrEVbbNvzMfHDmdZN9xe8DuPypcJxBGF_Me2VSBACsvWZLHM_1yYYMTmQ932mm6JgfyPE7Hu4ufGORaWAynX9HItmE6_pJU684QxIhVagK1m" />
-    <title lang="es">NFL (T26/27): Los Angeles Rams - Los Angeles Chargers</title>
-    <live />
-  </programme>
   <programme start="20261102004000 +0000" stop="20261102044000 +0000" channel="DAZN1.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -28393,22 +28282,6 @@ James Dickens vuelve a encabezar el cartel del gran evento del Día de San Patri
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
-  <programme start="20261101171000 +0000" stop="20261101175000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261101175000 +0000" stop="20261101201000 +0000" channel="DAZN2.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las siete últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden plantar cara.</desc>
-    <icon src="https://iptv-epg.org/images/J8xsQVlOy3EyV-6AJCkxTPbTWVuyehnsXA00tNkJjoNlWkD7Eh4QDGN-paKGCns5mjXBZBjKiYWdTc0KCcMZhxswQ1-hf9AJrpRxhf2PaQZpWSwq" />
-    <title lang="es">Liga F (T26/27): Sevilla - Real Madrid</title>
-    <live />
-  </programme>
-  <programme start="20261101201000 +0000" stop="20261102001000 +0000" channel="DAZN2.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261102001000 +0000" stop="20261102012000 +0000" channel="DAZN2.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -28615,22 +28488,6 @@ Joshua Buatsi y Willy Hutchinson se enfrentan en Wembley por el título interino
     <title lang="es">NFL (T26/27): Chicago Bears - Tampa Bay Buccaneers</title>
     <live />
   </programme>
-  <programme start="20261101171000 +0000" stop="20261101180000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261101180000 +0000" stop="20261101213000 +0000" channel="DAZN3.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defienden título.</desc>
-    <icon src="https://iptv-epg.org/images/BXMYkrEVbbNvzMfHDmdZN9xe8DuPypcJxBGF_Me2VSBACsvWZLHM_1yYYMTmQ932mm6JgfyPE7Hu4ufGORaWAynX9HItmE6_pJU684QxIhVagK1m" />
-    <title lang="es">NFL (T26/27): Buffalo Bills - Baltimore Ravens</title>
-    <live />
-  </programme>
-  <programme start="20261101213000 +0000" stop="20261102010000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
   <programme start="20261102010000 +0000" stop="20261102050000 +0000" channel="DAZN3.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
@@ -28776,14 +28633,6 @@ Joshua Buatsi y Willy Hutchinson se enfrentan en Wembley por el título interino
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
   <programme start="20261108000000 +0000" stop="20261108040000 +0000" channel="DAZN3.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261101170000 +0000" stop="20261101210000 +0000" channel="DAZN4.es">
-    <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
-    <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261101210000 +0000" stop="20261102010000 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
   </programme>
@@ -28938,76 +28787,6 @@ Joshua Buatsi y Willy Hutchinson se enfrentan en Wembley por el título interino
   <programme start="20261107222500 +0000" stop="20261108022500 +0000" channel="DAZN4.es">
     <desc lang="es">Disfruta de DAZN en Movistar Plus.</desc>
     <title lang="es">Disfruta de DAZN en Movistar Plus</title>
-  </programme>
-  <programme start="20261101171500 +0000" stop="20261101174500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Racing - Real Madrid
-Analiza los mejores momentos del partido y escucha a los protagonistas.</desc>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">DAZN Post (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261101174500 +0000" stop="20261101184500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Documentales</category>
-    <date>2026</date>
-    <desc lang="es">José Mourinho vuelve al Real Madrid con un desafío que va mucho más allá de un regreso. El club quiere recuperar su lugar en la cima del fútbol europeo y Mourinho afronta también el reto de volver a ocupar el suyo.</desc>
-    <icon src="https://iptv-epg.org/images/ojR3Mdd2f5bOmk5SSVDeTTCs4hMlnH_ZntUQY0249Bdp6HuXpGXQxcvPrlIyqd2HIIJP23nZokKKxRak73YQFdsC4xp5TnoFTjo5D-Meigg3tJ-Y8fYCCspJmoK0bYVh_PXEBMUJrQ" />
-    <title lang="es">Ganar. El reto de volver a reinar</title>
-  </programme>
-  <programme start="20261101184500 +0000" stop="20261101190000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Ceuta FC - Real Sporting</title>
-  </programme>
-  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Athletic - Real Sociedad
-Disfruta de la previa del partido y conoce quiénes serán los protagonistas del encuentro.</desc>
-    <icon src="https://iptv-epg.org/images/-5Dz8BgW6zVTWtHVzXU40P4Tnk2Wj_ix18v9kq_Ss0fBvxjEwg7v0PgeD981iS6ZMw0cxiEwN-uO7ZsTBNooy25GeX2SQY-zXD4AAk8UufKtzagV" />
-    <title lang="es">DAZN Previa (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261101220000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <icon src="https://iptv-epg.org/images/i8t6lONqIvZJLJXdAEbLD25HurdEw-LgKRj9fSeOorUpub8RRjA4ND-rMRqr9bnETJnI4SCm8FzCL-FKx_xUCslS5kc0ueDIjrw8aOlbNId2j3zh" />
-    <title lang="es">LALIGA EA SPORTS (T26/27): Athletic Club - Real Sociedad</title>
-    <live />
-  </programme>
-  <programme start="20261101220000 +0000" stop="20261101233000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <date>2026</date>
-    <desc lang="es">Programa 8
-La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">El Post de DAZN (T26/27)</title>
-    <live />
-  </programme>
-  <programme start="20261101233000 +0000" stop="20261101234500 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Burgos - CD Castellón</title>
-  </programme>
-  <programme start="20261101234500 +0000" stop="20261102000000 +0000" channel="DAZNLaLiga.es">
-    <category lang="es">Deportes</category>
-    <category lang="es">Sports</category>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <icon src="https://iptv-epg.org/images/m-d26KWsrmmGBm4jF2YSKOSRluyOcvotPNYW04fLAqFnWSpWDdarwax8DCBIGULkjPYge6ciLuxWuJech1hEAIdaIE60ADEYG0bjzbNU57LjKNEn" />
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports (T26/27): Elche - Valencia</title>
-  </programme>
-  <programme start="20261102000000 +0000" stop="20261102040000 +0000" channel="DAZNLaLiga.es">
-    <desc lang="es">DAZN LaLiga.</desc>
-    <title lang="es">DAZN LaLiga</title>
   </programme>
   <programme start="20261102040000 +0000" stop="20261102080000 +0000" channel="DAZNLaLiga.es">
     <desc lang="es">DAZN LaLiga.</desc>
@@ -29819,14 +29598,6 @@ Espacio diario para el repaso de lo más actual del fútbol internacional. De lu
     <desc lang="es">DAZN LaLiga.</desc>
     <title lang="es">DAZN LaLiga</title>
   </programme>
-  <programme start="20261101170000 +0000" stop="20261101210000 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261101210000 +0000" stop="20261102010000 +0000" channel="DAZNLaLiga2.es">
-    <desc lang="es">DAZN LaLiga 2.</desc>
-    <title lang="es">DAZN LaLiga 2</title>
-  </programme>
   <programme start="20261102010000 +0000" stop="20261102040000 +0000" channel="DAZNLaLiga2.es">
     <desc lang="es">DAZN LaLiga 2.</desc>
     <title lang="es">DAZN LaLiga 2</title>
@@ -29983,41 +29754,6 @@ Espacio diario para el repaso de lo más actual del fútbol internacional. De lu
     <display-name>PL - Polsat Sport Premium 2</display-name>
     <icon src="https://iptv-epg.org/images/6MjJoJG_KiMIImKGEzEgUH_s6kM3xIglJNoD3b5rv6fwhxM7KMA25zf5N6KyhqUT-QDkTt9u-X1l2EROrM1eEz3Tptzu1BhKu7x_UiJ7MgT5Ifx4Jp9cSAVfZqA" />
   </channel>
-  <programme start="20261101170000 +0000" stop="20261101200000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">curling</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Curling: Mistrzostwa Europy - Ostrawa 2026 - mecz finałowy.</desc>
-    <icon src="https://iptv-epg.org/images/sDg3QvGLwDx0YETs_sEKxa5y1lVZ-Otrou-9M5V9dX7BgXxhMu9qj6W-IneIuCAFRa3faT8wifPoYeGP7zP23a5sh-lTxF2EpkmilFvR0A" />
-    <title lang="pl">Curling: Mistrzostwa Europy - Ostrawa 2026 - mecz finałowy</title>
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261101210000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Magazyn Ligi Europy i Ligi Konferencji.</desc>
-    <icon src="https://iptv-epg.org/images/wSSpJTiV1RyxelhYIqzsiw7LRL0ylkLqZkb7_1e9ndf2_DTpFr-ve1AU5-G1GWiMu-ruQ8_mfbqEvtjI-jCY8FVgGvZccVxI59qSaWW9nQ" />
-    <title lang="pl">Magazyn Ligi Europy i Ligi Konferencji</title>
-  </programme>
-  <programme start="20261101210000 +0000" stop="20261101223000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Kolejorz przekonał się już, jak trudno zdobywa się punkty w Lidze Europy. Czy wyciągnął wnioski z porażki 0:4 z Crystal Palace? Tego dowiemy się podczas jego meczu z czołową drużyną niemieckiej ekstraklasy. Aptekarzy da się pokonać, co w pierwszej kolejce Bundesligi udowodnił beniaminek, SV 07 Elversberg.</desc>
-    <icon src="https://iptv-epg.org/images/RLNAdCwmxZDEGv4biQmA9CcwJmKjZUpCC9ICuDgcKmk-AgEiISyF9CtqPOwk493wqTd5pd0-Zrrms6JBmEhODVrKHj2d5BvlNECV0TyCvg" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Lech Poznań - Bayer 04 Leverkusen</title>
-  </programme>
-  <programme start="20261101223000 +0000" stop="20261102000000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Na starcie fazy ligowej Ligi Europy Białostoczanie ulegli Olympiakosowi w Pireusie 1:2. W spotkaniu z mistrzem Armenii spróbują pójść śladem Sparty Praga, która miesiąc temu pokonała tego przeciwnika 4:1. Nie należy go jednak lekceważyć. Klub regularnie występuje w europejskich pucharach i potrafi sprawiać problemy faworytom.</desc>
-    <icon src="https://iptv-epg.org/images/UzAqWDGCaUkNUariBxJHGKvBr7kuVInMka57ecqbo3tavsTzbFblZsz4NSXlvEbUehyAocr9lYtb98_abg39TYdQFOj5zoEISvVmNsX8Tw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Jagiellonia Białystok - FC Ararat-Armenia</title>
-  </programme>
-  <programme start="20261102000000 +0000" stop="20261102013000 +0000" channel="PolsatSportPremium1.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Orły z Lizbony w pierwszej kolejce zaskoczyły. Na San Siro niespodziewanie ograły AC Milan 2:0. Teraz Benfica zmierzy się u siebie z Celtikiem. Mistrzowie Szkocji rywalizację w LE rozpoczęli porażką z węgierskim Ferencvarosem (1:3).</desc>
-    <icon src="https://iptv-epg.org/images/3xwQcpa1I0IaiwxhOdled-xlxuaaRYvwfdsqsorHhImZhaw0EeHuI0fpgucxpbXEc1EC4L_6k0-wSwlxnOa1tiuBvQQ5NwbMY01wbOLNgA" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: SL Benfica - Celtic FC</title>
-  </programme>
   <programme start="20261102013000 +0000" stop="20261102030000 +0000" channel="PolsatSportPremium1.pl">
     <category lang="pl">piłka nożna</category>
     <category lang="pl">Sports</category>
@@ -30564,41 +30300,6 @@ Espacio diario para el repaso de lo más actual del fútbol internacional. De lu
     <desc lang="pl">Brak zaplanowanych transmisji sportowych.</desc>
     <icon src="https://iptv-epg.org/images/8mnpRIu8VhvkF3Eoh9Hz1oHkGzP9f5FmpVmPATxn74rmOO-6pnGHx3PaAQp6OtuOcIFSxIIXyntdCPb2vBSIbeMGHMAipWsWB7lAPqw4kw" />
     <title lang="pl">Brak zaplanowanych transmisji sportowych</title>
-  </programme>
-  <programme start="20261101173000 +0000" stop="20261101190000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Zarówno Real Sociedad, jak i Bournemouth nie radzą sobie najlepiej na początku rozgrywek ligowych na krajowym podwórku. Hiszpański zespół po sześciu kolejkach ma zaledwie siedem punktów, natomiast angielski po czterech spotkaniach zgromadził tylko trzy. Teraz obie ekipy zmierzą się w ramach 1. kolejki Ligi Europy, a spotkanie zapowiada się na wyjątkowo wyrównane.</desc>
-    <icon src="https://iptv-epg.org/images/Q6XynMDle5-wCNHUvhxcw6tk6dDOlHbd4HNnxwBVBEc5Z-1l5xR5q-PS5WGqnW8H1mbS13akZ5qRnHWQNQn4jsoInHEWRKUSXg0g-PnM3w" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Real Sociedad - AFC Bournemouth</title>
-  </programme>
-  <programme start="20261101190000 +0000" stop="20261101203000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Celtic FC w ramach pierwszej kolejki Ligi Europy zmierzy się w Glasgow z węgierskim Ferencvarosi TC. Szkocka ekipa w lidze radzi sobie bardzo dobrze, wygrywając wszystkie sześć dotychczasowych spotkań. Mimo to Celtowie odpadli już z krajowego pucharu, przegrywając z Rangers 0:3. Goście natomiast nie przegrali jeszcze w tym sezonie. Faworytem spotkania pozostaje jednak zespół gospodarzy.</desc>
-    <icon src="https://iptv-epg.org/images/6R6q5eQD2PDWlsUNTK0-9dWnQp_HV8onCkgonBQQKQ8Va36cWR3n31j4ShIiSBCm6CLh155TEaxkh3kV28cCk6X5Nx2G_vjPiZCX3LAwmw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Celtic FC - Ferencvárosi TC</title>
-  </programme>
-  <programme start="20261101203000 +0000" stop="20261101220000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Rozstawienie i szczęście w losowaniu sprawiło, że w drodze do fazy ligowej Ligi Europy Beşiktaş JK uniknął topowych rywali. Teraz poprzeczka idzie jednak w górę, a klub ze Stambułu czeka kilka wymagających starć. Jednym z nich będzie pojedynek z Olympique Marsylia. Francuzi wierzą, że uda im się powalczyć o wygraną w całych rozgrywkach.</desc>
-    <icon src="https://iptv-epg.org/images/h5J6RVC60kGlqBTSpBGLcWH6uYiAwTBsNNo2awEEmQeRc7DxyiVuhcN5l8BqUxzm7lU6uGm5uru2xQfCIncAanvQYl_b5EYjGP1TrAdqvA" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: Beşiktaş JK - Olympique Marsylia</title>
-  </programme>
-  <programme start="20261101220000 +0000" stop="20261101233000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Udany początek sezonu na belgijskich boiskach sprawia, że Royale Union Saint-Gilloise liczy na dobre otwarcie również w rozgrywkach Ligi Europy. Szanse podopiecznych Davida Huberta są tym większe, że ich pierwszy rywal, FC Viktoria Pilzno, nie prezentuje w ostatnich tygodniach najlepszej dyspozycji.</desc>
-    <icon src="https://iptv-epg.org/images/4nRvZZSTdOwuZohh2Pma1XPRYSO0CfobqPqSFGyKE0_3PEw1w5zOzFyEWp6s9tbr8lWx4yrBn8GmDNruDd2G2aQMhlJh2kodxldm3cRzLw" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: FC Viktoria Pilzno - Royale Union Saint-Gilloise</title>
-  </programme>
-  <programme start="20261101233000 +0000" stop="20261102010000 +0000" channel="PolsatSportPremium2.pl">
-    <category lang="pl">piłka nożna</category>
-    <category lang="pl">Sports</category>
-    <desc lang="pl">Milan rozgrywki rozpoczął do falstartu. Na San Siro niespodziewanie przegrał z Benficą 0:2. O pierwsze zwycięstwo będzie musiał walczyć na wyjeździe. A czeka go wizyta w Austrii, gdzie zmierzy się z Salzburgiem. Byki zmagania w LE otworzyły zwycięstwem z Lewskim Sofia (1:0).</desc>
-    <icon src="https://iptv-epg.org/images/ZO7Akl4GvYax8n1Z3nNDHWmZnZtaHqON8QiY3IfrPQGZSXm_GSzyzUTYLVTcJPdWzGRPkZyFrO7svg_w2kgjTD34-ADDMr4O-LK7KabkOA" />
-    <title lang="pl">Piłka nożna: Liga Europy UEFA - mecz: FC Salzburg - AC Milan</title>
   </programme>
   <programme start="20261102010000 +0000" stop="20261102043000 +0000" channel="PolsatSportPremium2.pl">
     <category lang="pl">curling</category>
@@ -31165,26 +30866,6 @@ Archiwum Ligi Konferencji UEFA.</desc>
     <display-name>IL - ספורט 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20261101171000 +0000" stop="20261101173000 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: כדורגל. הפועל חיפה נגד עירוני טבריה, גביע הטוטו, מחזור 2.</desc>
-    <icon src="https://iptv-epg.org/images/6cbOZaUgg6xTZpLD4YcK0pbQwktw4sU3bTH_ppL-wsLTUwYw9lZ_V0-hCUrDmz-zMq99QSTI-EYzF2lhJIps1zC-GredD4TA5OcuoJA" />
-    <title lang="he">ה. חיפה - ע. טבריה</title>
-  </programme>
-  <programme start="20261101173000 +0000" stop="20261101194500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי ארה''ב: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
-  <programme start="20261101194500 +0000" stop="20261101221500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור ישיר: מירוצים. פורמולה 1, גרנד פרי מקסיקו 2026: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/RMgs4E03jF4ODfBga72S0u-apQDZBjbvqOqUZ181Y1dc50A2bGexWPMhkPXi13fRVko4xdk4jqxRErEaG-XX1wezSCqZalsvd_E-vEs" />
-    <title lang="he">ישיר! פורמולה 1</title>
-  </programme>
-  <programme start="20261101221500 +0000" stop="20261102004500 +0000" channel="5SPORT4K.il">
-    <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי מקסיקו 2026: המירוץ.</desc>
-    <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
-    <title lang="he">פורמולה 1</title>
-  </programme>
   <programme start="20261102004500 +0000" stop="20261102031500 +0000" channel="5SPORT4K.il">
     <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי מקסיקו 2026: המירוץ.</desc>
     <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
@@ -31599,46 +31280,6 @@ Archiwum Ligi Konferencji UEFA.</desc>
     <desc lang="he">שידור חוזר: מירוצים. פורמולה 1, גרנד פרי מקסיקו 2026: המירוץ.</desc>
     <icon src="https://iptv-epg.org/images/SF90fVj0LXtQXFnc0UG0HSBbAedazKweegFhI9M_WSIXK6vTiZyCtr0YDfPMOldQgkeaNkaZAah1bLaD-fdNT6ysVX-KUn7jpfkLgBQ" />
     <title lang="he">פורמולה 1</title>
-  </programme>
-  <programme start="20261101170000 +0000" stop="20261101171500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. מכבי נתניה - הפועל ירושלים, ליגת ווינר, מחזור 9, עונת 2026/27. החבורה של רוני לוי תנסה להשיג 3 נקודות, האורחת להתאושש אחרי 3 הפסדים רצופים. שדר: יורם ארבל, פרשן: אלון חרזי.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">מ. נתניה - ה. י-ם</title>
-  </programme>
-  <programme start="20261101171500 +0000" stop="20261101173000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. בית''ר ירושלים - הפועל ק''ש, ליגת ווינר, מחזור 9, עונת 2026/27. בית''ר ושועה רוצים עוד ניצחון בצמרת, האורחת מגיעה אחרי 6 הפסדים רצופים ותנסה להפתיע. שדר: שרון ניסים, פרשן: מוטי איוניר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">בית''ר י-ם - ה. ק''ש</title>
-  </programme>
-  <programme start="20261101173000 +0000" stop="20261101201500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור ישיר: כדורגל. מכבי פתח תקווה - הפועל באר שבע, ליגת ווינר, מחזור 9, עונת 2026/27. אחרי הניצחון הענק בסמי עופר, האדומים רוצים להמשיך במומנטום מול החבורה של זיו אריה. שדר: מוטי חביב, פרשן: גילי ורמוט.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">ישיר! מ. פ''ת - ה. ב''ש</title>
-  </programme>
-  <programme start="20261101201500 +0000" stop="20261101205000 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: עונה שמינית לתוכנית הראיונות המצליחה של לירן שכנר. והפעם: כוכב העבר, בן שהר, חלק א'.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">סערה בממלכה (בן שהר, חלק א')</title>
-  </programme>
-  <programme start="20261101205000 +0000" stop="20261101210500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">כדורגל. בית''ר ירושלים - הפועל ק''ש, ליגת ווינר, מחזור 9, עונת 2026/27. בית''ר ושועה רוצים עוד ניצחון בצמרת, האורחת מגיעה אחרי 6 הפסדים רצופים ותנסה להפתיע. שדר: שרון ניסים, פרשן: מוטי איוניר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">בית''ר י-ם - ה. ק''ש</title>
-  </programme>
-  <programme start="20261101210500 +0000" stop="20261101225500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. בוקה ג'וניורס - ריבר פלייט. הליגה הארגנטינאית, מחזור 15, עונת 2026/27. בוקה וריבר בסופר קלאסיקו הענק, מנסות לשפר עמדות לפני הפלייאוף. שדר: דור הופמן, פרשן: יהודה ארם.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">בוקה ג'וניורס - ריבר פלייט</title>
-  </programme>
-  <programme start="20261101225500 +0000" stop="20261101231500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. ליברפול - ארסנל, הליגה האנגלית, מחזור 9, עונת 2026/27. מפגש ענק באנפילד. המייטירדס יכולים להתקרב לארסנל, שמחפשת ניצחון 4 ברציפות. שדר: לירן שכנר, פרשן: אורי קופר.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">ליברפול - ארסנל</title>
-  </programme>
-  <programme start="20261101231500 +0000" stop="20261102010500 +0000" channel="ספורט4HD.il">
-    <desc lang="he">שידור חוזר: כדורגל. לאציו - קליארי. ליגה איטלקית, מחזור 10, עונת 2026/27. לאציו הלוהטת רוצה ניצחון 6 ברציפות במאבק על הפסגה, שדר: שימי ששון, פרשן: תומר קשטן.</desc>
-    <icon src="https://iptv-epg.org/images/6LbGvbwa7r9bX4mCutlbgvMIWJui8crkisx3fJUfDQvwXmOCp2WsdNKDos5ndjXbl8yvQ6jqYc1KGCTjSxYnmK-33OBX-JXhqbOVwGE" />
-    <title lang="he">לאציו - קליארי</title>
   </programme>
   <programme start="20261102010500 +0000" stop="20261102025500 +0000" channel="ספורט4HD.il">
     <desc lang="he">שידור חוזר: כדורסל. מלאגה - ברצלונה. סל ספרדי, מחזור 6, עונת 2026/27. בארסה פוגשת את מלאגה כששתי הקבוצות עם מאזן זהה. שדר: ליאור טימור, פרשן: מאיר טפירו.</desc>
